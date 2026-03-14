@@ -50,3 +50,9 @@ dependencyManagement {
 tasks.named('test') {
 	useJUnitPlatform()
 }
+
+// Ensure only the executable fat JAR is built, avoiding "no main manifest attribute" errors
+jar {
+    enabled = false
+}
+

@@ -9,7 +9,7 @@ RUN ./gradlew build --no-daemon -x test
 # Package stage
 FROM eclipse-temurin:17-jdk-jammy
 EXPOSE 8080
-# Copy the executable jar (ignoring the -plain.jar)
-COPY --from=build /home/gradle/src/build/libs/*[!plain].jar app.jar
+# Copy the executable jar
+COPY --from=build /home/gradle/src/build/libs/*.jar app.jar
 ENTRYPOINT ["java", "-jar", "/app.jar"]
 
