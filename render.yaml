@@ -1,11 +1,10 @@
-services:
-  # Database
-  - type: database
-    name: npte-db
+databases:
+  - name: npte-db
     databaseName: npte_portal
     user: npte
     plan: free
 
+services:
   # Backend
   - type: web
     name: npte-backend
