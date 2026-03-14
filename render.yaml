@@ -17,7 +17,8 @@ services:
       - key: SPRING_DATASOURCE_URL
         fromDatabase:
           name: npte-db
-          property: connectionString
+          property: host
+        generateValue: jdbc:postgresql://${VALUE}/npte_portal
       - key: SPRING_DATASOURCE_USERNAME
         fromDatabase:
           name: npte-db
