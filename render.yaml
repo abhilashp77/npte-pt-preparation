@@ -52,4 +52,4 @@ services:
         fromService:
           name: npte-backend
           type: web
-          property: host
+          property: url
