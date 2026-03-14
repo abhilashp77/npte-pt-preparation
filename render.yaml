@@ -34,7 +34,7 @@ services:
         sync: false
 
   # Frontend
-  - type: static
+  - type: static_site
     name: npte-frontend
     env: static
     buildCommand: cd frontend && npm install && npm run build
