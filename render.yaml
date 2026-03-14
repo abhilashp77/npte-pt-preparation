@@ -1,0 +1,50 @@
+services:
+  # Database
+  - type: database
+    name: npte-db
+    databaseName: npte_portal
+    user: npte
+    plan: free
+
+  # Backend
+  - type: web
+    name: npte-backend
+    env: docker
+    dockerContext: backend
+    dockerfilePath: Dockerfile
+    plan: free
+    region: ohio
+    envVars:
+      - key: SPRING_DATASOURCE_URL
+        fromDatabase:
+          name: npte-db
+          property: connectionString
+      - key: SPRING_DATASOURCE_USERNAME
+        fromDatabase:
+          name: npte-db
+          property: user
+      - key: SPRING_DATASOURCE_PASSWORD
+        fromDatabase:
+          name: npte-db
+          property: password
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+
+  # Frontend
+  - type: static
+    name: npte-frontend
+    env: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/dist
+    plan: free
+    region: ohio
+    envVars:
+      - key: VITE_API_BASE_URL
+        fromService:
+          name: npte-backend
+          type: web
+          property: host
