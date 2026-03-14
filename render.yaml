@@ -40,7 +40,6 @@ services:
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: frontend/dist
     plan: free
-    region: ohio
     envVars:
       - key: VITE_API_BASE_URL
         fromService:
