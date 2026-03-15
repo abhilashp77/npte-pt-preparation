@@ -12,7 +12,7 @@ services:
     dockerContext: backend
     dockerfilePath: backend/Dockerfile
     plan: free
-    region: ohio
+    region: oregon
     envVars:
       - key: DB_HOST
         fromDatabase:
@@ -47,6 +47,7 @@ services:
     runtime: static
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: frontend/dist
+    region: oregon
     envVars:
       - key: VITE_API_BASE_URL
         fromService:
