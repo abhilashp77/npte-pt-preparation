@@ -3,9 +3,20 @@ import type { Question, SubmitAnswerRequest, SubmitAnswerResponse } from './type
 
 const getBaseUrl = () => {
   const envUrl = import.meta.env.VITE_API_BASE_URL;
+  
+  // Check if we're running on Render or if the env var is missing/incorrect
+  const isProduction = typeof window !== 'undefined' && window.location.hostname.includes('onrender.com');
+  
+  if (isProduction) {
+    // Force the public production URL if the env var looks like an internal host or is missing
+    if (!envUrl || !envUrl.includes('.onrender.com')) {
+      return 'https://npte-backend.onrender.com/api';
+    }
+  }
+
   if (!envUrl) return 'http://localhost:8080/api';
   
-  // If the URL doesn't start with http/https, prepend https:// (Render provides just the host)
+  // If the URL doesn't start with http/https, prepend https://
   const normalizedUrl = envUrl.startsWith('http') ? envUrl : `https://${envUrl}`;
   return normalizedUrl.endsWith('/api') ? normalizedUrl : `${normalizedUrl}/api`;
 };
