@@ -73,12 +73,13 @@ export default function ExplanationCard({
               </h4>
               <ul className="list-disc list-inside space-y-1 text-slate-600 bg-amber-50/30 p-4 rounded-xl border border-amber-100">
                 {explanation.references.map((ref, i) => {
-                  const isUrl = ref.startsWith('http');
+                  const isUrl = ref.trim().toLowerCase().startsWith('http');
+                  const normalizedRef = ref.trim();
                   return (
                     <li key={i}>
                       {isUrl ? (
                         <a 
-                          href={ref} 
+                          href={normalizedRef} 
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-brand-600 hover:text-brand-700 underline break-all"
