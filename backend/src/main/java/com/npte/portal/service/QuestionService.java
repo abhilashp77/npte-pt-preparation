@@ -51,7 +51,7 @@ public class QuestionService {
         options.add(answer.getOptionD());
 
         return QuestionDto.builder()
-                .id(question.getId())
+                
                 .question(question.getQuestionText())
                 .options(options)
                 .difficulty(question.getDifficulty())
