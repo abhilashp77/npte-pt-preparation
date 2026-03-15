@@ -43,9 +43,8 @@ services:
         sync: false
 
   # Frontend
-  - type: web
+  - type: static_site
     name: npte-frontend
-    runtime: static
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: frontend/dist
     envVars:
@@ -54,3 +53,4 @@ services:
           name: npte-backend
           type: web
           property: host
+
