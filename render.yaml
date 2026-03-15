@@ -12,7 +12,7 @@ services:
     dockerContext: backend
     dockerfilePath: backend/Dockerfile
     plan: free
-    region: oregon
+    region: ohio
     envVars:
       - key: DB_HOST
         fromDatabase:
