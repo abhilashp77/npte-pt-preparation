@@ -17,3 +17,11 @@ export interface SubmitAnswerResponse {
   references: string[];
   images: string[];
 }
+
+export interface Topic {
+  title: string;
+  category: string;
+  content: string;
+  references: string[];
+  imageUrls: string[];
+}

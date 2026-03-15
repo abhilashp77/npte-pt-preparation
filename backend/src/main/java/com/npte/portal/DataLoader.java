@@ -24,16 +24,42 @@ import java.util.Map;
 public class DataLoader implements CommandLineRunner {
 
     private final QuestionRepository questionRepository;
+    private final com.npte.portal.repository.TopicRepository topicRepository;
     private final ObjectMapper objectMapper;
     private final ResourceLoader resourceLoader;
 
     @Override
     public void run(String... args) {
-        if (questionRepository.count() < 15000) { // Support 10,000 questions
+        if (questionRepository.count() < 15000) {
             log.info("Database is sparse ({} questions). Starting bulk seed...", questionRepository.count());
             loadBulkData();
         } else {
             log.info("Database already contains {} questions. Skipping bulk seed.", questionRepository.count());
+        }
+
+        if (topicRepository.count() < 1000) {
+            log.info("Syllabus bank is sparse ({} topics). Starting bulk topic seed...", topicRepository.count());
+            loadTopicData();
+        } else {
+            log.info("Syllabus bank already contains {} topics. Skipping bulk seed.", topicRepository.count());
+        }
+    }
+
+    private void loadTopicData() {
+        try {
+            Resource resource = resourceLoader.getResource("classpath:topics-seed.json");
+            if (!resource.exists()) {
+                log.warn("topics-seed.json not found. Skipping topic seeding.");
+                return;
+            }
+            InputStream inputStream = resource.getInputStream();
+            List<com.npte.portal.domain.Topic> topics = objectMapper.readValue(inputStream, new TypeReference<>() {});
+            
+            topicRepository.deleteAll(); // Force refresh
+            topicRepository.saveAll(topics);
+            log.info("Successfully seeded {} syllabus topics into the database.", topics.size());
+        } catch (Exception e) {
+            log.error("Failed to load topic seed data: {}", e.getMessage());
         }
     }
 

@@ -22,7 +22,6 @@ import java.util.stream.Collectors;
 public class QuestionService {
 
     private final QuestionRepository questionRepository;
-    private final AiQuestionGeneratorService aiQuestionGeneratorService;
 
     public QuestionDto getRandomQuestion(Long excludeId) {
         Question question;
@@ -38,12 +37,10 @@ public class QuestionService {
             question = questionRepository.findRandomQuestion().orElse(null);
         }
 
-        // If no questions exist, or we want to force AI generation occasionally, we generate one
+        // If no questions exist, we must fail gracefully
         if (question == null) {
-            log.info("No fresh questions found in database. Triggering AI Generation...");
-            question = aiQuestionGeneratorService.generateNewQuestion();
-            question = questionRepository.save(question); // Save it so we can reuse it later!
-            log.info("Successfully generated and saved new question ID: {}", question.getId());
+            log.error("No questions found in database. Manual seeding required.");
+            throw new RuntimeException("No questions available in the content bank.");
         }
 
         Answer answer = question.getAnswer();
@@ -63,26 +60,8 @@ public class QuestionService {
     }
 
     public QuestionDto forceGenerateAiQuestion() {
-        log.info("Forcing explicit AI Question Generation via API...");
-        Question question = aiQuestionGeneratorService.generateNewQuestion();
-        question = questionRepository.save(question);
-        log.info("Successfully generated and saved new AI question ID: {}", question.getId());
-
-        Answer answer = question.getAnswer();
-        List<String> options = new ArrayList<>();
-        options.add(answer.getOptionA());
-        options.add(answer.getOptionB());
-        options.add(answer.getOptionC());
-        options.add(answer.getOptionD());
-        Collections.shuffle(options);
-
-        return QuestionDto.builder()
-                .id(question.getId())
-                .question(question.getQuestionText())
-                .options(options)
-                .difficulty(question.getDifficulty())
-                .system(question.getBodySystem())
-                .build();
+        log.info("Manual Data Management Mode: AI Generation disabled. Serving random question from content bank.");
+        return getRandomQuestion(null);
     }
 
     public SubmitAnswerResponse submitAnswer(SubmitAnswerRequest request) {

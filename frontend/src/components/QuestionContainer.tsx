@@ -74,7 +74,7 @@ export default function QuestionContainer() {
       <div className="flex flex-col items-center justify-center py-24 text-slate-500">
         <Loader2 className="animate-spin mb-4" size={48} />
         <p className="text-lg font-medium animate-pulse">
-            {isGeneratingNext ? "AI is generating a new clinical scenario..." : "Loading question..."}
+            {isGeneratingNext ? "Preparing next clinical scenario..." : "Loading question..."}
         </p>
       </div>
     );
@@ -101,7 +101,7 @@ export default function QuestionContainer() {
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 flex items-start gap-3">
           <span className="text-amber-500 text-xl mt-0.5">⚠️</span>
           <div className="flex-1">
-            <h4 className="font-semibold text-amber-800 mb-1">AI Credits Exhausted</h4>
+            <h4 className="font-semibold text-amber-800 mb-1">Content Update Notice</h4>
             <p className="text-amber-700 text-sm">{aiError}</p>
           </div>
           <button 

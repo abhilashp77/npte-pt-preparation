@@ -3,6 +3,8 @@ package com.npte.portal.controller;
 import com.npte.portal.dto.QuestionDto;
 import com.npte.portal.dto.SubmitAnswerRequest;
 import com.npte.portal.dto.SubmitAnswerResponse;
+import com.npte.portal.dto.TopicDto;
+import com.npte.portal.service.AiTopicService;
 import com.npte.portal.service.QuestionService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
@@ -14,6 +16,7 @@ import org.springframework.web.bind.annotation.*;
 public class QuestionController {
 
     private final QuestionService questionService;
+    private final AiTopicService aiTopicService;
 
     @GetMapping("/random")
     public QuestionDto getRandomQuestion(@RequestParam(required = false) Long excludeId) {
@@ -33,5 +36,10 @@ public class QuestionController {
     @GetMapping("/generate")
     public QuestionDto generateAiQuestion() {
         return questionService.forceGenerateAiQuestion();
+    }
+
+    @GetMapping("/topics/random")
+    public TopicDto getRandomTopic() {
+        return aiTopicService.generateRandomTopic();
     }
 }
