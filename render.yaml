@@ -3,6 +3,7 @@ databases:
     databaseName: npte_portal
     user: npte
     plan: free
+    region: oregon
 
 services:
   # Backend
@@ -12,7 +13,7 @@ services:
     dockerContext: backend
     dockerfilePath: backend/Dockerfile
     plan: free
-    region: ohio
+    region: oregon
     envVars:
       - key: DB_HOST
         fromDatabase:
