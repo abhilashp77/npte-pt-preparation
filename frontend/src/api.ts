@@ -1,8 +1,17 @@
 import axios from 'axios';
 import type { Question, SubmitAnswerRequest, SubmitAnswerResponse } from './types';
 
+const getBaseUrl = () => {
+  const envUrl = import.meta.env.VITE_API_BASE_URL;
+  if (!envUrl) return 'http://localhost:8080/api';
+  
+  // If the URL doesn't start with http/https, prepend https:// (Render provides just the host)
+  const normalizedUrl = envUrl.startsWith('http') ? envUrl : `https://${envUrl}`;
+  return normalizedUrl.endsWith('/api') ? normalizedUrl : `${normalizedUrl}/api`;
+};
+
 const apiClient = axios.create({
-  baseURL: (import.meta.env.VITE_API_BASE_URL || 'http://localhost:8080') + '/api',
+  baseURL: getBaseUrl(),
 });
 
 export const fetchRandomQuestion = async (excludeId?: number): Promise<Question> => {
