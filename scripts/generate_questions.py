@@ -169,8 +169,8 @@ def generate_questions(count=1000):
     return questions
 
 if __name__ == "__main__":
-    # Generate 2000 questions (Phase 8 requirement)
-    count = 2000
+    # Generate 10000 questions (Phase 8 requirement)
+    count = 10000
     data = generate_questions(count)
     import os
     # Ensure directory exists or use absolute path

@@ -29,7 +29,7 @@ public class DataLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-        if (questionRepository.count() < 10000) { // Force refresh to fix URLs
+        if (questionRepository.count() < 15000) { // Support 10,000 questions
             log.info("Database is sparse ({} questions). Starting bulk seed...", questionRepository.count());
             loadBulkData();
         } else {
