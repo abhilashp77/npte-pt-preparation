@@ -29,7 +29,7 @@ public class DataLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-        if (questionRepository.count() < 2000) { // Seed if database is sparse
+        if (questionRepository.count() < 2100) { // Seed to ensure URLs are updated
             log.info("Database is sparse ({} questions). Starting bulk seed...", questionRepository.count());
             loadBulkData();
         } else {
@@ -102,7 +102,11 @@ public class DataLoader implements CommandLineRunner {
 
         Explanation e1 = Explanation.builder()
                 .explanationText("During exercise training in patients with COPD, oxygen saturation should generally remain above 88% to prevent hypoxemia and maintain safe oxygen delivery to tissues. \n\nWhy the others are incorrect:\nA: 80% is severe hypoxemia\nB: 85% still unsafe\nD: 96% is ideal but not necessary during exercise")
-                .references(List.of("ACSM Guidelines for Exercise Testing", "Cardiopulmonary Physical Therapy", "FSBPT Content Outline"))
+                .references(List.of(
+                        "https://www.acsm.org/education-resources/books/guidelines-exercise-testing-prescription",
+                        "https://www.physio-pedia.com/COPD_Physical_Therapy_Management",
+                        "https://www.fsbpt.org/Exam-Candidates/National-Physical-Therapy-Examination-NPTE/Content-Outline"
+                ))
                 .build();
 
         q1.setAnswer(a1);
@@ -125,7 +129,7 @@ public class DataLoader implements CommandLineRunner {
 
         Explanation e2 = Explanation.builder()
                 .explanationText("L4 myotome contributes significantly to ankle dorsiflexion via tibialis anterior.")
-                .references(List.of("Neurology for the Physical Therapist"))
+                .references(List.of("https://www.physio-pedia.com/Lumbosacral_Radiculopathy"))
                 .build();
 
         q2.setAnswer(a2);
@@ -148,7 +152,7 @@ public class DataLoader implements CommandLineRunner {
 
         Explanation e3 = Explanation.builder()
                 .explanationText("A left middle cerebral artery (MCA) stroke typically presents with contralateral (right-sided) hemiparesis, contralateral hemianopsia, and aphasia (if the lesion is in the dominant hemisphere, which is typically the left).")
-                .references(List.of("Neuroanatomy through Clinical Cases"))
+                .references(List.of("https://www.physio-pedia.com/Middle_Cerebral_Artery_Stroke"))
                 .build();
 
         q3.setAnswer(a3);
@@ -171,7 +175,7 @@ public class DataLoader implements CommandLineRunner {
 
         Explanation e4 = Explanation.builder()
                 .explanationText("According to the Rule of Nines:\nAnterior right arm = 4.5%\nAnterior right leg = 9%\nTotal = 13.5%")
-                .references(List.of("Wound Care: A Collaborative Practice Manual for Health Professionals"))
+                .references(List.of("https://www.physio-pedia.com/Burns"))
                 .build();
 
         q4.setAnswer(a4);
@@ -194,7 +198,7 @@ public class DataLoader implements CommandLineRunner {
 
         Explanation e5 = Explanation.builder()
                 .explanationText("A steppage gait is characterized by excessive hip and knee flexion during the swing phase to compensate for foot drop, which is caused by weakness of the ankle dorsiflexors (e.g., tibialis anterior).")
-                .references(List.of("Observational Gait Analysis"))
+                .references(List.of("https://www.physio-pedia.com/Gait_Analysis"))
                 .build();
 
         q5.setAnswer(a5);

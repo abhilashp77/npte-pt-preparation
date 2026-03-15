@@ -105,7 +105,7 @@ def generate_questions(count=1000):
             distractors = random.sample(list(set([x['nerve'] for x in muscles if x['nerve'] != correct])), 3)
             system = "Musculoskeletal"
             explanation = f"The {m['name']} is responsible for {m['action'].lower()} and is innervated by the {m['nerve']} ({m['root']}). Weakness in this muscle group suggests a lesion anywhere along the {m['nerve']} or the corresponding spinal roots."
-            refs = ["Dutton's Orthopaedic Examination", "Gray's Anatomy for Students"]
+            refs = ["https://www.physio-pedia.com/Muscle_Innervation", "https://www.orthobullets.com/anatomy/10001/muscles-of-the-hip"]
             
         elif type_choice == 2: # Gait
             g = random.choice(gait_issues)
@@ -114,7 +114,7 @@ def generate_questions(count=1000):
             distractors = random.sample(list(set([x['cause'] for x in gait_issues if x['cause'] != correct])), 3)
             system = "Musculoskeletal"
             explanation = f"{g['deviation']} is a classic gait deviation where {g['side']}. It is primarily caused by {g['cause']}. Accurate identification of the root cause is essential for determining the appropriate orthotic or therapeutic intervention."
-            refs = ["Observational Gait Analysis: A Visual Guide", "Magee's Orthopedic Physical Assessment"]
+            refs = ["https://www.physio-pedia.com/Gait_Analysis", "https://observationalgaitanalysis.com/"]
             
         elif type_choice == 3: # Cardiopulmonary
             cp = random.choice(cp_scenarios)
@@ -124,7 +124,7 @@ def generate_questions(count=1000):
             distractors = random.sample(list(set(others)), 3)
             system = "Cardiovascular & Pulmonary"
             explanation = f"{cp['finding']} is indicative of {cp['significance'].lower()}, which requires the therapist to {cp['action'].lower()} for patient safety. Monitoring vital signs and recognizing red flags is a critical competency for physical therapists in all settings."
-            refs = ["ACSM's Guidelines for Exercise Testing and Prescription", "Essentials of Cardiopulmonary Physical Therapy"]
+            refs = ["https://www.acsm.org/education-resources/books/guidelines-exercise-testing-prescription", "https://www.physio-pedia.com/Cardiovascular_and_Pulmonary_Systems"]
 
         elif type_choice == 4: # Pediatric Highlights
             milestones = [
@@ -138,7 +138,7 @@ def generate_questions(count=1000):
             distractors = ["Cruising along furniture", "Climbing stairs with railing", "Hopping on one foot"]
             system = "Other Systems"
             explanation = f"By {mile['age']}, most infants have developed the core stability and motor control required for {mile['skill'].lower()}. These milestones are used to track neurological and musculoskeletal development and identify potential delays early."
-            refs = ["Campbell's Physical Therapy for Children", "Tecklin's Pediatric Physical Therapy"]
+            refs = ["https://www.physio-pedia.com/Developmental_Milestones", "https://pediatricapta.org/"]
 
         else: # Specialized Case Study
             cs = random.choice(case_studies)
@@ -150,7 +150,7 @@ def generate_questions(count=1000):
             refs = cs['refs']
 
         # Final packaging
-        options = distractors + [correct]
+        options = list(distractors) + [correct]
         random.shuffle(options)
         opt_map = {"A": options[0], "B": options[1], "C": options[2], "D": options[3]}
         ans_key = [k for k, v in opt_map.items() if v == correct][0]
