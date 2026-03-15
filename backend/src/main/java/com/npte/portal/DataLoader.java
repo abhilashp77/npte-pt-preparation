@@ -29,7 +29,7 @@ public class DataLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-        if (questionRepository.count() < 100) { // Seed if database is sparse
+        if (questionRepository.count() < 2000) { // Seed if database is sparse
             log.info("Database is sparse ({} questions). Starting bulk seed...", questionRepository.count());
             loadBulkData();
         } else {

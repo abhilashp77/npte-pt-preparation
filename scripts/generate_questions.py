@@ -40,42 +40,93 @@ def generate_questions(count=1000):
         {"finding": "Borg Scale RPE of 15/20", "significance": "Hard exertion", "action": "Monitor closely, consistent with aerobic training targets"},
     ]
 
+    # Specialized high-difficulty Case Studies (Phase 8)
+    case_studies = [
+        {
+            "scenario": "A 52-year-old male with a history of Type 2 Diabetes and smoking presents with intermittent claudication. He reports pain in the calf while walking that is relieved by rest. On examination, his ankle-brachial index (ABI) is 0.65.",
+            "question": "Which of the following interventions is MOST appropriate for this patient's initial exercise program?",
+            "correct": "Walking program at an intensity that produces symptoms within 3 to 5 minutes",
+            "distractors": ["High-impact aerobic dancing", "Passive stretching of the gastrocnemius", "Complete bed rest until symptoms resolve"],
+            "system": "Cardiovascular & Pulmonary",
+            "explanation": "Intermittent claudication is a hallmark of Peripheral Artery Disease (PAD). An ABI of 0.65 indicates moderate arterial insufficiency. For these patients, a supervised walking program is the gold standard for improving functional capacity. The program should involve walking until the patient reaches moderate pain, followed by rest, which stimulates collateral circulation. Total bed rest or low-intensity passive stretching will not address the physiological need for vascular adaptation.",
+            "refs": ["https://www.choosept.com/guide/physical-therapy-guide-peripheral-artery-disease", "ACSM's Guidelines for Exercise Testing"]
+        },
+        {
+            "scenario": "A patient following a stroke demonstrates a significant knee hyperextension (genu recurvatum) during the midstance phase of gait. You note significant weakness in the quadriceps muscle group (3/5 MMT) and moderate spasticity in the plantarflexors.",
+            "question": "Which orthotic adjustment or intervention is MOST likely to improve this specific gait deviation?",
+            "correct": "Ankle-foot orthosis (AFO) set in 5 degrees of dorsiflexion",
+            "distractors": ["Setting the AFO in 5 degrees of plantarflexion", "Applying a heel lift to the contralateral limb", "Using a knee cage to lock the joint"],
+            "system": "Neuromuscular & Nervous",
+            "explanation": "Knee hyperextension in stance is often caused by either weak quadriceps (unable to control knee flexion) or tight/spastic plantarflexors (pulling the tibia back). By setting an AFO in a few degrees of dorsiflexion, you create a flexion moment at the knee during stance, which physically prevents the 'snapping back' into hyperextension. Setting it in plantarflexion would actually worsen the hyperextension. A heel lift on the other side does not address the biomechanical fault of the affected limb.",
+            "refs": ["https://edubirdie.com/examples/orthotics-and-prosthetics-in-physical-therapy/", "Magee's Orthopedic Physical Assessment"]
+        },
+        {
+            "scenario": "A 28-year-old marathon runner presents with sharp pain on the lateral aspect of the knee that is most severe when the knee is in 30 degrees of flexion during downhill running. Noble's compression test is positive.",
+            "question": "Which clinical condition is MOST consistent with these findings?",
+            "correct": "Iliotibial Band Friction Syndrome",
+            "distractors": ["Anterior Cruciate Ligament Tear", "Pes Anserine Bursitis", "Lateral Meniscus Tear"],
+            "system": "Musculoskeletal",
+            "explanation": "Iliotibial Band (ITB) Friction Syndrome is a common overuse injury in runners where the ITB rubs against the lateral femoral epicondyle. Pain is typically most acute at 30 degrees of knee flexion, known as the 'impingement zone.' Noble's compression test is the specific provocative maneuver for this condition. While meniscal tears cause lateral pain, they are usually associated with joint line tenderness and clicking/locking. Pes anserine pain is localized to the medial aspect of the tibia.",
+            "refs": ["https://www.physio-pedia.com/Iliotibial_Band_Syndrome", "Dutton's Orthopaedic Examination"]
+        },
+        {
+            "scenario": "A 45-year-old patient reports persistent low back pain that radiates down the posterior aspect of the left leg to the calf. Straight leg raise test is positive at 45 degrees. The patient also demonstrates weakness in the gastrocnemius and a diminished Achilles tendon reflex.",
+            "question": "Which nerve root is MOST likely involved?",
+            "correct": "S1",
+            "distractors": ["L4", "L5", "S2"],
+            "system": "Neuromuscular & Nervous",
+            "explanation": "The symptoms described—pain radiating to the calf, weakness in the gastrocnemius (plantarflexion), and a diminished Achilles reflex (S1-S2 arc)—are highly characteristic of an S1 nerve root compression. L4 would involve the patellar reflex and tibialis anterior. L5 would involve the extensor hallucis longus and sensation on the dorsal aspect of the foot. S1 is the primary nerve root responsible for the gastrocnemius/soleus group and the ankle jerk reflex.",
+            "refs": ["https://www.orthobullets.com/spine/2026/lumbar-disc-herniation", "Gray's Anatomy for Students"]
+        },
+        {
+            "scenario": "A therapist is evaluating a patient with a suspected Labral tear of the shoulder. The therapist performs the O'Brien's test, which is positive for pain when the arm is internally rotated but relieved when the arm is externally rotated.",
+            "question": "Which of the following describes the MOST appropriate next clinical step or associated finding?",
+            "correct": "Assess for a SLAP lesion (Superior Labrum Anterior to Posterior)",
+            "distractors": ["Suspect a Bankart lesion only", "Check for a rotator cuff tear using the Hawkins-Kennedy test", "Evaluate for adhesive capsulitis"],
+            "system": "Musculoskeletal",
+            "explanation": "A positive O'Brien's test (Active Compression Test) that is painful with internal rotation and relieved with external rotation is highly suggestive of a SLAP lesion. A Bankart lesion typically involves the inferior labrum and is usually associated with anterior dislocations. Hawkins-Kennedy is specific for subacromial impingement. Labral tears require careful clinical correlation and often advanced imaging like MR Arthrography if surgery is considered.",
+            "refs": ["https://www.physio-pedia.com/SLAP_Lesion", "Dutton's Orthopaedic Examination"]
+        }
+    ]
+
     for i in range(count):
-        type_choice = random.randint(1, 4)
-        
+        # First half: Mix of standard templates, Second half: Emphasis on hard case studies
+        if i < count // 2:
+            type_choice = random.randint(1, 4)
+            difficulty = random.choice(difficulties)
+        else:
+            type_choice = 5 # Case Study
+            difficulty = random.choice(["Hard", "Exam Level"])
+
         if type_choice == 1: # Muscle/Nerve
             m = random.choice(muscles)
             q_text = f"A patient presents with weakness during {m['action'].lower()}. Which nerve is most likely involved in this clinical presentation?"
             correct = m['nerve']
-            others = [x['nerve'] for x in muscles if x['nerve'] != correct]
-            distractors = random.sample(list(set(others)), 3)
+            distractors = random.sample(list(set([x['nerve'] for x in muscles if x['nerve'] != correct])), 3)
             system = "Musculoskeletal"
-            explanation = f"The {m['name']} is responsible for {m['action'].lower()} and is innervated by the {m['nerve']} ({m['root']})."
+            explanation = f"The {m['name']} is responsible for {m['action'].lower()} and is innervated by the {m['nerve']} ({m['root']}). Weakness in this muscle group suggests a lesion anywhere along the {m['nerve']} or the corresponding spinal roots."
             refs = ["Dutton's Orthopaedic Examination", "Gray's Anatomy for Students"]
             
         elif type_choice == 2: # Gait
             g = random.choice(gait_issues)
             q_text = f"During a gait analysis, a therapist observes a {g['deviation'].lower()}. This pattern is most commonly associated with which of the following causes?"
             correct = g['cause']
-            others = [x['cause'] for x in gait_issues if x['cause'] != correct]
-            distractors = random.sample(list(set(others)), 3)
+            distractors = random.sample(list(set([x['cause'] for x in gait_issues if x['cause'] != correct])), 3)
             system = "Musculoskeletal"
-            explanation = f"{g['deviation']} is a classic gait deviation where {g['side']}. It is primarily caused by {g['cause']}."
+            explanation = f"{g['deviation']} is a classic gait deviation where {g['side']}. It is primarily caused by {g['cause']}. Accurate identification of the root cause is essential for determining the appropriate orthotic or therapeutic intervention."
             refs = ["Observational Gait Analysis: A Visual Guide", "Magee's Orthopedic Physical Assessment"]
             
         elif type_choice == 3: # Cardiopulmonary
             cp = random.choice(cp_scenarios)
             q_text = f"While monitoring a patient during a cardiac rehabilitation session, the therapist notes {cp['finding'].lower()}. What is the most appropriate immediate action?"
             correct = cp['action']
-            others = [x['action'] for x in cp_scenarios if x['action'] != correct]
-            # Add general distractors if list is short
-            if len(others) < 3: others += ["Continue exercise at reduced intensity", "Wait 5 minutes and re-check", "Call 911 immediately"]
+            others = [x['action'] for x in cp_scenarios if x['action'] != correct] + ["Continue exercise at reduced intensity", "Wait 5 minutes and re-check", "Call 911 immediately"]
             distractors = random.sample(list(set(others)), 3)
             system = "Cardiovascular & Pulmonary"
-            explanation = f"{cp['finding']} is indicative of {cp['significance'].lower()}, which requires the therapist to {cp['action'].lower()} for patient safety."
+            explanation = f"{cp['finding']} is indicative of {cp['significance'].lower()}, which requires the therapist to {cp['action'].lower()} for patient safety. Monitoring vital signs and recognizing red flags is a critical competency for physical therapists in all settings."
             refs = ["ACSM's Guidelines for Exercise Testing and Prescription", "Essentials of Cardiopulmonary Physical Therapy"]
 
-        else: # Pediatric/Other
+        elif type_choice == 4: # Pediatric Highlights
             milestones = [
                 {"age": "6 months", "skill": "Sitting with support", "next": "Sitting independently"},
                 {"age": "12 months", "skill": "Walking with handheld support", "next": "Walking independently"},
@@ -86,29 +137,28 @@ def generate_questions(count=1000):
             correct = mile['skill']
             distractors = ["Cruising along furniture", "Climbing stairs with railing", "Hopping on one foot"]
             system = "Other Systems"
-            explanation = f"By {mile['age']}, most infants have developed the core stability and motor control required for {mile['skill'].lower()}."
+            explanation = f"By {mile['age']}, most infants have developed the core stability and motor control required for {mile['skill'].lower()}. These milestones are used to track neurological and musculoskeletal development and identify potential delays early."
             refs = ["Campbell's Physical Therapy for Children", "Tecklin's Pediatric Physical Therapy"]
+
+        else: # Specialized Case Study
+            cs = random.choice(case_studies)
+            q_text = f"{cs['scenario']}\n\n{cs['question']}"
+            correct = cs['correct']
+            distractors = cs['distractors']
+            system = cs['system']
+            explanation = cs['explanation']
+            refs = cs['refs']
 
         # Final packaging
         options = distractors + [correct]
         random.shuffle(options)
-        
-        opt_map = {
-            "A": options[0],
-            "B": options[1],
-            "C": options[2],
-            "D": options[3]
-        }
-        
-        ans_key = "A"
-        for k, v in opt_map.items():
-            if v == correct:
-                ans_key = k
+        opt_map = {"A": options[0], "B": options[1], "C": options[2], "D": options[3]}
+        ans_key = [k for k, v in opt_map.items() if v == correct][0]
                 
         questions.append({
-            "id": i + 10, # Keep space for existing
+            "id": i + 1,
             "bodySystem": system,
-            "difficulty": random.choice(difficulties),
+            "difficulty": difficulty,
             "questionText": q_text,
             "correctAnswer": ans_key,
             "options": opt_map,
@@ -119,7 +169,12 @@ def generate_questions(count=1000):
     return questions
 
 if __name__ == "__main__":
-    data = generate_questions(1000)
-    with open("backend/src/main/resources/questions-seed.json", "w") as f:
+    # Generate 2000 questions (Phase 8 requirement)
+    count = 2000
+    data = generate_questions(count)
+    import os
+    # Ensure directory exists or use absolute path
+    output_path = "backend/src/main/resources/questions-seed.json"
+    with open(output_path, "w") as f:
         json.dump(data, f, indent=4)
-    print(f"Generated {len(data)} questions to backend/src/main/resources/questions-seed.json")
+    print(f"Generated {len(data)} questions to {output_path}")
