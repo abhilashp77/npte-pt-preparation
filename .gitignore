@@ -26,3 +26,6 @@ dist/
 /tmp/
 scripts/*.json
 backend/src/main/resources/questions-seed.json
+
+.history/
+

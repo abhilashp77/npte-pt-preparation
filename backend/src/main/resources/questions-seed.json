@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "bodySystem": "Musculoskeletal",
         "difficulty": "Easy",
         "questionText": "During a gait analysis, a therapist observes a genu recurvatum. This pattern is most commonly associated with which of the following causes?",
@@ -18,7 +17,6 @@
         ]
     },
     {
-        "id": 2,
         "bodySystem": "Cardiovascular & Pulmonary",
         "difficulty": "Hard",
         "questionText": "While monitoring a patient during a cardiac rehabilitation session, the therapist notes oxygen saturation below 88%. What is the most appropriate immediate action?",
@@ -36,7 +34,6 @@
         ]
     },
     {
-        "id": 3,
         "bodySystem": "Cardiovascular & Pulmonary",
         "difficulty": "Moderate",
         "questionText": "While monitoring a patient during a cardiac rehabilitation session, the therapist notes oxygen saturation below 88%. What is the most appropriate immediate action?",
@@ -54,7 +51,6 @@
         ]
     },
     {
-        "id": 4,
         "bodySystem": "Musculoskeletal",
         "difficulty": "Easy",
         "questionText": "A patient presents with weakness during elbow flexion and supination. Which nerve is most likely involved in this clinical presentation?",
@@ -72,7 +68,6 @@
         ]
     },
     {
-        "id": 5,
         "bodySystem": "Cardiovascular & Pulmonary",
         "difficulty": "Moderate",
         "questionText": "While monitoring a patient during a cardiac rehabilitation session, the therapist notes oxygen saturation below 88%. What is the most appropriate immediate action?",
@@ -90,7 +85,6 @@
         ]
     },
     {
-        "id": 6,
         "bodySystem": "Other Systems",
         "difficulty": "Hard",
         "questionText": "A pediatric therapist is evaluating a 12 months old infant. Which gross motor milestone is MOST appropriate to expect at this developmental stage?",
@@ -108,7 +102,6 @@
         ]
     },
     {
-        "id": 7,
         "bodySystem": "Cardiovascular & Pulmonary",
         "difficulty": "Moderate",
         "questionText": "While monitoring a patient during a cardiac rehabilitation session, the therapist notes oxygen saturation below 88%. What is the most appropriate immediate action?",
@@ -126,7 +119,6 @@
         ]
     },
     {
-        "id": 8,
         "bodySystem": "Musculoskeletal",
         "difficulty": "Hard",
         "questionText": "During a gait analysis, a therapist observes a steppage gait. This pattern is most commonly associated with which of the following causes?",
@@ -144,7 +136,6 @@
         ]
     },
     {
-        "id": 9,
         "bodySystem": "Musculoskeletal",
         "difficulty": "Easy",
         "questionText": "A patient presents with weakness during knee flexion and hip extension. Which nerve is most likely involved in this clinical presentation?",
@@ -7198,6 +7189,992 @@
         "references": [
             "https://www.elsevier.com/books/orthopedic-physical-assessment/magee/978-0-323-71317-7",
             "https://pubmed.ncbi.nlm.nih.gov/30794067/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 56-year-old male with a recent diagnosis of hypertrophic cardiomyopathy presents to outpatient physical therapy requesting an exercise program. Echocardiogram shows significant left ventricular hypertrophy and left ventricular outflow tract obstruction. He reports occasional palpitations and dizziness with exertion. What is the MOST appropriate physical therapist action?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Initiate low-intensity aerobic exercise with continuous heart rate monitoring",
+            "B": "Contact physician to discuss exercise appropriateness before initiating any program",
+            "C": "Recommend only flexibility and breathing exercises, avoiding all aerobic activity",
+            "D": "Proceed with moderate-intensity exercise using RPE for intensity monitoring"
+        },
+        "explanation": "Hypertrophic cardiomyopathy (HCM) with left ventricular outflow tract (LVOT) obstruction and symptoms (palpitations, dizziness with exertion) represents a high-risk condition for sudden cardiac death during exercise. HCM is the most common cause of sudden cardiac death in young athletes and exercise can trigger fatal arrhythmias in susceptible individuals. The LVOT obstruction worsens with increased contractility during exercise, potentially causing syncope or ventricular arrhythmias. Exercise recommendations for HCM are controversial and highly individualized based on symptom status, degree of obstruction, arrhythmia history, and family history. Before initiating any exercise program, physician consultation is mandatory to review recent cardiac evaluation, perform risk stratification, and determine if exercise is safe. Some HCM patients may participate in low-intensity recreational exercise, while others require complete exercise restriction. Options A and D inappropriately initiate exercise without medical clearance. Option C makes assumptions about safe activity levels without physician input. Current guidelines recommend individualized assessment, with many HCM patients restricted from competitive sports and high-intensity exercise. If cleared for exercise, close monitoring and symptom surveillance are essential. Symptoms during exertion (dizziness, palpitations) are particularly concerning and may indicate dangerous arrhythmias or hemodynamic compromise.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-cardiac-rehabilitation-programs-6th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/31497854/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 42-year-old female presents with progressive hand numbness and weakness over 6 months. Physical examination reveals thenar atrophy, weak thumb opposition (3/5), positive Phalen's test, positive Tinel's sign at the wrist, and two-point discrimination of 8mm in the thumb. Nerve conduction studies show severe median nerve compression. What is the MOST appropriate recommendation?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Continue conservative management with nighttime splinting and nerve gliding exercises",
+            "B": "Aggressive median nerve mobilization with neural tensioning techniques",
+            "C": "Corticosteroid injection into the carpal tunnel",
+            "D": "Urgent physician referral for surgical decompression evaluation"
+        },
+        "explanation": "This presentation indicates severe, chronic carpal tunnel syndrome with motor involvement (thenar atrophy, weakness), sensory deficits (abnormal two-point discrimination >6mm indicates significant sensory nerve damage), and severe electrodiagnostic findings. These are indications for surgical carpal tunnel release. Conservative management is appropriate for mild-to-moderate CTS without motor deficits, but once thenar atrophy and weakness develop, surgical intervention is needed to prevent permanent nerve damage. Prolonged severe compression causes axonal degeneration that may not fully recover even after decompression. The 6-month progressive history with motor involvement indicates conservative treatment has failed. Option A (continued conservative care) will not reverse motor deficits and allows continued nerve damage. Option B (aggressive nerve mobilization) risks worsening symptoms in severe compression; gentle nerve gliding is appropriate for mild cases. Option C (corticosteroid injection) may provide temporary symptom relief but doesn't address the structural compression causing motor deficits; injections are typically used for mild-moderate CTS or as diagnostic/temporizing measures. Option D is correct—urgent surgical consultation for carpal tunnel release. After surgery, physical therapy focuses on scar management, edema control, nerve gliding, and progressive strengthening. Earlier surgery (before significant atrophy) generally produces better functional outcomes. Delay in surgical referral when motor signs are present risks permanent dysfunction.",
+        "references": [
+            "https://www.elsevier.com/books/orthopedic-physical-assessment/magee/978-0-323-71317-7",
+            "https://pubmed.ncbi.nlm.nih.gov/30653351/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 35-year-old patient sustained a mild traumatic brain injury (concussion) 10 days ago. Symptoms have improved but the patient reports persistent headaches (3/10), difficulty concentrating, and mild dizziness with rapid head movements. The patient wants to return to recreational basketball. What is the MOST appropriate recommendation?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Full return to basketball since symptoms are mild and improving",
+            "B": "Return to basketball with protective headgear to prevent reinjury",
+            "C": "Continue graded exertion protocol; no return to sport until completely asymptomatic for 24 hours",
+            "D": "Complete rest from all physical and cognitive activity for 4 more weeks"
+        },
+        "explanation": "Current concussion management guidelines (based on the 6th International Consensus Conference on Concussion in Sport, 2023) recommend a graded return-to-sport protocol that requires the individual to be completely symptom-free at rest AND with exertion before returning to full sport participation. This patient still has symptoms (headaches, concentration difficulties, dizziness with head movements) 10 days post-injury, indicating incomplete recovery. Return to sport while symptomatic increases risk of prolonged recovery, second-impact syndrome (though rare), and injury due to impaired reaction time, balance, and judgment. The appropriate approach is to continue the graduated exertion protocol—progressive increases in activity intensity while monitoring for symptom recurrence—and only advance when the patient tolerates each stage without symptoms. Each stage requires minimum 24 hours; if symptoms recur, return to previous stage. Full sport participation occurs only after completing all stages asymptomatically. Option A (full return with mild symptoms) violates return-to-sport guidelines and risks prolonged symptoms or reinjury. Option B (protective headgear) provides false security; helmets don't prevent concussions effectively and don't address the current incomplete recovery. Option D (4 more weeks complete rest) represents outdated management; prolonged strict rest beyond 24-48 hours may actually delay recovery. Light activity within symptom threshold is now recommended.",
+        "references": [
+            "https://bjsm.bmj.com/content/57/11/695",
+            "https://pubmed.ncbi.nlm.nih.gov/30801270/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 48-year-old female with restrictive cardiomyopathy presents to cardiac rehabilitation. Echocardiogram shows normal ejection fraction (58%) but severely impaired diastolic filling and elevated filling pressures. She reports severe exercise intolerance and dyspnea with minimal exertion. Which exercise prescription parameter requires the MOST careful consideration in this condition?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Limiting exercise intensity to allow adequate diastolic filling time between heartbeats",
+            "B": "Maximizing exercise intensity to strengthen the weakened ventricle",
+            "C": "Using age-predicted maximum heart rate for target heart rate calculation",
+            "D": "Emphasizing isometric resistance training over aerobic exercise"
+        },
+        "explanation": "Restrictive cardiomyopathy is characterized by impaired ventricular filling (diastolic dysfunction) with preserved systolic function (normal EF). The stiff, non-compliant ventricles require adequate filling time, which becomes critically limited at higher heart rates when diastole shortens. Tachycardia reduces diastolic filling time, decreasing stroke volume and cardiac output despite normal contractility, leading to pulmonary congestion and severe dyspnea. Exercise prescription must carefully limit intensity to keep heart rate in a range that allows adequate filling—typically lower than standard cardiac rehabilitation targets. Lower intensity aerobic exercise (40-60% HRR) with close monitoring of symptoms and hemodynamics is appropriate. Option B (maximizing intensity to strengthen ventricle) is incorrect—the ventricle contracts normally; the problem is filling, not contractility. High intensity would be poorly tolerated and dangerous. Option C (age-predicted max HR) doesn't account for the diastolic dysfunction; lower HR targets are needed. Option D (emphasizing isometric training) is inappropriate; isometric exercise increases blood pressure and afterload, worsening diastolic dysfunction. Aerobic exercise at appropriate intensity is beneficial. Additional considerations include monitoring for arrhythmias (common in restrictive cardiomyopathy), fluid status management, and recognizing signs of decompensation. Some patients may benefit from rate-control medications to prevent excessive tachycardia during exercise.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-cardiac-rehabilitation-programs-6th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/31378655/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 29-year-old female ballet dancer presents with posterior ankle pain that has progressively worsened over 8 months. Pain is worst with plantarflexion (relevé position) and palpation reveals tenderness posterior to the talus. Physical examination shows pain with forced plantarflexion and a positive posterior impingement test. Radiographs show an os trigonum. What is the MOST likely diagnosis?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Achilles tendinopathy",
+            "B": "Posterior ankle impingement syndrome",
+            "C": "Flexor hallucis longus tendinopathy",
+            "D": "Retrocalcaneal bursitis"
+        },
+        "explanation": "This is posterior ankle impingement syndrome (PAIS), common in ballet dancers and athletes requiring repetitive extreme plantarflexion. PAIS occurs when soft tissues or bony structures in the posterior ankle are compressed between the tibia and calcaneus during plantarflexion. The os trigonum (accessory bone posterior to talus, present in 7-25% of population) is a common cause—it becomes symptomatic when compressed during plantarflexion (relevé, en pointe). Key features include: posterior ankle pain with forced plantarflexion, pain with activities requiring plantarflexion (dance, downhill running, soccer), tenderness posterior to lateral malleolus, positive posterior impingement test (forced passive plantarflexion reproduces pain), and radiographic os trigonum. FHL tendon may also be involved as it passes through the posterior compartment. Option A (Achilles tendinopathy) causes posterior heel pain but tenderness is at the tendon insertion or mid-substance, not posterior to talus, and pain is typically worse with dorsiflexion stretch, not plantarflexion. Option C (FHL tendinopathy) can coexist with PAIS and presents with posteromedial ankle pain, pain with great toe flexion, and triggering; however, the specific finding of os trigonum and posterior impingement test points to PAIS. Option D (retrocalcaneal bursitis) causes pain at the posterior heel between Achilles and calcaneus, with tenderness anterior to Achilles insertion. Treatment includes activity modification (reduce plantarflexion activities), anti-inflammatory measures, Achilles/gastrocnemius stretching, and sometimes corticosteroid injection. Refractory cases may require surgical excision of os trigonum.",
+        "references": [
+            "https://www.elsevier.com/books/orthopedic-physical-assessment/magee/978-0-323-71317-7",
+            "https://pubmed.ncbi.nlm.nih.gov/30802851/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 52-year-old patient with type 1 diabetes presents with progressive bilateral foot numbness, burning pain in the feet (worse at night), and foot ulceration on the plantar surface of the right first metatarsal head. Ankle reflexes are absent bilaterally. Semmes-Weinstein monofilament testing shows inability to detect 5.07 (10g) filament. What is the HIGHEST priority intervention?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Aggressive strengthening exercises to improve intrinsic foot muscle function",
+            "B": "Desensitization techniques to reduce neuropathic pain",
+            "C": "Aquatic therapy to allow pain-free exercise",
+            "D": "Comprehensive foot care education and appropriate therapeutic footwear prescription"
+        },
+        "explanation": "This patient has diabetic peripheral neuropathy with loss of protective sensation (LOPS) and an active foot ulcer—a high-risk combination for amputation. The highest priority is preventing ulcer progression and future ulceration through comprehensive foot care education and appropriate footwear. Loss of protective sensation (inability to feel 5.07/10g monofilament) means the patient cannot detect injury, pressure points, or developing ulcers. Proper footwear with adequate cushioning, proper fit, and pressure redistribution is critical. Daily foot inspection (patient or caregiver), proper wound care for existing ulcer, avoidance of barefoot walking, nail care, skin care, and education about when to seek medical attention are essential. The existing ulcer requires medical wound care and possible offloading with total contact cast, walking boot, or specialized shoes. Option A (aggressive strengthening) doesn't address the immediate ulcer or prevent future injury; it may increase plantar pressures if done with excessive weight-bearing. Option B (desensitization) addresses neuropathic pain symptoms but doesn't prevent the life-threatening complications of ulceration/amputation. Option C (aquatic therapy) can be beneficial for exercise but doesn't address foot protection during daily activities; additionally, open ulcers contraindicate pool use due to infection risk. While all interventions may have roles in comprehensive care, preventing ulcer progression and future ulceration through education and appropriate footwear is paramount. Diabetic foot ulcers have 25% risk of amputation; prevention is critical.",
+        "references": [
+            "https://fadavis.com/product/physical-rehabilitation-o-sullivan-schmitz-fulk-7",
+            "https://pubmed.ncbi.nlm.nih.gov/31216128/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 64-year-old male underwent left pneumonectomy for lung cancer 4 weeks ago. He presents to pulmonary rehabilitation with complaints of dyspnea with exertion and reduced exercise tolerance. Pulmonary function tests show FVC 52% predicted. Which exercise prescription modification is MOST important for this patient?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity interval training to maximize remaining lung capacity",
+            "B": "Low-to-moderate intensity with oxygen supplementation titrated to maintain SpO2 >88-90%",
+            "C": "Breathing exercises emphasizing hyperventilation to improve gas exchange",
+            "D": "Avoid all upper extremity exercises to reduce oxygen demand"
+        },
+        "explanation": "Post-pneumonectomy patients have permanently reduced lung capacity (50% reduction after one lung removal), leading to reduced pulmonary reserve, ventilation-perfusion mismatch, and exercise-induced hypoxemia. The remaining lung must handle entire cardiac output, often inadequately, especially during exercise. Exercise prescription requires low-to-moderate intensity (40-60% of capacity) to stay within ventilatory limits, with supplemental oxygen titrated to maintain adequate oxygen saturation (≥88-90%, preferably >90%). This allows beneficial exercise training while preventing dangerous hypoxemia that can cause pulmonary hypertension, arrhythmias, or right heart strain. Gradual progression with close symptom monitoring is essential. Option A (high-intensity interval training) likely exceeds ventilatory capacity and risks severe hypoxemia; while some interval training may be appropriate later in recovery, intensity must be carefully controlled. Option C (hyperventilation breathing exercises) is incorrect and potentially harmful—hyperventilation causes respiratory alkalosis, doesn't improve gas exchange, and increases work of breathing. Pursed-lip breathing and diaphragmatic breathing are more appropriate. Option D (avoiding upper extremity exercise) is unnecessarily restrictive; upper extremity training is important for functional activities (grooming, dressing) and can be performed with appropriate monitoring. The key is matching exercise demand to reduced pulmonary capacity while preventing hypoxemia. Close monitoring of oxygen saturation, dyspnea, and vital signs is essential.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-pulmonary-rehabilitation-programs-5th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/30270156/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old female presents 12 weeks post-distal radius fracture (treated with ORIF). Current ROM shows wrist flexion 40 degrees (normal 80), extension 45 degrees (normal 70), and grip strength 35% of contralateral side. The patient reports stiffness and a burning pain in the hand and wrist. Physical examination reveals diffuse hand swelling, skin temperature changes (warmer than contralateral), allodynia, and trophic changes (shiny skin, hair loss). What is the MOST likely complication?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Delayed union of the fracture",
+            "B": "Extensor tendon rupture",
+            "C": "Complex regional pain syndrome (CRPS)",
+            "D": "Median nerve compression"
+        },
+        "explanation": "This presentation is highly suggestive of Complex Regional Pain Syndrome (CRPS), a neurological condition characterized by pain disproportionate to injury, along with sensory, vasomotor, sudomotor/edema, and motor/trophic changes. Key features include: pain out of proportion to expected recovery timeline, allodynia (pain from non-painful stimuli), vasomotor changes (temperature differences, color changes), edema, trophic changes (shiny skin, hair loss, nail changes), and motor dysfunction (weakness, limited ROM). CRPS can develop after fractures, surgeries, or minor trauma, most commonly affecting the upper extremity. The Budapest Criteria are used for diagnosis, requiring symptoms in multiple categories. Option A (delayed union) would show radiographic evidence of inadequate healing and pain localized to fracture site without the widespread sensory and autonomic changes. Option B (extensor tendon rupture) would present with inability to actively extend specific digits, tendon discontinuity on palpation, and localized findings, not diffuse hand involvement with autonomic changes. Option D (median nerve compression/CTS) would show specific median nerve distribution sensory changes, positive Phalen's/Tinel's signs, and thenar involvement, without the diffuse vasomotor and trophic changes. Early recognition of CRPS is critical for optimal outcomes. Treatment includes: pain management, gentle active ROM (avoiding painful forced motion), desensitization, stress loading exercises, mirror therapy, graded motor imagery, and sometimes sympathetic blocks or medications (gabapentin, bisphosphonates). Early intensive PT focusing on function (not aggressive passive ROM) shows best outcomes.",
+        "references": [
+            "https://www.mhprofessional.com/dutton-s-orthopaedic-examination-evaluation-and-intervention-fifth-edition-9781260461152-usa",
+            "https://pubmed.ncbi.nlm.nih.gov/30811761/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 44-year-old patient presents with progressive proximal muscle weakness, muscle pain, and difficulty swallowing over 6 months. Physical examination reveals a characteristic rash on the face and eyelids (heliotrope rash), and raised, scaly patches over the knuckles (Gottron's papules). Laboratory tests show elevated CK and positive anti-Jo-1 antibodies. What is the MOST likely diagnosis?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Polymyositis",
+            "B": "Dermatomyositis",
+            "C": "Systemic lupus erythematosus",
+            "D": "Rheumatoid arthritis"
+        },
+        "explanation": "This is dermatomyositis (DM), an idiopathic inflammatory myopathy characterized by proximal muscle weakness AND distinctive skin manifestations. Key diagnostic features include: proximal muscle weakness (shoulder, hip girdle), muscle pain, dysphagia (from pharyngeal muscle involvement), elevated muscle enzymes (CK), positive myositis-specific antibodies (anti-Jo-1 is one of several), heliotrope rash (violaceous rash on eyelids), and Gottron's papules/sign (erythematous scaly patches over MCP/PIP joints and extensor surfaces). The combination of inflammatory myopathy with characteristic skin findings distinguishes DM from polymyositis. DM can occur at any age (bimodal distribution: children and adults 40-60) and is associated with increased malignancy risk in adults. Option A (polymyositis) has similar muscle involvement but lacks the characteristic skin findings. Option C (SLE) can cause muscle pain and various rashes but not typically the specific heliotrope rash and Gottron's papules; muscle enzymes are usually normal. Option D (rheumatoid arthritis) affects joints primarily, not muscles, and has different skin manifestations (rheumatoid nodules). Treatment involves corticosteroids and immunosuppressive agents (methotrexate, azathioprine). Physical therapy focuses on: maintaining ROM during active inflammation (gentle, pain-free), progressive strengthening as inflammation is controlled (avoiding overwork), respiratory muscle training if involved, and swallowing evaluation/therapy. Malignancy screening is important in adult-onset DM.",
+        "references": [
+            "https://fadavis.com/product/physical-rehabilitation-o-sullivan-schmitz-fulk-7",
+            "https://pubmed.ncbi.nlm.nih.gov/31175124/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 71-year-old female presents to cardiac rehabilitation 8 weeks post-cardiac transplant. Current medications include tacrolimus, mycophenolate, and prednisone. During exercise, her heart rate increases from 95 bpm at rest to only 102 bpm at moderate intensity exercise. She reports feeling the exercise is moderately hard (RPE 13). What explains the blunted heart rate response?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Beta-blocker medication effects",
+            "B": "Excessive parasympathetic nervous system activity",
+            "C": "Autonomic neuropathy from immunosuppressive medications",
+            "D": "Cardiac denervation from transplantation"
+        },
+        "explanation": "Cardiac transplantation involves complete denervation of the donor heart—all autonomic nerve connections (sympathetic and parasympathetic) are severed during transplant surgery and do not regenerate significantly for months to years. Denervation results in characteristic hemodynamic responses: elevated resting heart rate (typically 90-110 bpm due to loss of vagal tone), blunted heart rate acceleration during exercise (lacks sympathetic drive), slower heart rate recovery after exercise, and loss of heart rate variability. The transplanted heart responds to exercise primarily through circulating catecholamines (epinephrine, norepinephrine) rather than direct neural input, resulting in delayed and blunted HR response. Exercise intensity prescription must use RPE rather than target heart rate since HR response is unreliable. Blood pressure typically responds more normally to exercise. Option A (beta-blockers) is incorrect—while beta-blockers blunt HR response, this patient's medication list doesn't include them; immunosuppressants are standard post-transplant. Option B (excessive parasympathetic activity) is opposite of reality—denervation removes all autonomic input, including parasympathetic. Option C (autonomic neuropathy from medications) doesn't occur from immunosuppressants; the denervation is surgical. Exercise prescription should emphasize RPE (11-14 for moderate intensity), longer warm-up and cool-down periods (to allow gradual catecholamine-mediated HR changes), and monitoring blood pressure response and symptoms. Cardiac transplant recipients show excellent exercise training responses despite denervation.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-cardiac-rehabilitation-programs-6th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/30025785/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 33-year-old pregnant woman at 28 weeks gestation presents with wrist pain and nocturnal paresthesias in the thumb, index, and middle fingers bilaterally. Symptoms have progressively worsened over 4 weeks. Phalen's test is positive, and there is no thenar atrophy. What is the MOST appropriate initial intervention?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Immediate referral for surgical carpal tunnel release",
+            "B": "Corticosteroid injection into the carpal tunnel",
+            "C": "Nighttime wrist splinting in neutral position with activity modification education",
+            "D": "Aggressive nerve gliding exercises performed hourly"
+        },
+        "explanation": "Carpal tunnel syndrome is common during pregnancy (affecting 20-50% of pregnant women) due to fluid retention, hormonal changes, and increased tissue fluid. Most pregnancy-related CTS is mild-to-moderate and resolves spontaneously after delivery. Conservative management is first-line treatment: nighttime wrist splinting in neutral position (prevents wrist flexion during sleep that exacerbates symptoms), activity modification (avoid repetitive wrist flexion, forceful gripping), positioning education (keep wrists neutral during activities), and gentle nerve gliding exercises. The neutral wrist position minimizes carpal tunnel pressure. Option A (immediate surgical referral) is premature for a 4-week history without motor deficits or severe symptoms; surgery is reserved for severe cases with motor involvement or symptoms refractory to conservative care. Most pregnancy CTS resolves postpartum without surgery. Option B (corticosteroid injection) can be effective but is typically reserved for moderate-to-severe symptoms not responding to conservative care, or late pregnancy when delivery is imminent and conservative treatment has failed. While generally safe in pregnancy, it's not first-line when simpler measures haven't been tried. Option D (aggressive nerve gliding hourly) is excessive; gentle nerve gliding 2-3 times daily is sufficient. Aggressive or frequent gliding can irritate inflamed nerves. If symptoms persist or worsen despite conservative care, or if motor deficits develop, referral for injection or surgical evaluation is appropriate. Postpartum follow-up is important as most cases resolve within 3 months after delivery.",
+        "references": [
+            "https://www.elsevier.com/books/orthopedic-physical-assessment/magee/978-0-323-71317-7",
+            "https://pubmed.ncbi.nlm.nih.gov/30562437/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 9-year-old child with spastic diplegic cerebral palsy (GMFCS Level III) walks with bilateral ankle-foot orthoses and a walker for short distances. The child demonstrates bilateral equinus deformity with popliteal angle of 35 degrees and hamstring spasticity. The parents report the child is having increasing difficulty with transfers and walking. Which intervention is MOST likely to provide sustained improvement in gait and function?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Serial casting to improve hamstring and gastrocnemius length",
+            "B": "Intensive aquatic therapy program focusing on gait training",
+            "C": "Selective dorsal rhizotomy combined with intensive post-operative rehabilitation",
+            "D": "Continuous baclofen pump for spasticity management"
+        },
+        "explanation": "For children with spastic diplegic CP (GMFCS II-III) with significant lower extremity spasticity limiting function, selective dorsal rhizotomy (SDR) combined with intensive post-operative rehabilitation has strong evidence for improving gait, reducing spasticity, and enhancing function. SDR involves selective sectioning of dorsal sensory nerve rootlets (L2-S2) that contribute to spasticity, providing permanent spasticity reduction. Benefits include improved ROM, easier orthotic use, reduced energy cost of walking, and better positioning. Success requires: appropriate patient selection (pure spastic diplegia, good voluntary motor control, motivated family), intensive post-operative PT (typically 6-12 months of strengthening and functional training), and realistic expectations. The child's age (9 years) is appropriate—SDR is typically performed ages 3-8, but can be done in older children. Option A (serial casting) provides temporary improvement in muscle length but doesn't address spasticity; benefits are short-lived without addressing the neurological cause. Option B (aquatic therapy) can be beneficial for strengthening and gait training but doesn't permanently reduce spasticity or change the underlying impairment. Option D (baclofen pump) effectively manages generalized spasticity but is typically reserved for more severe CP (GMFCS IV-V), total body involvement, or when SDR is not appropriate. SDR is preferred for ambulatory children with lower extremity spastic diplegia. Post-SDR rehabilitation emphasizes strengthening (previously spastic muscles are weak), balance training, functional gait activities, and maintaining ROM. Outcomes are best when surgery and rehabilitation are optimally timed and intensive.",
+        "references": [
+            "https://fadavis.com/product/physical-rehabilitation-o-sullivan-schmitz-fulk-7",
+            "https://pubmed.ncbi.nlm.nih.gov/30273501/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 55-year-old male with alpha-1 antitrypsin deficiency presents with progressive dyspnea and a 20-year smoking history (quit 2 years ago). Pulmonary function tests show FEV1 38% predicted, FEV1/FVC ratio 0.52, and significant hyperinflation. He is on home oxygen 2 L/min continuous. Which intervention, in addition to pulmonary rehabilitation, has specific evidence for slowing disease progression in this condition?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-dose inhaled corticosteroids",
+            "B": "Alpha-1 antitrypsin augmentation therapy",
+            "C": "Lung volume reduction surgery",
+            "D": "Prophylactic antibiotic therapy"
+        },
+        "explanation": "Alpha-1 antitrypsin (AAT) deficiency is a genetic condition causing early-onset emphysema due to lack of AAT protein that normally protects lungs from neutrophil elastase damage. AAT augmentation therapy (weekly IV infusions of pooled human AAT protein) is the only specific disease-modifying treatment for AAT deficiency. It slows the rate of lung function decline and reduces exacerbations in patients with severe deficiency (PI*ZZ phenotype) and moderate obstruction (FEV1 35-60% predicted). While this patient has more severe obstruction (FEV1 38%), augmentation therapy may still be considered. It doesn't reverse existing damage but slows progression. The patient's smoking cessation is critical—smoking accelerates lung destruction in AAT deficiency much more than in normal individuals. Option A (inhaled corticosteroids) treats inflammation in COPD but doesn't address the specific protease-antiprotease imbalance in AAT deficiency; benefits are similar to standard COPD management. Option C (lung volume reduction surgery) can improve symptoms and function in severe emphysema with upper lobe predominance by reducing hyperinflation, but doesn't slow disease progression; it's a palliative intervention. Option D (prophylactic antibiotics) reduces exacerbation frequency in some COPD patients but doesn't modify disease progression. Comprehensive management includes: pulmonary rehabilitation, bronchodilators, oxygen therapy, exacerbation prevention, and possibly lung transplantation evaluation. Genetic counseling and family screening are important.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-pulmonary-rehabilitation-programs-5th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/31315832/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 47-year-old male presents with unilateral hip pain that began insidiously 6 months ago. Pain is localized to the groin and anterior thigh, worse with weight-bearing and internal rotation. Physical examination reveals antalgic gait, limited internal rotation and abduction, positive FADIR test, and pain at end-range hip flexion. Radiographs show decreased joint space and subchondral sclerosis of the femoral head. What is the MOST likely diagnosis?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Hip osteoarthritis",
+            "B": "Avascular necrosis of the femoral head",
+            "C": "Hip labral tear",
+            "D": "Greater trochanteric pain syndrome"
+        },
+        "explanation": "This presentation is consistent with hip osteoarthritis: gradual onset groin/anterior thigh pain (typical referral pattern), pain with weight-bearing and internal rotation (loads the joint), limited ROM especially internal rotation and abduction (capsular pattern for hip OA), positive impingement test (FADIR—flexion, adduction, internal rotation), and radiographic evidence of OA (joint space narrowing, subchondral sclerosis, possible osteophytes). The 6-month gradual progression and age (40s) are consistent with OA development. Risk factors include previous hip injury, developmental hip dysplasia, obesity, and genetics. Option B (avascular necrosis/AVN) can present similarly but typically has acute or subacute onset, history of risk factors (corticosteroid use, alcohol abuse, trauma, sickle cell disease), and characteristic MRI findings (bone marrow edema, crescent sign) that precede radiographic changes. Late-stage AVN shows femoral head collapse. Option C (labral tear) causes groin pain, positive impingement tests, and clicking/catching sensations, but typically occurs in younger patients, has history of trauma or FAI, and radiographs show minimal or no degenerative changes unless longstanding. MRI arthrogram is diagnostic. Option D (GTPS) causes lateral hip pain, not groin pain, with tenderness over greater trochanter. Treatment for hip OA includes: activity modification, weight loss if applicable, strengthening (hip abductors, extensors, core), ROM exercises, assistive device for severe cases, NSAIDs, and possibly intra-articular corticosteroid or hyaluronic acid injections. Total hip arthroplasty is considered when conservative management fails.",
+        "references": [
+            "https://www.elsevier.com/books/orthopedic-physical-assessment/magee/978-0-323-71317-7",
+            "https://pubmed.ncbi.nlm.nih.gov/31149552/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 38-year-old patient presents with sudden onset severe vertigo, nausea, vomiting, and horizontal nystagmus that began 24 hours ago following an upper respiratory infection. Symptoms are constant and not affected by head position. Hearing is normal bilaterally, and there are no other neurological symptoms. The head impulse test shows corrective saccade on the left side. What is the MOST likely diagnosis?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Vestibular neuritis",
+            "B": "Benign paroxysmal positional vertigo (BPPV)",
+            "C": "Ménière's disease",
+            "D": "Posterior circulation stroke"
+        },
+        "explanation": "This is vestibular neuritis (VN): sudden onset severe vertigo following viral illness, constant symptoms (not positional), spontaneous horizontal nystagmus, normal hearing (distinguishes from labyrinthitis which affects both vestibular and cochlear portions of CN VIII), positive head impulse test (indicates peripheral vestibular hypofunction—the patient's eyes cannot stay fixed on target during rapid head rotation to affected side, requiring corrective saccade). VN is caused by viral inflammation of the vestibular nerve, resulting in acute unilateral vestibular loss. Symptoms typically improve over days to weeks through central compensation. Option B (BPPV) is triggered specifically by position changes (rolling in bed, looking up), has episodic vertigo lasting seconds to minutes, shows characteristic nystagmus pattern with Dix-Hallpike test, and has latency before symptom onset. This patient has constant symptoms independent of position. Option C (Ménière's disease) includes episodic vertigo lasting hours, fluctuating hearing loss, tinnitus, and aural fullness—not constant vertigo with normal hearing. Option D (posterior circulation stroke) is an important differential for acute vertigo but usually includes other neurological signs (diplopia, dysarthria, dysphagia, ataxia, weakness). HINTS exam (Head Impulse, Nystagmus, Test of Skew) helps differentiate central from peripheral causes. Treatment includes: vestibular suppressants (meclizine, diazepam) for acute severe symptoms (first 48-72 hours only), corticosteroids (controversial but may speed recovery), and early vestibular rehabilitation once acute symptoms subside to promote central compensation.",
+        "references": [
+            "https://fadavis.com/product/physical-rehabilitation-o-sullivan-schmitz-fulk-7",
+            "https://pubmed.ncbi.nlm.nih.gov/31123119/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 52-year-old female with systemic sclerosis (scleroderma) presents with progressive dyspnea on exertion and non-productive cough over 8 months. High-resolution CT shows diffuse interstitial fibrosis. Pulmonary function tests reveal FVC 58% predicted, FEV1/FVC 0.88, and DLCO 42% predicted. Echocardiogram shows elevated pulmonary artery pressure. Which complication requires the MOST immediate monitoring and management?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Exercise-induced bronchospasm requiring bronchodilator therapy",
+            "B": "Respiratory muscle weakness from muscle involvement",
+            "C": "Pulmonary arterial hypertension secondary to interstitial lung disease",
+            "D": "Obstructive sleep apnea from upper airway involvement"
+        },
+        "explanation": "Systemic sclerosis frequently causes interstitial lung disease (ILD) and pulmonary arterial hypertension (PAH), both contributing to morbidity and mortality. This patient has ILD (restrictive PFTs with reduced DLCO, fibrosis on CT) AND elevated pulmonary pressures indicating PAH. PAH in scleroderma can occur from: 1) direct pulmonary vascular involvement (primary PAH), or 2) secondary to ILD and chronic hypoxemia. PAH significantly worsens prognosis and requires specific medical management (pulmonary vasodilators like endothelin receptor antagonists, phosphodiesterase-5 inhibitors, prostacyclins) in addition to ILD treatment. Exercise capacity is severely limited by the combination of restrictive lung disease and PAH. Close monitoring of pulmonary pressures, oxygen saturation, functional capacity, and symptoms is critical. Option A (exercise-induced bronchospasm) is not characteristic of restrictive ILD; bronchodilators don't help restriction. The elevated FEV1/FVC ratio (0.88) indicates restriction, not obstruction. Option B (respiratory muscle weakness) can occur in scleroderma with muscle involvement but is less immediately life-threatening than PAH. Option D (obstructive sleep apnea) is possible but not the primary concern with this presentation. Exercise prescription requires: low-to-moderate intensity due to severe DLCO reduction and PAH, supplemental oxygen titrated to maintain SpO2 >88-90%, close monitoring of symptoms (dyspnea, fatigue, dizziness), and coordination with pulmonology regarding disease-specific therapies. Recognizing and managing PAH is critical for survival and quality of life.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-pulmonary-rehabilitation-programs-5th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/31439626/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 24-year-old female collegiate volleyball player presents with insidious onset shoulder pain over the competitive season. Pain is located in the posterior shoulder and is worst during the cocking phase of serving and spiking. Physical examination reveals full passive ROM, 4+/5 strength with external rotation, positive posterior slide test, pain with O'Brien's test, and pain with dynamic labral shear test. What is the MOST likely diagnosis?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Rotator cuff tendinopathy",
+            "B": "Multidirectional shoulder instability",
+            "C": "Posterior shoulder impingement",
+            "D": "Superior labral anterior-posterior (SLAP) tear"
+        },
+        "explanation": "This presentation suggests a SLAP lesion (Superior Labral tear from Anterior to Posterior): overhead athlete in repetitive overhead sport, posterior shoulder pain during cocking phase (when long head of biceps tendon and superior labrum are under maximum tensile load), positive O'Brien's test/active compression test (pain with resisted forward flexion with arm internally rotated, relief with external rotation), positive dynamic labral shear test, and pain reproduction with posterior slide test. SLAP tears often occur in overhead athletes from repetitive traction on biceps-labral complex during cocking/deceleration phases. Type II SLAP (biceps anchor detachment) is most common and problematic. The full passive ROM and near-normal strength help differentiate from rotator cuff pathology. Option A (rotator cuff tendinopathy) typically shows weakness with specific muscle testing (supraspinatus empty can, infraspinatus/teres minor external rotation), painful arc, and positive impingement signs; special labral tests would be negative. Option B (multidirectional instability) shows positive apprehension/relocation tests in multiple planes, sulcus sign, and generalized ligamentous laxity, not specifically positive labral tests. Option C (posterior impingement/internal impingement) can coexist with SLAP tears in overhead athletes, showing pain with abduction/external rotation and GIRD (glenohumeral internal rotation deficit), but specific labral provocation tests help identify the labral component. MRI arthrogram is the gold standard for diagnosis. Treatment: conservative management (scapular stabilization, rotator cuff strengthening, posterior capsule stretching, biomechanical correction) for 3-6 months; surgical repair if conservative treatment fails and symptoms limit participation.",
+        "references": [
+            "https://www.elsevier.com/books/orthopedic-physical-assessment/magee/978-0-323-71317-7",
+            "https://pubmed.ncbi.nlm.nih.gov/30870710/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 66-year-old patient presents 4 months post-ischemic stroke affecting the right middle cerebral artery with resulting left hemiplegia. The patient demonstrates spasticity in the left upper extremity (Modified Ashworth Scale 3), minimal voluntary movement (Brunnstrom Stage 2), and significant shoulder pain limiting ROM and ADL participation. Which intervention is MOST appropriate for managing the spasticity to facilitate function?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Prolonged static stretching of spastic muscles for 30 minutes daily",
+            "B": "Botulinum toxin injection to spastic muscles combined with task-specific training",
+            "C": "Continuous use of resting hand splint to prevent contracture",
+            "D": "Oral baclofen as first-line pharmacological management"
+        },
+        "explanation": "For focal upper extremity spasticity post-stroke limiting function and causing pain, botulinum toxin (BTX) injections combined with intensive rehabilitation have the strongest evidence. BTX-A (Botox) temporarily reduces muscle tone by blocking acetylcholine release at the neuromuscular junction, providing a window (3-4 months) of reduced spasticity during which intensive task-specific therapy can promote motor learning, improve ROM, reduce pain, and enhance function. The combination of BTX and therapy shows superior outcomes compared to either intervention alone. Target muscles typically include biceps, flexor carpi radialis/ulnaris, finger flexors. Option A (prolonged static stretching alone) provides temporary tone reduction but doesn't produce lasting functional improvements or motor learning; effect duration is short. Option C (continuous resting splint) may help prevent contracture but doesn't reduce spasticity or facilitate active movement; prolonged splinting can promote learned non-use. Static splinting has a role in positioning but shouldn't be the primary spasticity intervention. Option D (oral baclofen) is a centrally acting muscle relaxant that can reduce tone but causes systemic side effects (sedation, weakness, cognitive effects) and is less effective for focal upper extremity spasticity compared to BTX. Baclofen is more appropriate for generalized or lower extremity spasticity. Post-BTX rehabilitation should emphasize: functional task practice, strengthening of weakened muscles, constraint-induced therapy principles if appropriate, and ROM exercises. Repeat injections every 3-4 months may be needed. Other options include phenol/alcohol nerve blocks or intrathecal baclofen for severe cases.",
+        "references": [
+            "https://fadavis.com/product/physical-rehabilitation-o-sullivan-schmitz-fulk-7",
+            "https://pubmed.ncbi.nlm.nih.gov/31587903/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 59-year-old male in phase II cardiac rehabilitation has a history of myocardial infarction 10 weeks ago with successful PCI and stent placement. He also has type 2 diabetes. During a routine exercise session, he reports feeling shaky, sweaty, and lightheaded. Heart rate is 88 bpm, blood pressure 132/78 mmHg, and he appears diaphoretic. What is the MOST appropriate immediate action?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Continue exercise at reduced intensity since vital signs are acceptable",
+            "B": "Stop exercise and activate emergency medical services for cardiac event",
+            "C": "Stop exercise immediately and check blood glucose",
+            "D": "Administer aspirin and nitroglycerin for possible angina"
+        },
+        "explanation": "In a diabetic patient during exercise presenting with shakiness, sweating, and lightheadedness, hypoglycemia must be suspected and evaluated immediately. These are classic symptoms of hypoglycemia, which can occur during or after exercise in diabetics (especially on insulin or sulfonylureas) as exercise increases glucose uptake by muscles. The vital signs are relatively normal for exercise, making acute cardiac event less likely (though not excluded). Blood glucose should be checked immediately. If glucose is low (<70 mg/dL), provide 15-20g fast-acting carbohydrate (glucose tablets, juice), wait 15 minutes, recheck, and repeat if needed (Rule of 15). If symptoms persist despite normal glucose, then cardiac causes must be considered. Option A (continue exercise) is dangerous—if hypoglycemic, continued exercise worsens the condition and can lead to seizures or loss of consciousness. Option B (activate EMS for cardiac event) may be premature; while cardiac events must always be considered in this population, the specific symptom constellation and diabetic history make hypoglycemia more likely. If glucose is normal and symptoms persist or worsen, then EMS should be activated. Option D (aspirin/nitroglycerin) is appropriate for angina but this presentation lacks typical anginal symptoms (chest discomfort). Many cardiac rehabilitation facilities have glucometers readily available for rapid assessment. This scenario emphasizes the importance of: pre-exercise glucose screening in diabetics, monitoring for hypoglycemia during exercise, patient education about hypoglycemia symptoms and management, and keeping glucose sources readily available.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-cardiac-rehabilitation-programs-6th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/30789777/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 54-year-old male landscaper presents with progressive low back pain over 2 years. Pain is worse with prolonged standing and walking, relieved by sitting and forward bending. He reports bilateral leg heaviness and occasional numbness but no specific radicular pattern. Physical examination reveals limited lumbar extension, wide-based gait, and normal straight leg raise. MRI shows degenerative changes with central canal stenosis at L3-L4 and L4-L5. Which non-surgical intervention has the STRONGEST evidence for improving function?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Lumbar extension exercises to strengthen erector spinae",
+            "B": "Lumbar flexion-based exercises and postural modification to open spinal canal",
+            "C": "Lumbar traction to decompress neural structures",
+            "D": "Ultrasound and electrical stimulation for pain management"
+        },
+        "explanation": "For lumbar spinal stenosis (LSS), flexion-based exercise programs have the strongest evidence for improving pain, function, and walking capacity. The rationale is biomechanical: lumbar flexion increases spinal canal diameter by opening the intervertebral foramina and posterior spinal canal, reducing neural compression. Exercises emphasizing flexion (pelvic tilts, knee-to-chest stretches, partial sit-ups, stationary biking) combined with postural education (avoid prolonged extension postures, use shopping cart for support) align with the patient's symptom behavior (relief with flexion/sitting). These interventions don't reverse the structural stenosis but improve symptoms and function. The positive bicycle test (can cycle without symptoms) typical of LSS supports flexion-based approach. Option A (extension exercises) would worsen stenosis by decreasing canal diameter and reproducing symptoms. This is contraindicated in LSS, though may be appropriate for other LBP conditions. Option C (lumbar traction) has weak and inconsistent evidence for LSS; some studies show no benefit over sham traction. Option D (modalities like ultrasound/e-stim) may provide temporary pain relief but don't address the underlying pathomechanics or produce lasting functional improvements. Active exercise shows superior long-term outcomes. Additional beneficial interventions include: epidural steroid injections (temporary relief), assistive devices (rolling walker provides forward-flexed posture support), weight loss if applicable, and activity pacing. Surgical decompression is considered when conservative management fails and quality of life is significantly impaired. A comprehensive approach combining flexion exercises, postural strategies, aerobic conditioning (cycling, pool), and functional training shows best outcomes.",
+        "references": [
+            "https://www.mhprofessional.com/dutton-s-orthopaedic-examination-evaluation-and-intervention-fifth-edition-9781260461152-usa",
+            "https://pubmed.ncbi.nlm.nih.gov/31442440/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 73-year-old patient with advanced Parkinson's disease (Hoehn & Yahr Stage 4) demonstrates severe postural instability with multiple falls in the past 2 months. The patient lives alone and is determined to remain independent. Medications were recently optimized without significant improvement in balance. Which intervention strategy is the HIGHEST priority for fall prevention?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Intensive balance training using force plate biofeedback",
+            "B": "Tai Chi classes three times per week",
+            "C": "Vestibular rehabilitation exercises for balance improvement",
+            "D": "Comprehensive home safety evaluation and environmental modification with caregiver support assessment"
+        },
+        "explanation": "At Hoehn & Yahr Stage 4, patients have severe disease with significant postural instability that is minimally responsive to medication or exercise interventions. Multiple recent falls indicate high injury risk and possible need for increased supervision/assistance. While exercise and balance training have benefits in earlier PD stages (2-3), at Stage 4 the disease has progressed beyond what can be significantly modified through exercise alone. The highest priority is preventing falls through environmental modification and ensuring adequate support/supervision. Home safety evaluation should address: removing tripping hazards (rugs, cords, clutter), improving lighting, installing grab bars (bathroom, stairways), evaluating furniture arrangement for safe mobility paths, ensuring appropriate assistive device use, and most critically, assessing whether the patient can safely live alone or needs increased supervision/assistance (caregiver, assisted living). The patient's desire for independence must be balanced against safety realities. Option A (force plate biofeedback) may benefit earlier-stage PD but shows limited efficacy in advanced disease with severe instability. Option B (Tai Chi) has evidence for mild-moderate PD but is inappropriate and potentially dangerous for Stage 4 patients with severe postural instability—fall risk during class would be high. Option C (vestibular rehab) addresses peripheral vestibular dysfunction, not the central basal ganglia pathology causing PD postural instability. Physical therapy should include: gait/transfer training with appropriate assistive device, strengthening within capabilities, caregiver training, fall recovery training (if cognitively able), and realistic discussion about safety concerns and appropriate living situation. At this stage, preventing injury takes priority over restorative goals.",
+        "references": [
+            "https://fadavis.com/product/physical-rehabilitation-o-sullivan-schmitz-fulk-7",
+            "https://pubmed.ncbi.nlm.nih.gov/31678948/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old male presents to outpatient physical therapy with progressive bilateral lower extremity edema, weight gain of 12 pounds over 2 weeks, increasing dyspnea, and orthopnea. He has a history of heart failure (EF 30%) but was stable until recently. During the examination, you note jugular venous distension, bilateral basilar crackles, and 3+ pitting edema to mid-calf bilaterally. What is the MOST appropriate action?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Do not treat; contact physician immediately for acute decompensated heart failure",
+            "B": "Initiate gentle lower extremity exercise to promote venous return",
+            "C": "Perform manual lymphatic drainage to reduce edema",
+            "D": "Teach breathing exercises and defer other treatment until next visit"
+        },
+        "explanation": "This is acute decompensated heart failure (ADHF): rapid weight gain (fluid retention), worsening dyspnea, orthopnea (must elevate head to breathe), JVD (elevated right heart pressures), pulmonary crackles (pulmonary edema), and peripheral edema. This is a medical emergency requiring immediate physician notification, diuretic adjustment, and possible hospitalization. The patient is in fluid overload with pulmonary congestion that can rapidly progress to acute pulmonary edema or respiratory failure. Exercise is absolutely contraindicated—the failing heart cannot meet even resting metabolic demands; exercise would increase myocardial oxygen demand, worsen congestion, and could precipitate cardiogenic shock or dangerous arrhythmias. Option B (gentle exercise) is dangerous regardless of intensity. Option C (manual lymphatic drainage) addresses peripheral edema but ignores the life-threatening cardiac decompensation; the edema is from heart failure, not lymphatic dysfunction, and requires medical treatment (diuretics). Option D (breathing exercises and defer) inadequately addresses the emergency; delaying medical intervention allows continued deterioration. The appropriate action is: recognize decompensation immediately, do not provide any physical therapy treatment, contact the referring physician or advise patient to seek immediate medical attention (may require EMS if symptoms severe), document findings thoroughly, and ensure patient doesn't leave unattended. Signs of ADHF include: rapid weight gain (>2-3 lbs in 1 day or >5 lbs in 1 week), increased dyspnea, orthopnea/PND, peripheral edema, and decreased exercise tolerance. All cardiac rehabilitation staff must recognize decompensation and respond appropriately. After medical stabilization and euvolemic state, cardiac rehabilitation can resume.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-cardiac-rehabilitation-programs-6th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/31862749/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 19-year-old female ballet dancer presents with chronic anterior ankle pain that worsens with relevé (plantarflexion) and during landing from jumps. Physical examination reveals pain with forced dorsiflexion, palpable tenderness at the anterior tibiotalar joint line, and pain with anterior impingement test. Radiographs show anterior tibial and talar osteophytes. What is the MOST likely diagnosis?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Anterior ankle impingement syndrome",
+            "B": "Posterior ankle impingement syndrome",
+            "C": "Syndesmotic ankle sprain",
+            "D": "Tibialis anterior tendinopathy"
+        },
+        "explanation": "This is anterior ankle impingement syndrome (also called footballer's ankle or anterior impingement), characterized by anterior ankle pain from repetitive dorsiflexion causing soft tissue or bony impingement at the anterior ankle. Common in dancers, soccer players, and runners. Key features include: anterior ankle pain with dorsiflexion (closing down anterior ankle space), pain with activities requiring dorsiflexion (landing from jumps, running uphill), tenderness at anterior joint line, positive anterior impingement test (forced dorsiflexion reproduces pain), and radiographic anterior osteophytes (bony spurs on anterior tibia and talus from repetitive microtrauma). The pain during relevé (plantarflexion) occurs when landing/lowering from the position (dorsiflexion). Osteophytes and synovitis/capsular thickening cause impingement between tibia and talus neck during dorsiflexion. Option B (posterior impingement) causes posterior ankle pain with forced plantarflexion (not dorsiflexion), common in ballet dancers doing pointe work, with positive posterior impingement test. Option C (syndesmotic sprain/high ankle sprain) causes pain between tibia-fibula with external rotation stress and squeeze test, typically from acute trauma. Option D (tibialis anterior tendinopathy) causes pain along the anterior tibialis tendon (medial to anterior ankle), pain with resisted dorsiflexion, and palpable tendon tenderness, not joint line tenderness or impingement pain. Treatment includes: activity modification (reduce dorsiflexion-heavy activities), anti-inflammatory measures, ankle mobility exercises (avoiding painful end-range dorsiflexion), strengthening, and technique modification. Refractory cases may benefit from corticosteroid injection or arthroscopic debridement of osteophytes.",
+        "references": [
+            "https://www.elsevier.com/books/orthopedic-physical-assessment/magee/978-0-323-71317-7",
+            "https://pubmed.ncbi.nlm.nih.gov/30699335/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 62-year-old patient presents 2 years post-stroke (left hemisphere) with chronic aphasia and right hemiparesis. The patient has reached a plateau in traditional therapy. The patient and family ask about constraint-induced movement therapy (CIMT). Physical examination shows voluntary wrist extension 15 degrees and finger extension 12 degrees on the affected side. Which factor makes this patient the MOST appropriate candidate for CIMT?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "The 2-year chronic stage allows adequate time for spontaneous recovery before CIMT",
+            "B": "The patient meets minimum motor criteria with 10 degrees wrist and finger extension",
+            "C": "The presence of aphasia will enhance treatment outcomes through forced communication",
+            "D": "Family support ensures compliance with the 90% waking hours constraint protocol"
+        },
+        "explanation": "Constraint-induced movement therapy (CIMT) has strong evidence for improving upper extremity function in chronic stroke, even years post-stroke. The critical patient selection criterion is minimum motor capability: traditionally defined as 10 degrees active wrist extension and 10 degrees finger extension (thumb and 2 other fingers). This patient meets these criteria (15 degrees wrist, 12 degrees finger extension), indicating sufficient voluntary motor control to benefit from intensive practice. CIMT involves: constraining the unaffected limb (mitt/sling) for 90% of waking hours, intensive task-specific training of affected limb (6 hours daily in original protocol, though modified protocols use 2-3 hours), and transfer package (strategies for real-world use). The forced use and intensive practice promote cortical reorganization and learned use even in chronic stroke. Option A misunderstands CIMT timing—it's used in chronic stage (>6 months post-stroke) when spontaneous recovery has plateaued and therapy aims to overcome learned non-use. It can be effective years post-stroke. Option C (aphasia) doesn't enhance CIMT outcomes and may complicate instruction/compliance, but isn't a contraindication if patient can understand and follow directions. Option D (family support) is helpful for compliance but the 90% constraint requirement is from research protocols; modified CIMT with less constraint time shows benefits and may be more realistic. Contraindications include: insufficient voluntary movement (below minimum criteria), severe spasticity preventing functional movement, cognitive deficits preventing participation, and lack of motivation. CIMT requires significant patient commitment and can be physically/mentally demanding.",
+        "references": [
+            "https://fadavis.com/product/physical-rehabilitation-o-sullivan-schmitz-fulk-7",
+            "https://pubmed.ncbi.nlm.nih.gov/31201137/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 47-year-old female with primary pulmonary hypertension (mean PA pressure 52 mmHg) is being evaluated for exercise program initiation. She reports severe dyspnea with minimal exertion (WHO Functional Class III) and recent syncopal episode. Current medications include endothelin receptor antagonist and sildenafil. What is the MOST important consideration before initiating exercise?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Physician clearance and possible supervised exercise testing with hemodynamic monitoring",
+            "B": "Immediate initiation of high-intensity interval training to improve cardiac output",
+            "C": "Starting with resistance training only, avoiding all aerobic exercise",
+            "D": "Home-based walking program without supervision due to PAH severity"
+        },
+        "explanation": "Primary pulmonary arterial hypertension (PAH) with WHO Functional Class III (marked limitation with less than ordinary activity) and syncope represents severe disease requiring careful evaluation before exercise. Until recently, exercise was contraindicated in PAH due to concerns about worsening pulmonary pressures, right heart failure, or syncope/sudden death. However, recent evidence shows supervised, individualized exercise training can be safe and beneficial in stable PAH patients. The critical considerations are: physician clearance ensuring patient is medically optimized and stable, supervised exercise testing (often with hemodynamic monitoring, echocardiography, or right heart catheterization) to assess exercise response and determine safe parameters, close monitoring during training (oxygen saturation, symptoms, blood pressure), supplemental oxygen as needed to prevent hypoxemia and pulmonary vasoconstriction, and low-to-moderate intensity with gradual progression. Syncope history is particularly concerning—indicates inadequate cardiac output response to demands and risk of sudden death. Option B (high-intensity interval training immediately) is dangerous and inappropriate for severe PAH; intensity must be carefully controlled. Option C (resistance only, no aerobic) unnecessarily restricts beneficial aerobic training; both can be included with proper monitoring. Option D (unsupervised home program) is unsafe for WHO Class III PAH; supervised setting with emergency equipment and trained staff is essential. Exercise prescription typically includes: low-intensity aerobic (40-60% peak), resistance training with low weights/high reps, breathing techniques, close symptom surveillance, and oxygen supplementation to maintain SpO2 >88-90%. Programs should be conducted in specialized centers familiar with PAH management.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-pulmonary-rehabilitation-programs-5th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/31177153/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 51-year-old male construction worker presents with insidious onset knee pain over 6 months. Pain is localized to the medial knee, worse with prolonged standing and stair climbing. Physical examination reveals tenderness at the proximal medial tibia (pes anserine insertion), pain with resisted knee flexion and internal rotation, and mild medial knee joint line tenderness. Valgus stress test is negative. What is the MOST likely diagnosis?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Pes anserine bursitis/tendinopathy",
+            "B": "Medial meniscus tear",
+            "C": "Medial collateral ligament sprain",
+            "D": "Medial compartment osteoarthritis"
+        },
+        "explanation": "This is pes anserine bursitis/tendinopathy: gradual onset medial knee pain, tenderness 2-3 cm below medial joint line at the pes anserine insertion (sartorius, gracilis, semitendinosus tendons), pain with resisted knee flexion and internal rotation (loads pes anserine), and typically occurring with overuse or biomechanical factors. The pes anserine bursa lies between the pes tendons and MCL/medial tibial plateau; inflammation can result from repetitive friction, direct trauma, or abnormal knee mechanics (valgus alignment, obesity). Common in middle-aged women and individuals with knee OA. While mild joint line tenderness is present (suggesting possible concomitant medial compartment degeneration), the primary finding is pes anserine tenderness. Option B (medial meniscus tear) would show joint line tenderness as primary finding, positive McMurray or Apley's compression tests, and possibly mechanical symptoms (locking, catching); pain with loading (Thessaly test). The negative valgus stress test doesn't support significant meniscal pathology. Option C (MCL sprain) would have acute traumatic onset, tenderness along MCL course (not pes insertion specifically), pain and laxity with valgus stress test. Option D (medial compartment OA) can coexist with pes anserine pathology but would show radiographic changes, more diffuse medial joint pain, crepitus, and possibly varus deformity. Treatment includes: activity modification (reduce repetitive knee flexion), ice, NSAIDs, stretching (hamstrings, hip adductors), strengthening (quadriceps, hip abductors), addressing biomechanical factors (foot orthotics if excessive pronation, weight loss if applicable), and possibly corticosteroid injection if conservative measures fail. The combination of functional deficits and localized tenderness helps differentiate from other medial knee pathologies.",
+        "references": [
+            "https://www.elsevier.com/books/orthopedic-physical-assessment/magee/978-0-323-71317-7",
+            "https://pubmed.ncbi.nlm.nih.gov/30653349/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 28-year-old patient reports progressive weakness, fatigue, and double vision that worsens throughout the day and improves with rest. Symptoms began 6 months ago. Physical examination reveals bilateral ptosis that worsens with sustained upgaze, facial weakness, and normal reflexes. Edrophonium (Tensilon) test shows temporary improvement in ptosis and strength. What is the MOST likely diagnosis?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Guillain-Barré syndrome",
+            "B": "Multiple sclerosis",
+            "C": "Myasthenia gravis",
+            "D": "Chronic fatigue syndrome"
+        },
+        "explanation": "This is myasthenia gravis (MG): autoimmune neuromuscular junction disorder characterized by fluctuating weakness that worsens with activity and improves with rest. Key features include: fatigable weakness (worse as day progresses), ptosis and diplopia (ocular muscles commonly affected first), facial weakness, positive Tensilon test (temporary strength improvement with acetylcholinesterase inhibitor confirms diagnosis), normal reflexes (distinguishes from neuropathies), and absence of sensory symptoms. MG is caused by antibodies against acetylcholine receptors at the neuromuscular junction, reducing effective neurotransmission. The 'fatigability' pattern (worsening with repeated muscle use, improvement with rest) is pathognomonic. Young women (20s-30s) are commonly affected. Option A (Guillain-Barré syndrome) presents with ascending weakness, areflexia, and doesn't show fatigability pattern or improvement with rest; weakness is progressive over days-weeks, not fluctuating. Option B (multiple sclerosis) can cause diplopia and weakness but shows CNS signs (hyperreflexia, positive Babinski, sensory changes, MRI lesions), not fatigable weakness or positive Tensilon test. Option D (chronic fatigue syndrome) involves systemic fatigue but not true muscle weakness, no objective findings like ptosis, and negative Tensilon test. Treatment includes: acetylcholinesterase inhibitors (pyridostigmine), immunosuppression (corticosteroids, azathioprine), thymectomy (many patients have thymic abnormalities), and in crises, plasmapheresis or IVIG. Physical therapy focuses on: energy conservation, pacing activities to avoid fatigue, strengthening during optimal times (morning after medication), respiratory muscle training, and dysphagia management if bulbar muscles affected. Myasthenic crisis (severe weakness affecting breathing) is a medical emergency.",
+        "references": [
+            "https://fadavis.com/product/physical-rehabilitation-o-sullivan-schmitz-fulk-7",
+            "https://pubmed.ncbi.nlm.nih.gov/31152172/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 63-year-old male with chronic heart failure (EF 28%, NYHA Class II) on optimal medical therapy is participating in cardiac rehabilitation. Recent lab work shows elevated BNP (brain natriuretic peptide) at 450 pg/mL (normal <100). He reports feeling well with no change in symptoms. What does the elevated BNP indicate about his current status?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "The patient is experiencing acute myocardial ischemia requiring immediate intervention",
+            "B": "Elevated ventricular wall stress indicating possible subclinical volume overload",
+            "C": "Normal finding in chronic heart failure patients that requires no action",
+            "D": "Medication noncompliance requiring counseling"
+        },
+        "explanation": "Brain natriuretic peptide (BNP) is released by ventricular myocardium in response to increased wall stress from volume or pressure overload. Elevated BNP (>100 pg/mL, particularly >400 pg/mL) in heart failure patients indicates increased ventricular stretch, even when patients are clinically compensated. This patient's BNP of 450 pg/mL suggests subclinical volume overload or worsening ventricular function despite feeling 'well.' While not an emergency requiring immediate exercise cessation, it warrants: physician notification for possible medication adjustment (diuretic increase), closer monitoring during exercise, and patient education about early decompensation signs. BNP is useful for: diagnosing HF, assessing severity, guiding therapy, and predicting outcomes. Rising BNP may precede clinical decompensation by days-weeks. Option A (acute ischemia) is incorrect—BNP elevates with wall stress, not specifically ischemia; troponin would indicate acute ischemia. Option C (normal finding requiring no action) underestimates the prognostic significance; while chronic HF patients often have elevated BNP, levels >400 pg/mL indicate higher risk and may warrant treatment adjustment. Option D (medication noncompliance) is one possible cause but many factors affect BNP (worsening HF, arrhythmias, renal function, progression of disease). The appropriate response is reporting to physician (not assuming non-compliance), continuing monitored exercise unless physician advises otherwise, and educating patient about decompensation signs. Serial BNP measurement helps track HF status; stable or decreasing levels suggest good control, while rising levels may indicate need for intervention before clinical decompensation occurs.",
+        "references": [
+            "https://www.humankinetics.com/products/guidelines-for-cardiac-rehabilitation-programs-6th-edition",
+            "https://pubmed.ncbi.nlm.nih.gov/31533080/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 37-year-old female presents 6 months post-anterior cruciate ligament reconstruction with patellar tendon autograft. She has full knee ROM, quadriceps strength 85% of contralateral limb, and single-leg hop test showing 82% limb symmetry index. She wants to return to recreational soccer. What is the MOST appropriate recommendation?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Full clearance to return to soccer since ROM is full and time from surgery is adequate",
+            "B": "Continue rehabilitation for 3 more months before any return-to-sport consideration",
+            "C": "Not yet cleared; continue strengthening and functional training until meeting >90% criteria",
+            "D": "Clear for return with use of functional knee brace for added protection"
+        },
+        "explanation": "Current evidence-based return-to-sport criteria after ACL reconstruction require meeting multiple objective benchmarks to reduce reinjury risk. While this patient has made good progress (full ROM, 85% quad strength, 82% hop test at 6 months), she does NOT meet the recommended criteria: minimum 9 months from surgery (she's at 6 months), quadriceps strength limb symmetry index (LSI) >90% (she's 85%), hop test battery LSI >90% (she's 82%), successful completion of sport-specific drills, and psychological readiness. Research shows that patients who meet all criteria have significantly lower ACL graft rupture rates compared to those who don't. Early return increases risk of reinjury to either knee. Option A (full clearance at 6 months) violates time and functional criteria; 6 months is too early regardless of testing. Option B (wait 3 more months then automatic clearance) assumes time alone is sufficient; patients must demonstrate functional readiness through objective testing, not just wait. Option D (brace use for protection) provides false security—functional braces don't prevent ACL injuries and don't compensate for inadequate neuromuscular control or strength. The appropriate recommendation is continued rehabilitation focusing on: progressive strengthening (particularly quadriceps to reach >90% LSI), plyometric training, agility drills, sport-specific training, and retesting at 9 months. If criteria are met at that time (strength, hop tests >90% LSI, confident in knee, successful sport drills), return-to-sport can be considered. Shared decision-making with patient about risks is important. Female athletes may benefit from even more stringent criteria (>95% LSI) given higher reinjury risk.",
+        "references": [
+            "https://www.mhprofessional.com/dutton-s-orthopaedic-examination-evaluation-and-intervention-fifth-edition-9781260461152-usa",
+            "https://pubmed.ncbi.nlm.nih.gov/30596602/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 55-year-old female presents with chronic low back pain radiating into her left buttock. She reports pain worsening with prolonged sitting and bending forward. Neurological exam reveals normal strength, intact reflexes, and negative straight-leg raise. Palpation reveals hypertonicity of the lumbar paraspinals and tenderness over the left sacroiliac joint. Which intervention is MOST appropriate initially?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Aggressive lumbar flexion stretching and heavy resistance training",
+            "B": "Manual therapy to the lumbar spine and sacroiliac joint combined with core stabilization exercises",
+            "C": "Electrical stimulation and high-intensity aerobic exercise",
+            "D": "Immediate use of a lumbar brace for all activities"
+        },
+        "explanation": "Option B is correct because manual therapy combined with core stabilization addresses musculoskeletal imbalances and hypertonicity, improving function without provoking pain. Aggressive lumbar flexion (A) may worsen symptoms. Electrical stimulation and high-intensity aerobic exercise (C) do not target the underlying biomechanical dysfunction. Immediate bracing (D) can lead to deconditioning and dependency, which is not indicated for chronic low back pain.",
+        "references": [
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)",
+            "[https://www.sciencedirect.com/topics/medicine-and-dentistry/chronic-low-back-pain](https://www.sciencedirect.com/topics/medicine-and-dentistry/chronic-low-back-pain)"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old male post-stroke presents with right hemiparesis. He demonstrates decreased proprioception and impaired balance, requiring minimal assistance for sit-to-stand. Which intervention BEST addresses his deficits?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Passive range of motion exercises for all joints",
+            "B": "High-resistance strengthening of the unaffected limb only",
+            "C": "Task-specific balance training combined with proprioceptive neuromuscular facilitation techniques",
+            "D": "Prolonged bed rest to prevent fatigue"
+        },
+        "explanation": "Option C is correct because task-specific balance training and PNF techniques improve proprioception and functional mobility post-stroke. Passive ROM (A) alone does not address functional deficits. Strengthening only the unaffected limb (B) neglects hemiparetic side recovery. Prolonged bed rest (D) increases deconditioning and risk of complications.",
+        "references": [
+            "[https://www.ncbi.nlm.nih.gov/books/NBK537331/](https://www.ncbi.nlm.nih.gov/books/NBK537331/)",
+            "[https://www.sciencedirect.com/topics/medicine-and-dentistry/stroke-rehabilitation](https://www.sciencedirect.com/topics/medicine-and-dentistry/stroke-rehabilitation)"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 72-year-old male with chronic obstructive pulmonary disease (COPD) presents with dyspnea on minimal exertion and a history of frequent exacerbations. His oxygen saturation is 89% on room air. Which intervention is MOST appropriate to improve functional endurance?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Structured, supervised pulmonary rehabilitation program emphasizing endurance and breathing techniques",
+            "B": "High-intensity treadmill training without supplemental oxygen",
+            "C": "Long-term bed rest to conserve energy",
+            "D": "Aggressive inspiratory muscle training with maximal effort"
+        },
+        "explanation": "Option A is correct as pulmonary rehabilitation programs improve exercise tolerance, dyspnea, and quality of life. High-intensity treadmill training without oxygen (B) risks hypoxemia. Long-term bed rest (C) exacerbates deconditioning. Maximal-effort inspiratory muscle training (D) may be unsafe for severe COPD without monitoring.",
+        "references": [
+            "[https://www.atsjournals.org/doi/full/10.1164/rccm.201205-0818CI](https://www.atsjournals.org/doi/full/10.1164/rccm.201205-0818CI)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 30-year-old male runner complains of anterior knee pain that worsens with squatting and descending stairs. Physical exam reveals tenderness over the patellar tendon and pain with resisted knee extension. Which intervention is MOST appropriate initially?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity plyometric training immediately",
+            "B": "Eccentric quadriceps strengthening and activity modification",
+            "C": "Complete immobilization of the knee for 4 weeks",
+            "D": "Aggressive stretching of the hamstrings and gastrocnemius only"
+        },
+        "explanation": "Option B is correct because eccentric quadriceps strengthening reduces patellar tendon load and pain while activity modification prevents aggravation. High-intensity plyometrics (A) would exacerbate symptoms. Immobilization (C) is unnecessary and counterproductive. Stretching only hamstrings and gastrocnemius (D) does not address the primary patellar tendon pathology.",
+        "references": [
+            "[https://www.sciencedirect.com/topics/medicine-and-dentistry/patellar-tendinopathy](https://www.sciencedirect.com/topics/medicine-and-dentistry/patellar-tendinopathy)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 45-year-old female with multiple sclerosis presents with progressive spasticity of the lower extremities and difficulty with ambulation. She demonstrates a stiff-legged gait and knee hyperextension during stance phase. Which intervention is MOST appropriate?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "High-intensity resistance training of plantarflexors only",
+            "B": "Prolonged bed rest to reduce fatigue",
+            "C": "Stretching of spastic muscles combined with gait training emphasizing proper knee control",
+            "D": "Electrical stimulation of upper extremities only"
+        },
+        "explanation": "Option C is correct because stretching spastic muscles and gait training addressing knee control improves mobility and reduces contracture risk. High-intensity resistance (A) may worsen spasticity if not carefully monitored. Bed rest (B) leads to deconditioning. Upper extremity electrical stimulation (D) does not address lower extremity spasticity or gait deficits.",
+        "references": [
+            "[https://www.ncbi.nlm.nih.gov/books/NBK537331/](https://www.ncbi.nlm.nih.gov/books/NBK537331/)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 60-year-old male post-myocardial infarction (MI) is referred for cardiac rehabilitation. He has stable vital signs, a left ventricular ejection fraction of 45%, and no angina at rest. What is the MOST appropriate exercise prescription?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity interval training without monitoring",
+            "B": "Supervised moderate-intensity aerobic training with gradual progression",
+            "C": "Immediate vigorous resistance training of upper body",
+            "D": "Bed rest for 2 weeks to prevent strain"
+        },
+        "explanation": "Option B is correct because moderate-intensity aerobic training under supervision improves cardiovascular conditioning post-MI safely. High-intensity unsupervised exercise (A) poses cardiac risk. Immediate vigorous resistance training (C) may stress the healing myocardium. Bed rest (D) delays recovery and reduces cardiovascular fitness.",
+        "references": [
+            "[https://www.ahajournals.org/doi/10.1161/01.CIR.0000435708.69564.16](https://www.ahajournals.org/doi/10.1161/01.CIR.0000435708.69564.16)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 25-year-old male soccer player presents with acute inversion ankle injury. He has lateral ankle swelling, tenderness over the anterior talofibular ligament, and difficulty bearing weight. Which intervention is MOST appropriate initially?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "RICE (Rest, Ice, Compression, Elevation) and protected weight-bearing with an ankle brace",
+            "B": "Aggressive stretching of lateral ligaments immediately",
+            "C": "High-intensity plyometric training to restore function",
+            "D": "Complete immobilization for 6 weeks without weight-bearing"
+        },
+        "explanation": "Option A is correct because RICE and protected weight-bearing reduce swelling and promote safe healing in acute ankle sprains. Aggressive stretching (B) may worsen ligament injury. High-intensity plyometrics (C) are inappropriate in acute phase. Prolonged immobilization (D) is usually excessive and can delay recovery.",
+        "references": [
+            "[https://www.ncbi.nlm.nih.gov/books/NBK539841/](https://www.ncbi.nlm.nih.gov/books/NBK539841/)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 50-year-old male with Parkinson’s disease demonstrates shuffling gait, decreased arm swing, and difficulty initiating steps. Which intervention is MOST effective to improve gait initiation and stride length?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Passive range of motion exercises only",
+            "B": "Resistance training of upper extremities only",
+            "C": "Long-term bed rest to conserve energy",
+            "D": "Cueing strategies, treadmill training, and task-specific gait practice"
+        },
+        "explanation": "Option D is correct because cueing strategies, treadmill training, and task-specific practice improve stride length, initiation, and overall gait quality in Parkinson’s disease. Passive ROM (A) does not improve gait function. Upper extremity resistance alone (B) has minimal impact. Bed rest (C) worsens mobility and function.",
+        "references": [
+            "[https://www.ncbi.nlm.nih.gov/books/NBK537331/](https://www.ncbi.nlm.nih.gov/books/NBK537331/)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 65-year-old female with heart failure (LVEF 35%) reports exertional dyspnea and lower extremity edema. She is on optimized medical therapy. Which intervention MOST improves functional capacity safely?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity unsupervised resistance training",
+            "B": "Supervised low- to moderate-intensity aerobic training with monitoring",
+            "C": "Complete bed rest to reduce cardiac workload",
+            "D": "High-intensity plyometric training"
+        },
+        "explanation": "Option B is correct because supervised low- to moderate-intensity aerobic training improves exercise tolerance and quality of life in heart failure. High-intensity unsupervised training (A) and plyometrics (D) are unsafe. Complete bed rest (C) leads to deconditioning and worsens prognosis.",
+        "references": [
+            "[https://www.ahajournals.org/doi/10.1161/CIR.0000000000000929](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000929)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 40-year-old female presents with lateral epicondylitis. She reports pain with gripping and wrist extension. Which initial physical therapy intervention is MOST appropriate?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Immediate high-resistance wrist extension exercises",
+            "B": "Complete immobilization of the elbow for 6 weeks",
+            "C": "Activity modification, forearm strap, and eccentric wrist extensor exercises",
+            "D": "Aggressive stretching of wrist flexors only"
+        },
+        "explanation": "Option C is correct because activity modification, counterforce bracing, and eccentric exercises reduce tendon load and promote healing. High-resistance exercises (A) or immobilization (B) may worsen symptoms. Stretching flexors only (D) does not address the affected wrist extensors.",
+        "references": [
+            "[https://www.sciencedirect.com/topics/medicine-and-dentistry/lateral-epicondylitis](https://www.sciencedirect.com/topics/medicine-and-dentistry/lateral-epicondylitis)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 38-year-old male with Guillain-Barré syndrome is in the plateau phase of recovery. He demonstrates generalized weakness, but sensation is improving. Which intervention is MOST appropriate?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity resistance training immediately",
+            "B": "Gradual, low-resistance strengthening and functional mobility exercises",
+            "C": "Complete bed rest to prevent fatigue",
+            "D": "Electrical stimulation of paralyzed muscles only"
+        },
+        "explanation": "Option B is correct because gradual strengthening and functional mobility prevent deconditioning without overfatiguing the recovering nerves. High-intensity resistance (A) risks overwork weakness. Bed rest (C) delays recovery. Electrical stimulation alone (D) is insufficient for overall functional recovery.",
+        "references": [
+            "[https://www.ncbi.nlm.nih.gov/books/NBK537331/](https://www.ncbi.nlm.nih.gov/books/NBK537331/)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 70-year-old male with chronic bronchitis presents with shortness of breath when walking 50 meters. Which intervention MOST improves his exercise tolerance?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Pulmonary rehabilitation focusing on endurance, strength, and breathing strategies",
+            "B": "Prolonged bed rest to prevent dyspnea",
+            "C": "High-intensity sprint walking without monitoring",
+            "D": "Only inhaler use without exercise"
+        },
+        "explanation": "Option A is correct because structured pulmonary rehab improves functional capacity and reduces dyspnea. Bed rest (B) worsens deconditioning. High-intensity unsupervised exercise (C) risks hypoxemia. Medication alone (D) is insufficient to improve exercise tolerance.",
+        "references": [
+            "[https://www.atsjournals.org/doi/full/10.1164/rccm.201205-0818CI](https://www.atsjournals.org/doi/full/10.1164/rccm.201205-0818CI)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 35-year-old female presents with chronic plantar fasciitis. She reports heel pain worst with first steps in the morning. Which intervention is MOST appropriate initially?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "High-intensity plyometric training immediately",
+            "B": "Complete immobilization of the foot for 4 weeks",
+            "C": "Calf stretching, plantar fascia mobilization, and activity modification",
+            "D": "Aggressive strengthening of intrinsic foot muscles only"
+        },
+        "explanation": "Option C is correct because stretching and fascia mobilization reduce pain while activity modification prevents aggravation. Plyometrics (A) or immobilization (B) are inappropriate in chronic plantar fasciitis. Intrinsic muscle strengthening alone (D) is insufficient to relieve symptoms.",
+        "references": [
+            "[https://www.sciencedirect.com/topics/medicine-and-dentistry/plantar-fasciitis](https://www.sciencedirect.com/topics/medicine-and-dentistry/plantar-fasciitis)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 60-year-old male post-stroke demonstrates left-sided hemiplegia and poor trunk control. He can sit with support but has difficulty reaching forward. Which intervention is MOST appropriate?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Passive range of motion exercises only",
+            "B": "Task-specific trunk control training and reaching activities in sitting",
+            "C": "Prolonged bed rest to prevent falls",
+            "D": "High-intensity lower limb resistance training only"
+        },
+        "explanation": "Option B is correct because task-specific trunk and reaching exercises improve functional sitting balance and upper limb reach. Passive ROM alone (A) does not address functional deficits. Bed rest (C) worsens deconditioning. Lower limb strengthening alone (D) does not address trunk control.",
+        "references": [
+            "[https://www.ncbi.nlm.nih.gov/books/NBK537331/](https://www.ncbi.nlm.nih.gov/books/NBK537331/)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 65-year-old female with peripheral artery disease experiences calf pain after 100 meters of walking, which resolves with rest. Which intervention MOST improves walking distance?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "High-intensity running immediately",
+            "B": "Complete bed rest to prevent pain",
+            "C": "Supervised graded treadmill walking to near-claudication pain",
+            "D": "Only pharmacological therapy without exercise"
+        },
+        "explanation": "Option C is correct because graded treadmill training improves collateral circulation and walking distance in peripheral artery disease. High-intensity running (A) is unsafe. Bed rest (B) worsens functional limitation. Pharmacology alone (D) is insufficient without exercise training.",
+        "references": [
+            "[https://www.sciencedirect.com/topics/medicine-and-dentistry/peripheral-artery-disease](https://www.sciencedirect.com/topics/medicine-and-dentistry/peripheral-artery-disease)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 28-year-old male with ACL reconstruction 2 weeks ago reports swelling, mild pain, and limited knee flexion. Which intervention is MOST appropriate?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Aggressive weight-bearing squats immediately",
+            "B": "Protected weight-bearing, cryotherapy, and gentle range of motion exercises",
+            "C": "Complete immobilization for 6 weeks",
+            "D": "High-intensity plyometric training"
+        },
+        "explanation": "Option B is correct because early controlled motion and protected weight-bearing reduce stiffness and promote healing. Aggressive squats (A) or plyometrics (D) risk graft failure. Complete immobilization (C) leads to joint stiffness and delayed recovery.",
+        "references": [
+            "[https://www.sciencedirect.com/topics/medicine-and-dentistry/anterior-cruciate-ligament-reconstruction](https://www.sciencedirect.com/topics/medicine-and-dentistry/anterior-cruciate-ligament-reconstruction)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 40-year-old female with cervical spinal cord injury at C6 demonstrates partial wrist extension but limited finger function. Which intervention is MOST appropriate to maximize independence?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "High-intensity lower limb strengthening only",
+            "B": "Passive ROM exercises only",
+            "C": "Task-specific upper limb training and use of adaptive devices",
+            "D": "Prolonged bed rest to prevent fatigue"
+        },
+        "explanation": "Option C is correct because task-specific upper limb training and adaptive devices promote functional independence. Lower limb strengthening (A) does not address upper limb deficits. Passive ROM alone (B) does not improve function. Bed rest (D) leads to deconditioning and loss of independence.",
+        "references": [
+            "[https://www.ncbi.nlm.nih.gov/books/NBK537331/](https://www.ncbi.nlm.nih.gov/books/NBK537331/)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 55-year-old male with recent coronary artery bypass graft surgery is cleared for outpatient cardiac rehab. He reports mild exertional fatigue but no chest pain. What is the MOST appropriate initial exercise intensity?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity interval training immediately",
+            "B": "Supervised low- to moderate-intensity aerobic training with gradual progression",
+            "C": "Prolonged bed rest to prevent strain",
+            "D": "Vigorous resistance training of upper body only"
+        },
+        "explanation": "Option B is correct because supervised low- to moderate-intensity aerobic exercise is safe and improves cardiovascular conditioning post-CABG. High-intensity training (A) or vigorous resistance (D) is unsafe initially. Bed rest (C) delays recovery and reduces cardiovascular fitness.",
+        "references": [
+            "[https://www.ahajournals.org/doi/10.1161/01.CIR.0000435708.69564.16](https://www.ahajournals.org/doi/10.1161/01.CIR.0000435708.69564.16)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 32-year-old male presents with chronic low back pain worsened by prolonged sitting. Examination reveals weak abdominal and gluteal muscles and tight hip flexors. Which intervention is MOST effective initially?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Core stabilization and hip flexor stretching exercises",
+            "B": "Aggressive lumbar flexion stretching only",
+            "C": "High-intensity lumbar extension resistance training immediately",
+            "D": "Complete bed rest to prevent pain"
+        },
+        "explanation": "Option A is correct because strengthening core muscles and stretching tight hip flexors improves posture, spinal support, and reduces pain. Lumbar flexion stretching only (B) does not address weakness. High-intensity lumbar extension (C) may exacerbate symptoms. Bed rest (D) worsens deconditioning.",
+        "references": [
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)",
+            "[https://www.sciencedirect.com/topics/medicine-and-dentistry/chronic-low-back-pain](https://www.sciencedirect.com/topics/medicine-and-dentistry/chronic-low-back-pain)"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 60-year-old female with multiple sclerosis reports spasticity and foot drop affecting gait. She can ambulate short distances with a cane. Which intervention is MOST appropriate?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Prolonged bed rest to prevent fatigue",
+            "B": "High-intensity plyometric training immediately",
+            "C": "Ankle-foot orthosis combined with stretching and gait training",
+            "D": "Electrical stimulation of upper extremities only"
+        },
+        "explanation": "Option C is correct because an ankle-foot orthosis supports foot clearance while stretching and gait training address spasticity and improve mobility. Bed rest (A) reduces function. Plyometric training (B) is inappropriate. Upper extremity electrical stimulation (D) does not address lower limb deficits.",
+        "references": [
+            "[https://www.ncbi.nlm.nih.gov/books/NBK537331/](https://www.ncbi.nlm.nih.gov/books/NBK537331/)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 58-year-old male with COPD reports dyspnea when climbing stairs. Oxygen saturation is 92% at rest. Which intervention MOST effectively improves functional endurance?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Supervised pulmonary rehabilitation with endurance and breathing exercises",
+            "B": "High-intensity sprint walking without oxygen monitoring",
+            "C": "Complete bed rest to conserve energy",
+            "D": "Use of inhalers only without exercise"
+        },
+        "explanation": "Option A is correct because structured pulmonary rehabilitation improves exercise tolerance, reduces dyspnea, and enhances quality of life. High-intensity unsupervised exercise (B) risks hypoxemia. Bed rest (C) worsens deconditioning. Medication alone (D) does not improve endurance.",
+        "references": [
+            "[https://www.atsjournals.org/doi/full/10.1164/rccm.201205-0818CI](https://www.atsjournals.org/doi/full/10.1164/rccm.201205-0818CI)",
+            "[https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230](https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230)"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 27-year-old male basketball player presents with acute shoulder pain after a fall on an outstretched hand. He reports pain at the anterior shoulder, limited active abduction, and visible asymmetry compared to the contralateral side. Which is the MOST appropriate initial intervention?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Immobilization with a sling and referral to orthopedic surgeon",
+            "B": "Immediate aggressive range-of-motion exercises",
+            "C": "High-intensity resistance training to restore strength",
+            "D": "Application of heat and massage only"
+        },
+        "explanation": "Option A is correct because acute shoulder dislocations require immobilization and orthopedic evaluation to prevent further injury. Aggressive ROM (B) or high-intensity training (C) may worsen the dislocation or associated soft tissue injury. Heat and massage (D) alone do not stabilize the joint or address structural damage.",
+        "references": [
+            "https://www.sciencedirect.com/topics/medicine-and-dentistry/shoulder-dislocation",
+            "https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 52-year-old female with Parkinson’s disease demonstrates festinating gait, decreased stride length, and difficulty turning. Which intervention is MOST likely to improve gait mechanics?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Passive range-of-motion exercises only",
+            "B": "Strengthening of upper extremities only",
+            "C": "Prolonged bed rest to conserve energy",
+            "D": "Cueing strategies, treadmill training, and task-specific gait practice"
+        },
+        "explanation": "Option D is correct because cueing strategies (visual or auditory), treadmill training, and task-specific gait practice improve stride length, turning, and initiation in Parkinson’s patients. Passive ROM (A) or upper extremity strengthening alone (B) do not address gait mechanics. Bed rest (C) worsens deconditioning.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537331/",
+            "https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 70-year-old male with chronic heart failure (LVEF 35%) reports shortness of breath with minimal exertion. Which exercise intervention is MOST appropriate to improve functional capacity safely?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity interval training without supervision",
+            "B": "Supervised low- to moderate-intensity aerobic training with gradual progression",
+            "C": "Complete bed rest to prevent dyspnea",
+            "D": "High-intensity plyometric lower limb training"
+        },
+        "explanation": "Option B is correct because low- to moderate-intensity aerobic training under supervision safely improves cardiovascular endurance and functional capacity. High-intensity unsupervised exercise (A) and plyometrics (D) pose risks. Bed rest (C) leads to deconditioning and worsens prognosis.",
+        "references": [
+            "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000929",
+            "https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 35-year-old female runner presents with medial tibial stress syndrome. She reports pain along the medial tibial border during activity, worse with increasing mileage. Which intervention is MOST appropriate initially?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Immediate high-intensity plyometric training",
+            "B": "Complete immobilization of the lower limb",
+            "C": "Activity modification, calf stretching, and strengthening exercises",
+            "D": "Aggressive deep tissue massage only"
+        },
+        "explanation": "Option C is correct because modifying activity and implementing stretching/strengthening reduces stress on tibial structures while promoting healing. High-intensity plyometrics (A) or immobilization (B) are inappropriate. Massage alone (D) does not address biomechanical loading.",
+        "references": [
+            "https://www.sciencedirect.com/topics/medicine-and-dentistry/medial-tibial-stress-syndrome",
+            "https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 45-year-old male post-stroke demonstrates right hemiplegia and difficulty performing sit-to-stand independently. He has fair strength in non-paretic lower extremities and trace strength in the paretic leg. Which intervention is MOST appropriate?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity lower limb strengthening on the non-paretic side only",
+            "B": "Task-specific sit-to-stand training with partial weight-bearing support for the paretic leg",
+            "C": "Prolonged bed rest to prevent fatigue",
+            "D": "Passive ROM exercises only"
+        },
+        "explanation": "Option B is correct because task-specific training with support encourages functional recovery and motor control in the paretic leg. Strengthening non-paretic limb only (A) does not address functional deficits. Bed rest (C) delays recovery. Passive ROM (D) alone does not improve functional mobility.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537331/",
+            "https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 65-year-old female with COPD reports dyspnea while walking 100 meters on level ground. Oxygen saturation is 90%. Which intervention MOST improves functional endurance?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Supervised pulmonary rehabilitation with endurance and breathing exercises",
+            "B": "High-intensity sprint walking without oxygen monitoring",
+            "C": "Complete bed rest to prevent dyspnea",
+            "D": "Inhaler use only without exercise"
+        },
+        "explanation": "Option A is correct because structured pulmonary rehab improves exercise tolerance, dyspnea, and quality of life. High-intensity unsupervised exercise (B) may cause hypoxemia. Bed rest (C) worsens deconditioning. Medication alone (D) does not improve functional capacity.",
+        "references": [
+            "https://www.atsjournals.org/doi/full/10.1164/rccm.201205-0818CI",
+            "https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 29-year-old female presents with lateral ankle sprain after an inversion injury. She has moderate swelling, tenderness over the anterior talofibular ligament, and difficulty bearing weight. Which intervention is MOST appropriate initially?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "RICE (rest, ice, compression, elevation) and protected weight-bearing with an ankle brace",
+            "B": "Aggressive stretching of lateral ligaments immediately",
+            "C": "High-intensity plyometric training to restore function",
+            "D": "Complete immobilization for 6 weeks without weight-bearing"
+        },
+        "explanation": "Option A is correct because RICE with protected weight-bearing reduces swelling and promotes safe healing. Aggressive stretching (B) or high-intensity plyometrics (C) may worsen injury. Prolonged immobilization (D) is usually excessive and delays functional recovery.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK539841/",
+            "https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 60-year-old female with multiple sclerosis presents with spasticity in the lower extremities and foot drop. She can ambulate short distances with a cane. Which intervention is MOST appropriate?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Prolonged bed rest to prevent fatigue",
+            "B": "High-intensity plyometric training immediately",
+            "C": "Ankle-foot orthosis combined with stretching and gait training",
+            "D": "Electrical stimulation of upper extremities only"
+        },
+        "explanation": "Option C is correct because an AFO supports foot clearance, while stretching and gait training address spasticity and improve mobility. Bed rest (A) reduces function. Plyometrics (B) are inappropriate. Upper extremity stimulation (D) does not address lower limb deficits.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537331/",
+            "https://accessphysiotherapy.mhmedical.com/content.aspx?bookid=475&sectionid=40791230"
         ]
     }
 ]
