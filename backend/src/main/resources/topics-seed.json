@@ -7114,21 +7114,2940 @@
     ]
   },
   {
-    "id": 5009,
-    "bodySystem": "Neuromuscular & Nervous",
-    "difficulty": "Exam Level",
-    "questionText": "A patient following a stroke demonstrates a significant knee hyperextension (genu recurvatum) during the midstance phase of gait. You note significant weakness in the quadriceps muscle group (3/5 MMT) and moderate spasticity in the plantarflexors.\n\nWhich orthotic adjustment or intervention is MOST likely to improve this specific gait deviation?",
-    "correctAnswer": "D",
-    "options": {
-      "A": "Setting the AFO in 5 degrees of plantarflexion",
-      "B": "Applying a heel lift to the contralateral limb",
-      "C": "Using a knee cage to lock the joint",
-      "D": "Ankle-foot orthosis (AFO) set in 5 degrees of dorsiflexion"
-    },
-    "explanation": "Knee hyperextension in stance is often caused by either weak quadriceps (unable to control knee flexion) or tight/spastic plantarflexors (pulling the tibia back). By setting an AFO in a few degrees of dorsiflexion, you create a flexion moment at the knee during stance, which physically prevents the 'snapping back' into hyperextension. Setting it in plantarflexion would actually worsen the hyperextension. A heel lift on the other side does not address the biomechanical fault of the affected limb.",
+    "title": "Anterior Cruciate Ligament (ACL) Rehabilitation",
+    "category": "Musculoskeletal",
+    "content": "### Introduction\nThe ACL is a vital stabilizer of the knee. Post-operative rehab follows a structured phase-based approach.\n\n### Phases of Rehab\n*   **Phase I**: Protection and Range of Motion (Week 1-4)\n*   **Phase II**: Strengthening and Functional Tasks (Week 5-12)\n*   **Phase III**: Return to Sport (Month 4+)",
     "references": [
-      "https://edubirdie.com/examples/orthotics-and-prosthetics-in-physical-therapy/",
-      "Magee's Orthopedic Physical Assessment"
+      "Dutton's Orthopaedic Examination",
+      "FSBPT Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Rotator Cuff Pathology and Conservative Management",
+    "category": "Musculoskeletal",
+    "content": "### Overview\nRotator cuff injuries range from tendinopathy to full-thickness tears. Conservative management is first-line for many patients.\n\n### Key Interventions\n*   **Pain Management**: Modalities and activity modification\n*   **ROM Exercises**: Pendulums, AAROM, PROM progressing to AROM\n*   **Strengthening**: Scapular stabilizers first, then rotator cuff\n*   **Functional Training**: ADL retraining and work-specific tasks",
+    "references": [
+      "Kisner & Colby Therapeutic Exercise",
+      "APTA Clinical Practice Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Stroke Rehabilitation: Acute Phase",
+    "category": "Neuromuscular",
+    "content": "### Initial Assessment\nEarly mobilization within 24-48 hours is critical for optimal outcomes.\n\n### Priority Interventions\n*   **Positioning**: Prevent contractures and skin breakdown\n*   **Early Mobilization**: Sitting balance, transfers, gait training\n*   **Hemiplegic Limb Care**: ROM, edema management\n*   **Fall Prevention**: Environmental modifications and caregiver training",
+    "references": [
+      "O'Sullivan's Physical Rehabilitation",
+      "AHA Stroke Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Parkinson's Disease: Gait and Balance Training",
+    "category": "Neuromuscular",
+    "content": "### Characteristic Impairments\nPatients present with festinating gait, reduced stride length, and postural instability.\n\n### Evidence-Based Interventions\n*   **Cueing Strategies**: Visual (floor markers), auditory (metronome), verbal\n*   **Large Amplitude Movements**: LSVT BIG protocol\n*   **Balance Training**: Multidirectional reaching, dual-task training\n*   **Fall Prevention**: Home modifications and compensatory strategies",
+    "references": [
+      "Neurological Rehabilitation 6th Edition",
+      "APTA Parkinson's Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1609188076864-c35269136352?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Chronic Obstructive Pulmonary Disease (COPD) Management",
+    "category": "Cardiopulmonary",
+    "content": "### Overview\nCOPD causes airflow limitation and exercise intolerance requiring comprehensive rehabilitation.\n\n### Key Components\n*   **Breathing Techniques**: Pursed-lip breathing, diaphragmatic breathing\n*   **Exercise Training**: Aerobic and resistance training at appropriate intensity\n*   **Energy Conservation**: Pacing, positioning for dyspnea relief\n*   **Secretion Clearance**: Postural drainage, percussion as indicated",
+    "references": [
+      "Cardiovascular and Pulmonary Physical Therapy",
+      "GOLD COPD Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584820927498-cfe5714e7f46?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cardiac Rehabilitation Phase II",
+    "category": "Cardiopulmonary",
+    "content": "### Program Structure\nSupervised outpatient program typically lasting 12 weeks post-cardiac event.\n\n### Components\n*   **Exercise Prescription**: Target heart rate zones (50-85% HRmax)\n*   **Monitoring**: HR, BP, RPE, ECG as indicated\n*   **Risk Stratification**: Low, moderate, high-risk classification\n*   **Education**: Lifestyle modification, risk factor management",
+    "references": [
+      "ACSM Guidelines for Exercise Testing",
+      "AHA Cardiac Rehab Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Burn Rehabilitation: Acute and Subacute Care",
+    "category": "Integumentary",
+    "content": "### Assessment Priorities\nTotal body surface area (TBSA) percentage and depth classification guide intervention.\n\n### Intervention Focus\n*   **Positioning**: Anti-deformity positions to prevent contractures\n*   **Splinting**: Static and dynamic splints for hands, axilla, neck\n*   **ROM**: Gentle PROM/AAROM during dressing changes\n*   **Scar Management**: Pressure garments, silicone sheets, massage",
+    "references": [
+      "Physical Rehabilitation of the Burn Patient",
+      "ABA Practice Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Diabetic Foot Ulcer Prevention and Management",
+    "category": "Integumentary",
+    "content": "### Risk Assessment\nNeuropathy, vascular disease, and deformity create high risk for ulceration.\n\n### Prevention Strategies\n*   **Foot Inspection**: Daily self-examination protocols\n*   **Footwear**: Proper fitting shoes, custom orthotics\n*   **Offloading**: Total contact casting, walking boots\n*   **Patient Education**: Nail care, skin hygiene, warning signs",
+    "references": [
+      "Wound Care Made Incredibly Easy",
+      "IWGDF Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576671081837-49000212a370?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Total Hip Arthroplasty: Posterior Approach Precautions",
+    "category": "Musculoskeletal",
+    "content": "### Hip Precautions (6-12 weeks)\nPosterior approach requires specific restrictions to prevent dislocation.\n\n### Standard Precautions\n*   **Avoid**: Hip flexion >90°, hip adduction past midline, hip internal rotation\n*   **Safe Techniques**: Elevated toilet seat, long-handled reachers\n*   **Sleeping**: Abduction pillow between legs\n*   **Progression**: Gradual return to activities per surgeon protocol",
+    "references": [
+      "Dutton's Orthopaedic Examination",
+      "AAOS Clinical Practice Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Spinal Cord Injury: C6 Functional Expectations",
+    "category": "Neuromuscular",
+    "content": "### Available Musculature\nC6 level preserves wrist extension but lacks triceps and hand intrinsics.\n\n### Functional Outcomes\n*   **Mobility**: Independent wheelchair propulsion, modified independent transfers\n*   **ADLs**: Independent feeding, grooming with adaptive equipment\n*   **Equipment**: Manual wheelchair, tenodesis splint, transfer board\n*   **Home Modifications**: Ramps, widened doorways, accessible bathroom",
+    "references": [
+      "Spinal Cord Injury Rehabilitation",
+      "Consortium SCI Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Lumbar Spinal Stenosis: Conservative Management",
+    "category": "Musculoskeletal",
+    "content": "### Pathophysiology\nNarrowing of spinal canal causes neurogenic claudication with standing/walking.\n\n### Treatment Approach\n*   **Positioning**: Flexion-biased postures reduce symptoms\n*   **Exercise**: Core stabilization, hip flexor stretching, cycling\n*   **Manual Therapy**: Joint mobilization, soft tissue techniques\n*   **Functional Training**: Activity modification, assistive devices",
+    "references": [
+      "Physical Therapy for Spinal Conditions",
+      "NASS Clinical Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pediatric Cerebral Palsy: GMFCS Classification",
+    "category": "Other Systems",
+    "content": "### Gross Motor Function Classification System\nFive-level system describes functional mobility capabilities.\n\n### Level Descriptions\n*   **Level I**: Walks without limitations\n*   **Level II**: Walks with limitations (stairs, uneven terrain)\n*   **Level III**: Walks with assistive devices\n*   **Level IV**: Limited self-mobility, uses powered wheelchair\n*   **Level V**: Severely limited, requires full assistance",
+    "references": [
+      "Pediatric Physical Therapy",
+      "CanChild GMFCS Resources"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Balance Assessment: Berg Balance Scale",
+    "category": "Neuromuscular",
+    "content": "### Test Overview\n14-item assessment tool measuring static and dynamic balance.\n\n### Key Components\n*   **Scoring**: 0-4 scale per item, maximum 56 points\n*   **Interpretation**: <45 indicates high fall risk\n*   **Items Include**: Sitting to standing, standing unsupported, transfers, reaching\n*   **Clinical Use**: Commonly used for elderly and neurological populations",
+    "references": [
+      "Physical Rehabilitation Assessment",
+      "Standardized Balance Testing"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Electrical Stimulation: NMES for Quadriceps Strengthening",
+    "category": "Musculoskeletal",
+    "content": "### Clinical Applications\nNeuromuscular electrical stimulation augments volitional muscle contraction.\n\n### Parameters\n*   **Frequency**: 35-50 Hz for muscle strengthening\n*   **Pulse Duration**: 200-400 microseconds\n*   **On:Off Ratio**: 1:3 to 1:5 to prevent fatigue\n*   **Electrode Placement**: Over muscle belly and motor point\n*   **Contraindications**: Pacemakers, pregnancy, thrombosis",
+    "references": [
+      "Electrotherapy Explained",
+      "Clinical Electrophysiology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Peripheral Arterial Disease: Claudication Management",
+    "category": "Cardiopulmonary",
+    "content": "### Pathophysiology\nReduced blood flow causes muscle ischemia and exercise-limiting pain.\n\n### Exercise Prescription\n*   **Mode**: Walking is gold standard\n*   **Intensity**: Walk to near-maximal claudication pain\n*   **Duration**: Start with 5-10 minutes, progress to 30-50 minutes\n*   **Frequency**: 3-5 sessions per week\n*   **Rest Intervals**: Allow pain to resolve between bouts",
+    "references": [
+      "Cardiovascular and Pulmonary PT",
+      "AHA PAD Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Postural Assessment: Forward Head Posture",
+    "category": "Musculoskeletal",
+    "content": "### Biomechanical Consequences\nAnterior head translation increases cervical extensor demand and TMJ stress.\n\n### Associated Impairments\n*   **Shortened Structures**: Upper trapezius, levator scapulae, suboccipitals\n*   **Lengthened Structures**: Deep neck flexors, middle/lower trapezius\n*   **Treatment**: Chin tucks, cervical retraction exercises, postural re-education\n*   **Ergonomics**: Monitor height, reading posture modifications",
+    "references": [
+      "Kendall's Muscles Testing and Function",
+      "Postural Assessment Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Multiple Sclerosis: Fatigue Management",
+    "category": "Neuromuscular",
+    "content": "### Nature of MS Fatigue\nPrimary fatigue (CNS origin) and secondary fatigue (deconditioning) require different approaches.\n\n### Management Strategies\n*   **Energy Conservation**: Activity pacing, frequent rest breaks\n*   **Cooling**: Pre-cooling, cooling vests for heat sensitivity\n*   **Exercise**: Moderate intensity aerobic training improves fatigue\n*   **Scheduling**: Plan demanding activities during peak energy times",
+    "references": [
+      "Multiple Sclerosis Rehabilitation",
+      "NMSS Clinical Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Lymphedema Management: Complete Decongestive Therapy",
+    "category": "Integumentary",
+    "content": "### CDT Components\nComprehensive approach for reducing and maintaining lymphedema.\n\n### Four Pillars\n*   **Manual Lymph Drainage**: Gentle massage techniques to mobilize fluid\n*   **Compression Bandaging**: Short-stretch bandages in multiple layers\n*   **Exercise**: Gentle ROM and strengthening with compression\n*   **Skin Care**: Infection prevention, moisturizing, nail care",
+    "references": [
+      "Lymphedema Management",
+      "Vodder Technique Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Vestibular Rehabilitation: Benign Paroxysmal Positional Vertigo",
+    "category": "Neuromuscular",
+    "content": "### BPPV Overview\nCanal otoconia cause episodic vertigo with position changes.\n\n### Treatment Maneuvers\n*   **Epley Maneuver**: For posterior canal BPPV (most common)\n*   **Semont Maneuver**: Alternative for posterior canal\n*   **Barbecue Roll**: For lateral canal BPPV\n*   **Home Exercise Program**: Brandt-Daroff exercises for recurrence prevention",
+    "references": [
+      "Vestibular Rehabilitation",
+      "Herdman's VRT Manual"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait Analysis: Observational Assessment",
+    "category": "Musculoskeletal",
+    "content": "### Systematic Approach\nObserve gait from multiple views to identify deviations.\n\n### Key Observation Points\n*   **Lateral View**: Step length, trunk position, knee/ankle motion\n*   **Anterior/Posterior View**: Base of support, pelvic motion, trunk sway\n*   **Common Deviations**: Trendelenburg, circumduction, foot drop\n*   **Documentation**: Use standardized terminology and video when possible",
+    "references": [
+      "Observational Gait Analysis",
+      "Perry's Gait Analysis"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pelvic Floor Dysfunction: Urinary Incontinence",
+    "category": "Other Systems",
+    "content": "### Types of Incontinence\nStress, urge, and mixed incontinence have different underlying mechanisms.\n\n### Physical Therapy Interventions\n*   **Pelvic Floor Muscle Training**: Kegel exercises with proper technique\n*   **Biofeedback**: Visual/auditory feedback for muscle contraction\n*   **Bladder Training**: Scheduled voiding, urge suppression strategies\n*   **Lifestyle Modifications**: Fluid management, weight loss if indicated",
+    "references": [
+      "Pelvic Floor Physical Therapy",
+      "ICS Continence Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Rheumatoid Arthritis: Joint Protection Principles",
+    "category": "Musculoskeletal",
+    "content": "### Disease Overview\nAutoimmune inflammatory arthritis causing joint damage and deformity.\n\n### Joint Protection Strategies\n*   **Use Larger Joints**: Carry items with forearms vs fingers\n*   **Avoid Positions of Deformity**: No tight grasp, minimize ulnar deviation\n*   **Respect Pain**: Modify activities causing sustained pain\n*   **Balance Activity and Rest**: Prevent fatigue and overuse\n*   **Assistive Devices**: Built-up handles, jar openers, adaptive tools",
+    "references": [
+      "Rheumatology Rehabilitation",
+      "ACR Management Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Traumatic Brain Injury: Rancho Los Amigos Scale",
+    "category": "Neuromuscular",
+    "content": "### Cognitive Recovery Levels\nEight-level scale tracks cognitive and behavioral recovery post-TBI.\n\n### Level Descriptions\n*   **Levels I-III**: No response to agitated/confused\n*   **Levels IV-VI**: Confused and inappropriate to confused but appropriate\n*   **Levels VII-VIII**: Automatic responses to purposeful and appropriate\n*   **Clinical Use**: Guides family education and treatment planning",
+    "references": [
+      "Brain Injury Rehabilitation",
+      "Rancho Assessment Guide"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Scoliosis: Schroth Method",
+    "category": "Musculoskeletal",
+    "content": "### Three-Dimensional Approach\nSpecialized exercise program for idiopathic scoliosis management.\n\n### Key Principles\n*   **Rotational Angular Breathing**: Directed breathing into concavities\n*   **Postural Correction**: Active elongation and de-rotation\n*   **Muscle Activation**: Strengthen weakened areas\n*   **Patient-Specific**: Customized based on curve pattern and severity\n*   **Indications**: Cobb angle 10-45°, growing patients",
+    "references": [
+      "Schroth Method Manual",
+      "SOSORT Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Guillain-Barré Syndrome: Rehabilitation Phases",
+    "category": "Neuromuscular",
+    "content": "### Progressive Inflammatory Neuropathy\nAscending paralysis requiring intensive rehabilitation across recovery phases.\n\n### Phase-Specific Interventions\n*   **Acute Phase**: Positioning, ROM, respiratory care\n*   **Plateau Phase**: Gentle strengthening, sitting/standing balance\n*   **Recovery Phase**: Progressive strengthening, gait training, endurance\n*   **Monitoring**: Avoid overwork fatigue, respiratory status",
+    "references": [
+      "Neurological Rehabilitation",
+      "GBS Recovery Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584820927498-cfe5714e7f46?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Manual Therapy: Mulligan Mobilization with Movement",
+    "category": "Musculoskeletal",
+    "content": "### Concept Overview\nSustained glide applied during active movement to improve pain-free function.\n\n### Key Techniques\n*   **SNAGS**: Sustained natural apophyseal glides for spine\n*   **NAGS**: Natural apophyseal glides for cervical spine\n*   **MWM for Extremities**: Glides during functional movements\n*   **Principles**: Pain-free application, immediate functional improvement\n*   **Indicators for Use**: Mechanical joint dysfunction with movement loss",
+    "references": [
+      "Manual Therapy NAGS SNAGS MWMS",
+      "Mulligan Concept Manual"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Chronic Pain Management: Pain Neuroscience Education",
+    "category": "Other Systems",
+    "content": "### Modern Pain Understanding\nEducating patients about pain science can reduce pain and improve function.\n\n### Key Concepts to Teach\n*   **Pain Does Not Equal Tissue Damage**: Especially in chronic pain\n*   **Central Sensitization**: Nervous system amplification of pain signals\n*   **Neuroplasticity**: Brain can change pain processing\n*   **Biopsychosocial Model**: Multiple factors influence pain experience\n*   **Active Coping**: Graded exposure, movement despite pain",
+    "references": [
+      "Explain Pain",
+      "Pain Neuroscience Education Manual"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Amyotrophic Lateral Sclerosis: Respiratory Management",
+    "category": "Neuromuscular",
+    "content": "### Progressive Respiratory Decline\nWeakness of respiratory muscles is primary cause of mortality in ALS.\n\n### Respiratory Interventions\n*   **Monitoring**: Vital capacity, maximum inspiratory/expiratory pressure\n*   **Assisted Cough**: Manual techniques, mechanical insufflation-exsufflation\n*   **Non-Invasive Ventilation**: BiPAP for nocturnal support\n*   **Secretion Management**: Positioning, suctioning protocols\n*   **Breathing Exercises**: Cautious use to avoid fatigue",
+    "references": [
+      "ALS Respiratory Care",
+      "AAN ALS Practice Parameters"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584820927498-cfe5714e7f46?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Ankle Sprain: Lateral Ligament Complex",
+    "category": "Musculoskeletal",
+    "content": "### Anatomy and Mechanism\nInversion injury commonly damages ATFL, CFL, and PTFL.\n\n### Rehabilitation Progression\n*   **Phase I (Protection)**: RICE, protected weight-bearing, ROM exercises\n*   **Phase II (Strengthening)**: Progressive resistance, proprioception training\n*   **Phase III (Return to Activity)**: Plyometrics, sport-specific drills\n*   **Functional Tests**: Single-leg hop, figure-8 running, carioca\n*   **Prevention**: Neuromuscular training, taping/bracing for high-risk activities",
+    "references": [
+      "Dutton's Orthopaedic Examination",
+      "Ankle Sprain Clinical Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Aquatic Therapy: Properties and Clinical Applications",
+    "category": "Musculoskeletal",
+    "content": "### Physical Properties of Water\nBuoyancy, hydrostatic pressure, and resistance offer unique therapeutic benefits.\n\n### Clinical Applications\n*   **Buoyancy**: Reduces joint loading for arthritis, post-op rehabilitation\n*   **Resistance**: Strengthening exercises in all planes\n*   **Hydrostatic Pressure**: Reduces edema, assists venous return\n*   **Temperature**: Warm water promotes relaxation, reduces muscle spasm\n*   **Indications**: OA, RA, fibromyalgia, neurological conditions\n*   **Contraindications**: Open wounds, incontinence, fear of water",
+    "references": [
+      "Aquatic Therapy Protocols",
+      "Comprehensive Aquatic Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Developmental Milestones: 0-12 Months",
+    "category": "Other Systems",
+    "content": "### Normal Motor Development\nUnderstanding typical sequences helps identify delays.\n\n### Key Milestones\n*   **3 Months**: Head control in prone, hands to midline\n*   **6 Months**: Sitting with support, rolling\n*   **9 Months**: Sitting independently, crawling, pulling to stand\n*   **12 Months**: Cruising, possibly walking independently\n*   **Red Flags**: Persistent asymmetry, lack of head control at 4 months, no sitting by 9 months",
+    "references": [
+      "Pediatric Physical Therapy",
+      "WHO Motor Development Standards"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Adhesive Capsulitis: Stages and Management",
+    "category": "Musculoskeletal",
+    "content": "### Three-Stage Progression\nFrozen shoulder follows predictable pattern over 12-36 months.\n\n### Stage Characteristics\n*   **Stage I (Freezing)**: Progressive pain, night pain, ROM loss\n*   **Stage II (Frozen)**: Reduced pain, significant stiffness\n*   **Stage III (Thawing)**: Gradual ROM improvement\n*   **Treatment Adjustments**: Gentle ROM in Stage I, aggressive stretching in Stage III\n*   **Modalities**: Heat before stretching, joint mobilization",
+    "references": [
+      "Shoulder Pathologies and Rehabilitation",
+      "Adhesive Capsulitis Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Proprioceptive Neuromuscular Facilitation: Patterns",
+    "category": "Musculoskeletal",
+    "content": "### PNF Philosophy\nDiagonal and spiral patterns promote functional movement and strengthen weak muscles.\n\n### Key Principles\n*   **Diagonal Patterns**: D1 and D2 flexion/extension for extremities\n*   **Manual Contacts**: Precise hand placement for sensory input\n*   **Techniques**: Rhythmic initiation, contract-relax, hold-relax\n*   **Indications**: Neurological conditions, orthopedic weakness\n*   **Overflow**: Use strong muscles to facilitate weaker ones",
+    "references": [
+      "PNF in Practice",
+      "Proprioceptive Neuromuscular Facilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pressure Ulcer Prevention and Staging",
+    "category": "Integumentary",
+    "content": "### NPUAP Staging System\nFour stages plus unstageable and suspected deep tissue injury.\n\n### Stage Definitions\n*   **Stage 1**: Non-blanchable erythema of intact skin\n*   **Stage 2**: Partial-thickness skin loss with exposed dermis\n*   **Stage 3**: Full-thickness skin loss, subcutaneous fat visible\n*   **Stage 4**: Full-thickness with exposed muscle, tendon, or bone\n*   **Prevention**: Repositioning every 2 hours, pressure-relieving surfaces, skin inspection",
+    "references": [
+      "Wound Care Handbook",
+      "NPUAP Staging Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576671081837-49000212a370?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Functional Capacity Evaluation",
+    "category": "Other Systems",
+    "content": "### Purpose and Components\nComprehensive assessment of individual's ability to perform work-related tasks.\n\n### Assessment Areas\n*   **Lift Testing**: Floor to waist, waist to overhead, carrying capacity\n*   **Positional Tolerances**: Standing, sitting, walking duration\n*   **Physical Demands**: Reaching, bending, climbing, crawling\n*   **Functional Activities**: Job-specific task simulation\n*   **Validity Testing**: Coefficient of variation, heart rate consistency\n*   **Report Components**: Physical demand level (sedentary to very heavy)",
+    "references": [
+      "FCE Procedures Manual",
+      "Work Rehabilitation Standards"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Osteoporosis: Exercise Prescription",
+    "category": "Musculoskeletal",
+    "content": "### Bone-Loading Principles\nWeight-bearing and resistance exercises stimulate bone formation.\n\n### Exercise Recommendations\n*   **Weight-Bearing**: Walking, dancing, stair climbing (30 min, most days)\n*   **Resistance Training**: 2-3 days/week, major muscle groups\n*   **Balance Training**: Reduce fall risk, tai chi, single-leg stance\n*   **Precautions**: Avoid forward flexion, twisting, high-impact if severe\n*   **Contraindications**: Acute fractures, severe pain",
+    "references": [
+      "Osteoporosis Exercise Guidelines",
+      "NOF Physical Activity Recommendations"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wheelchair Seating and Positioning",
+    "category": "Other Systems",
+    "content": "### Assessment Priorities\nProper positioning prevents complications and maximizes function.\n\n### Key Considerations\n*   **Pelvic Positioning**: Level, neutral rotation, posterior tilt prevention\n*   **Pressure Distribution**: Cushion selection based on risk level\n*   **Trunk Support**: Lateral supports, chest strap if needed\n*   **Lower Extremity**: Footrest height, leg length support\n*   **Measurements**: Seat width, depth, height, back height\n*   **Special Needs**: Tilt-in-space, power options for high-level SCI",
+    "references": [
+      "Wheelchair Seating Guidelines",
+      "RESNA Seating Standards"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Achilles Tendinopathy: Eccentric Exercise Protocol",
+    "category": "Musculoskeletal",
+    "content": "### Evidence-Based Approach\nEccentric heel drops are first-line treatment for mid-portion tendinopathy.\n\n### Alfredson Protocol\n*   **Exercise**: Heel raises on step, slowly lower below step level\n*   **Dosage**: 3 sets of 15 reps, twice daily, 12 weeks\n*   **Variations**: Straight knee (gastrocnemius), bent knee (soleus)\n*   **Progression**: Add weight with backpack when pain-free\n*   **Key Point**: Exercise through discomfort (not sharp pain)\n*   **Adjuncts**: Activity modification, heel lift, stretching",
+    "references": [
+      "Tendinopathy Management",
+      "Alfredson Protocol"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Urinary Catheter Management in Rehabilitation",
+    "category": "Other Systems",
+    "content": "### Types and Indications\nIndwelling, intermittent, and suprapubic catheters used in various conditions.\n\n### Physical Therapy Considerations\n*   **Mobility**: Secure bag below bladder level, prevent tubing tension\n*   **Infection Prevention**: Hand hygiene, sterile technique for intermittent cath\n*   **Bladder Training**: For indwelling removal, timed clamping protocols\n*   **Patient Education**: Self-catheterization technique, signs of UTI\n*   **Documentation**: Intake/output, catheter type, any complications",
+    "references": [
+      "Medical Surgical Nursing",
+      "Catheter Care Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Shoulder Impingement Syndrome",
+    "category": "Musculoskeletal",
+    "content": "### Pathomechanics\nCompression of rotator cuff tendons in subacromial space during elevation.\n\n### Contributing Factors\n*   **Anatomical**: Acromion shape, bone spurs\n*   **Biomechanical**: Scapular dyskinesis, rotator cuff weakness\n*   **Functional**: Poor posture, repetitive overhead activities\n*   **Treatment Progression**: Pain control → ROM → scapular stabilization → rotator cuff strengthening\n*   **Activity Modification**: Avoid prolonged overhead positions",
+    "references": [
+      "Shoulder Pathologies",
+      "APTA Shoulder Pain Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve Assessment in Physical Therapy",
+    "category": "Neuromuscular",
+    "content": "### Relevant Cranial Nerves\nCNs VII, IX, X, XI, XII most commonly assessed by physical therapists.\n\n### Key Tests\n*   **CN VII (Facial)**: Facial symmetry, eye closure, smile\n*   **CN IX & X (Glossopharyngeal/Vagus)**: Swallow function, gag reflex\n*   **CN XI (Spinal Accessory)**: Shoulder shrug, SCM strength\n*   **CN XII (Hypoglossal)**: Tongue protrusion, deviation\n*   **Clinical Relevance**: Stroke, brainstem lesions, peripheral nerve injury",
+    "references": [
+      "Neurological Assessment",
+      "Cranial Nerve Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Therapeutic Ultrasound: Parameters and Applications",
+    "category": "Musculoskeletal",
+    "content": "### Mechanism of Action\nMechanical and thermal effects on tissue depending on parameters.\n\n### Clinical Parameters\n*   **Frequency**: 1 MHz (deep), 3 MHz (superficial)\n*   **Intensity**: 0.5-2.0 W/cm² depending on goal\n*   **Duration**: 5-10 minutes per area\n*   **Duty Cycle**: Continuous (thermal), Pulsed (non-thermal)\n*   **Indications**: Tendinitis, bursitis, muscle spasm, scar tissue\n*   **Contraindications**: Over growth plates, pregnant uterus, malignancy, infection",
+    "references": [
+      "Therapeutic Modalities",
+      "Electrotherapy Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Fibromyalgia: Multidisciplinary Management",
+    "category": "Other Systems",
+    "content": "### Chronic Pain Syndrome\nWidespread pain with fatigue, sleep disturbance, and cognitive symptoms.\n\n### Physical Therapy Approach\n*   **Aerobic Exercise**: Low-impact, gradual progression (walking, pool)\n*   **Strengthening**: Light resistance, avoid overexertion\n*   **Flexibility**: Gentle stretching, yoga\n*   **Education**: Pain neuroscience, pacing strategies\n*   **Stress Management**: Relaxation techniques, mindfulness\n*   **Sleep Hygiene**: Consistent schedule, sleep environment optimization",
+    "references": [
+      "Chronic Pain Management",
+      "Fibromyalgia Treatment Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Orthotics: Lower Extremity Assessment and Prescription",
+    "category": "Musculoskeletal",
+    "content": "### Types of Orthoses\nAFO, KAFO, HKAFO, and foot orthoses for various pathologies.\n\n### Common Prescriptions\n*   **Posterior Leaf Spring AFO**: Foot drop, weak dorsiflexors\n*   **Solid Ankle AFO**: Severe weakness, instability\n*   **Hinged AFO**: Plantarflexion weakness, normal dorsiflexion\n*   **KAFO**: Knee instability, quadriceps weakness\n*   **Considerations**: Weight, cosmesis, donning/doffing, cost\n*   **Checkout**: Fit, alignment, function, skin integrity",
+    "references": [
+      "Orthotics and Prosthetics",
+      "Lower Limb Orthotic Management"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Lower Extremity Amputation: Transtibial Prosthetic Gait Training",
+    "category": "Musculoskeletal",
+    "content": "### Pre-Prosthetic Phase\nPrepare residual limb and overall fitness for prosthetic use.\n\n### Prosthetic Training Progression\n*   **Static Balance**: Weight shifting, single-limb stance\n*   **Gait Training**: Parallel bars → walker → cane → independent\n*   **Advanced Skills**: Stairs, ramps, uneven terrain, falling safely\n*   **Common Gait Deviations**: Lateral trunk bending, vaulting, circumduction\n*   **Residual Limb Care**: Skin inspection, sock management, hygiene",
+    "references": [
+      "Prosthetic Rehabilitation",
+      "Amputation Surgery and Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Myofascial Pain Syndrome: Trigger Point Management",
+    "category": "Musculoskeletal",
+    "content": "### Pathophysiology\nHyperirritable spots in taut bands of muscle causing referred pain.\n\n### Treatment Techniques\n*   **Manual Pressure**: Ischemic compression, hold 30-90 seconds\n*   **Spray and Stretch**: Vapocoolant with passive stretching\n*   **Dry Needling**: Direct needle insertion into trigger point\n*   **Post-Treatment**: Stretching, heat, gradual return to activity\n*   **Address Perpetuating Factors**: Posture, ergonomics, stress, sleep",
+    "references": [
+      "Travell & Simons' Myofascial Pain",
+      "Trigger Point Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hemiplegic Shoulder Pain: Assessment and Management",
+    "category": "Neuromuscular",
+    "content": "### Etiology\nMultifactorial: subluxation, spasticity, complex regional pain syndrome, adhesive capsulitis.\n\n### Management Strategies\n*   **Prevention**: Proper positioning, ROM exercises, avoid pulling on arm\n*   **Support**: Arm trough, lap tray, sling for standing only\n*   **Electrical Stimulation**: FES to supraspinatus/posterior deltoid\n*   **Gentle Mobilization**: PROM within pain-free range\n*   **Functional Activities**: Bilateral UE tasks, weight-bearing\n*   **Avoid**: Overhead pulleys in acute phase",
+    "references": [
+      "Stroke Rehabilitation",
+      "Hemiplegic Shoulder Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Concussion Management: Return to Play Protocol",
+    "category": "Neuromuscular",
+    "content": "### Graduated Return to Sport\nProgressive six-step protocol ensures safe return after concussion.\n\n### Protocol Stages\n*   **Stage 1**: Complete physical and cognitive rest\n*   **Stage 2**: Light aerobic exercise (walking, stationary bike)\n*   **Stage 3**: Sport-specific exercise (no head impact)\n*   **Stage 4**: Non-contact training drills\n*   **Stage 5**: Full-contact practice\n*   **Stage 6**: Return to play\n*   **Rules**: Minimum 24 hours per stage, return to previous stage if symptoms recur",
+    "references": [
+      "Concussion Management",
+      "Berlin Consensus Statement"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Temporomandibular Joint Dysfunction",
+    "category": "Musculoskeletal",
+    "content": "### Assessment Findings\nPain with chewing, clicking, limited mouth opening, headaches.\n\n### Physical Therapy Interventions\n*   **Manual Therapy**: Joint mobilization, soft tissue massage\n*   **Exercises**: Controlled opening, lateral deviation, isometrics\n*   **Postural Correction**: Forward head posture contributes to TMJ dysfunction\n*   **Education**: Avoid hard/chewy foods, teeth clenching\n*   **Modalities**: Heat, ice, ultrasound as adjuncts\n*   **Referral**: Dental consultation for occlusion issues",
+    "references": [
+      "TMJ Disorders",
+      "Orofacial Pain Management"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait Training with Assistive Devices",
+    "category": "Musculoskeletal",
+    "content": "### Device Selection\nBased on weight-bearing status, balance, and upper extremity strength.\n\n### Device Hierarchy and Use\n*   **Parallel Bars**: Initial gait training, maximum support\n*   **Walker**: Maximum stability, NWB to WBAT\n*   **Crutches**: TTWB to FWB, good UE strength required\n*   **Cane**: Minimal assistance, hold on opposite side of affected LE\n*   **Gait Patterns**: Three-point, four-point, two-point, swing-through\n*   **Fitting**: Elbow flexion 20-30°, proper height adjustment",
+    "references": [
+      "Gait Training Techniques",
+      "Assistive Device Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Chronic Venous Insufficiency: Compression Therapy",
+    "category": "Integumentary",
+    "content": "### Pathophysiology\nValvular incompetence leads to venous hypertension and edema.\n\n### Compression Strategies\n*   **Graduated Compression**: 30-40 mmHg at ankle for severe CVI\n*   **Types**: Stockings (maintenance), multilayer bandaging (acute)\n*   **Application**: Morning before edema develops\n*   **Contraindications**: Arterial insufficiency (ABI <0.8), CHF\n*   **Adjunct Treatments**: Elevation, exercise, skin care\n*   **Monitoring**: Skin integrity, edema circumference measurements",
+    "references": [
+      "Wound Care Management",
+      "Venous Insufficiency Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Kinesiology Taping: Principles and Applications",
+    "category": "Musculoskeletal",
+    "content": "### Theoretical Mechanisms\nLift skin, improve lymphatic flow, provide proprioceptive input.\n\n### Application Techniques\n*   **Muscle Facilitation**: Apply from origin to insertion with tension\n*   **Muscle Inhibition**: Apply from insertion to origin with less tension\n*   **Edema/Lymphatic**: Fan cuts, light application\n*   **Joint Support**: Varies by joint and goal\n*   **Skin Preparation**: Clean, dry, hair removed if needed\n*   **Evidence**: Mixed results, may provide short-term benefits",
+    "references": [
+      "Kinesiology Taping Guide",
+      "K-Tape Applications"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Anterior Cruciate Ligament (ACL) Rehabilitation",
+    "category": "Musculoskeletal",
+    "content": "### Introduction\nThe ACL is a vital stabilizer of the knee. Post-operative rehab follows a structured phase-based approach.\n\n### Phases of Rehab\n* **Phase I**: Protection and Range of Motion (Week 1-4)\n* **Phase II**: Strengthening and Functional Tasks (Week 5-12)\n* **Phase III**: Return to Sport (Month 4+)",
+    "references": [
+      "Dutton's Orthopaedic Examination",
+      "FSBPT Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Glasgow Coma Scale (GCS) Assessment",
+    "category": "Neuromuscular",
+    "content": "### Overview\nUsed to quantify consciousness level after TBI. Total score ranges from 3 to 15.\n\n### Scoring Categories\n* **Eyes (4)**: 4=Spontaneous, 3=To Speech, 2=To Pain, 1=None.\n* **Verbal (5)**: 5=Oriented, 4=Confused, 3=Inappropriate, 2=Incomprehensible, 1=None.\n* **Motor (6)**: 6=Obeys, 5=Localizes, 4=Withdraws, 3=Flexion, 2=Extension, 1=None.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "EKG Interpretation: Life-Threatening Arrhythmias",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Critical Rhythms\n* **Ventricular Fibrillation**: No identifiable waves; emergency defibrillation required.\n* **Ventricular Tachycardia**: Three or more PVCs in a row; may or may not have a pulse.\n* **ST-Segment Elevation**: Indicative of acute myocardial infarction (STEMI).",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Rule of Nines for Burn Classification",
+    "category": "Integumentary",
+    "content": "### Body Surface Area (BSA)\n* **Head/Neck**: 9%\n* **Anterior Trunk**: 18%\n* **Posterior Trunk**: 18%\n* **Arms**: 9% each\n* **Legs**: 18% each\n* **Genitalia**: 1%",
+    "references": [
+      "Guide to Physical Therapist Practice"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Metabolic Syndrome Diagnostic Criteria",
+    "category": "Metabolic/Endocrine",
+    "content": "### Diagnosis (3 out of 5 required)\n1. **Waist Circumference**: >40in (Men), >35in (Women).\n2. **Triglycerides**: $\\ge 150 \\text{ mg/dL}$.\n3. **HDL**: <40 (Men), <50 (Women).\n4. **Blood Pressure**: $\\ge 130/85 \\text{ mmHg}$.\n5. **Fasting Glucose**: $\\ge 100 \\text{ mg/dL}$.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve V: Trigeminal Nerve Testing",
+    "category": "Neuromuscular",
+    "content": "### Function\n* **Sensory**: Face sensation (Ophthalmic, Maxillary, Mandibular branches).\n* **Motor**: Muscles of mastication.\n\n### Clinical Test\nTest light touch on the face and assess strength of jaw clenching.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Autonomic Dysreflexia Management",
+    "category": "Neuromuscular",
+    "content": "### Emergency Response\nOccurs in SCI patients (T6 or above).\n\n### Steps\n1. **Sit the patient up** (induce orthostatic hypotension).\n2. **Check for noxious stimuli** (kinked catheter, tight clothes).\n3. **Monitor BP**; seek medical help if symptoms persist.",
+    "references": [
+      "Somers Spinal Cord Injury Evidence-Based Practice"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Lymphedema Staging",
+    "category": "Other Systems",
+    "content": "### Stages\n* **Stage 0 (Latent)**: No visible edema; transport capacity reduced.\n* **Stage 1 (Reversible)**: Pitting edema; subsides with elevation.\n* **Stage 2 (Irreversible)**: Non-pitting edema; fibrotic skin changes.\n* **Stage 3 (Elephantiasis)**: Severe non-pitting; warty skin growths.",
+    "references": [
+      "Zuther Lymphedema Management"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Ultrasound: Duty Cycle Calculation",
+    "category": "Non-Systems (Equipment)",
+    "content": "### Formula\n$$\\text{Duty Cycle} = \\frac{\\text{On Time}}{\\text{Total Time}} \\times 100$$\n\n### Clinical Use\n* **20% (Pulsed)**: Non-thermal effects for acute tissue healing.\n* **100% (Continuous)**: Thermal effects for chronic stretching.",
+    "references": [
+      "Michlovitz's Modalities for Therapeutic Intervention"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Sensitivity vs. Specificity",
+    "category": "Non-Systems (Research)",
+    "content": "### Definitions\n* **Sensitivity (SnNout)**: High sensitivity; a negative test rules *out* the diagnosis.\n* **Specificity (SpPin)**: High specificity; a positive test rules *in* the diagnosis.",
+    "references": [
+      "Foundations of Clinical Research"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Neer Impingement Test",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo identify subacromial impingement syndrome.\n\n### Technique\nThe therapist stabilizes the scapula and passively performs maximal shoulder flexion with internal rotation.\n\n### Interpretation\n**Positive**: Pain in the anterior/lateral shoulder, suggesting impingement of the supraspinatus tendon or long head of the biceps.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Middle Cerebral Artery (MCA) Stroke Syndrome",
+    "category": "Neuromuscular",
+    "content": "### Clinical Presentation\nThe most common site of stroke. \n\n### Key Findings\n* **Contralateral Hemiplegia**: Greater involvement of the face and UE than the LE.\n* **Contralateral Sensory Loss**: Greater in UE/face.\n* **Aphasia**: If dominant hemisphere (usually left) is involved.\n* **Homonymous Hemianopsia**: Loss of the same half of the visual field in both eyes.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Coronary Artery Disease (CAD) Risk Factors",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Modifiable Factors\n* **Hypertension**: $\\ge 130/80 \\text{ mmHg}$.\n* **Dyslipidemia**: LDL $> 130 \\text{ mg/dL}$ or HDL $< 40 \\text{ mg/dL}$.\n* **Smoking**: Current smoker or quit within 6 months.\n* **Obesity**: BMI $\\ge 30$ or waist $> 102\\text{cm}$ (men) / $88\\text{cm}$ (women).\n\n### Non-Modifiable Factors\n* **Age**: Men $\\ge 45$, Women $\\ge 55$.\n* **Family History**: MI or sudden death in first-degree male relative < 55 or female < 65.",
+    "references": [
+      "ACSM Guidelines for Exercise Testing"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505022610485-0249ba5b3675?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Lachman Test for ACL Integrity",
+    "category": "Musculoskeletal",
+    "content": "### Technique\nKnee flexed to $20-30^{\\circ}$. The therapist stabilizes the femur and applies a brisk anterior force to the proximal tibia.\n\n### Interpretation\n**Positive**: Soft or mushy end-feel and increased anterior translation compared to the uninvolved side. Considered more sensitive than the Anterior Drawer test.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Brown-Séquard Syndrome",
+    "category": "Neuromuscular",
+    "content": "### Mechanism\nHemisection of the spinal cord (usually from stabbing or gunshot).\n\n### Clinical Presentation\n* **Ipsilateral**: Loss of motor function (Corticospinal tract) and proprioception/vibration (Dorsal Columns).\n* **Contralateral**: Loss of pain and temperature (Spinothalamic tract) beginning 2-3 segments below the lesion.",
+    "references": [
+      "Somers Spinal Cord Injury Evidence-Based Practice"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Postural Drainage: Lower Lobes (Posterior Basal)",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Position\nPatient is prone with the head down (Trendelenburg position); the foot of the bed is elevated $18-20$ inches.\n\n### Indications\nSecretion clearance for the posterior basal segments of the left and right lower lobes.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Phalen’s Test for Carpal Tunnel",
+    "category": "Musculoskeletal",
+    "content": "### Technique\nPatient holds the dorsal aspects of both hands together with wrists in maximal flexion for 60 seconds.\n\n### Interpretation\n**Positive**: Tingling or paresthesia in the median nerve distribution (thumb, index, middle, and radial half of ring finger).",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Trendelenburg Gait",
+    "category": "Musculoskeletal",
+    "content": "### Presentation\nDuring the stance phase on the affected side, the contralateral (swing) hip drops.\n\n### Cause\nWeakness of the gluteus medius on the **stance** side. The patient may exhibit a lateral trunk lean toward the weak side to compensate (compensated Trendelenburg).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Autonomic Nervous System: Sympathetic vs. Parasympathetic",
+    "category": "Neuromuscular",
+    "content": "### Sympathetic (Fight or Flight)\n* Dilates pupils, increases heart rate, relaxes airways, inhibits GI motility.\n\n### Parasympathetic (Rest and Digest)\n* Constricts pupils, decreases heart rate, constricts airways, stimulates GI motility and biliary secretion.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wagner Ulcer Grade Classification",
+    "category": "Integumentary",
+    "content": "### Stages\n* **Grade 0**: No open lesion; pre-ulcerative.\n* **Grade 1**: Superficial ulcer not involving subcutaneous tissue.\n* **Grade 2**: Deep ulcer to tendon, capsule, or bone.\n* **Grade 3**: Deep ulcer with abscess or osteomyelitis.\n* **Grade 4**: Localized gangrene (forefoot/heel).\n* **Grade 5**: Gangrene of the entire foot.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Sinding-Larsen-Johansson Syndrome",
+    "category": "Musculoskeletal",
+    "content": "### Definition\nAn overuse injury affecting the inferior pole of the patella at the patellar tendon attachment. \n\n### Clinical Presentation\nCommon in active adolescents; presents as point tenderness at the inferior patella, similar to Osgood-Schlatter (which occurs at the tibial tuberosity).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Parkinson’s Disease: Cardinal Signs",
+    "category": "Neuromuscular",
+    "content": "### TRAP Acronym\n* **T**: Tremor (Resting 'pill-rolling').\n* **R**: Rigidity (Lead-pipe or Cogwheel).\n* **A**: Akinesia/Bradykinesia (Slowness of movement).\n* **P**: Postural Instability (Frequent falls/impaired balance).",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "CHF: Left-Sided vs. Right-Sided Failure",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Left-Sided (Pulmonary Focus)\n* Dyspnea, orthopnea, crackles, paroxysmal nocturnal dyspnea.\n\n### Right-Sided (Systemic Focus)\n* Jugular venous distension (JVD), peripheral edema, ascites, weight gain.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Ankle-Brachial Index (ABI) Values",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Values\n* **> 1.1**: Vessel calcification (Diabetes).\n* **1.0**: Normal.\n* **0.5 - 0.8**: Moderate arterial disease (Intermittent claudication).\n* **< 0.5**: Severe arterial disease (Rest pain).",
+    "references": [
+      "Guide to Physical Therapist Practice"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Scoliosis: Cobb Angle Management",
+    "category": "Musculoskeletal",
+    "content": "### Management Guidelines\n* **< 20 degrees**: Observation.\n* **25 - 40 degrees**: Bracing (Boston, Milwaukee, or TLSO).\n* **> 40 degrees**: Surgical intervention (Spinal fusion).",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve VII: Facial Nerve Palsy",
+    "category": "Neuromuscular",
+    "content": "### Bell’s Palsy\nLower motor neuron lesion of CN VII.\n\n### Symptoms\nDrooping of the mouth, inability to close the eye on the affected side, loss of taste on the anterior 2/3 of the tongue. Unlike a stroke, the forehead is involved (inability to wrinkle forehead).",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Total Hip Arthroplasty (THA) Precautions",
+    "category": "Musculoskeletal",
+    "content": "### Posterior Approach\n* No Hip Flexion > $90^{\\circ}$.\n* No Hip Adduction past midline.\n* No Hip Internal Rotation.\n\n### Anterior Approach\n* No Hip Extension.\n* No Hip External Rotation.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hoffmann’s Sign",
+    "category": "Neuromuscular",
+    "content": "### Technique\nThe therapist flicks the nail of the patient's middle finger.\n\n### Interpretation\n**Positive**: Adduction/flexion of the thumb and flexion of the index finger. Indicates Upper Motor Neuron (UMN) lesion or cervical myelopathy.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Treadmill Stress Test Termination Criteria",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Absolute Indications to Stop\n* Drop in SBP > 10 mmHg with increased workload.\n* Moderate to severe angina (3/4).\n* Signs of poor perfusion (cyanosis, pallor).\n* Subject's desire to stop.",
+    "references": [
+      "ACSM Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Diabetes: Hypoglycemia vs. Hyperglycemia",
+    "category": "Metabolic/Endocrine",
+    "content": "### Hypoglycemia (< 70 mg/dL)\n* Symptoms: Shaky, sweaty, hungry, confused. Treat with 15g of fast-acting carbs.\n\n### Hyperglycemia (> 250 mg/dL)\n* Symptoms: Extreme thirst (polydipsia), frequent urination (polyuria), fruity-smelling breath (ketoacidosis).",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cystic Fibrosis Management",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Description\nAutosomal recessive genetic disorder causing thick mucus in lungs and pancreas.\n\n### Interventions\nAirway clearance techniques (ACT), percussion, vibration, and postural drainage are daily requirements to prevent infection and improve ventilation.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Thompson Test for Achilles Rupture",
+    "category": "Musculoskeletal",
+    "content": "### Technique\nPatient lies prone with feet over the edge of the table. The therapist squeezes the calf muscle.\n\n### Interpretation\n**Positive**: Absence of plantarflexion, indicating a complete rupture of the Achilles tendon.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Multiple Sclerosis: Types",
+    "category": "Neuromuscular",
+    "content": "### Classifications\n* **Relapsing-Remitting (RRMS)**: Most common; clear relapses followed by recovery.\n* **Secondary Progressive (SPMS)**: Progression follows a period of relapsing-remitting.\n* **Primary Progressive (PPMS)**: Steady functional decline from onset.\n* **Progressive-Relapsing (PRMS)**: Clear relapses with steady decline in between.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Apgar Score for Newborns",
+    "category": "Other Systems (Pediatrics)",
+    "content": "### Scoring (0, 1, or 2 for each)\n* **A**: Appearance (Color).\n* **P**: Pulse (Heart rate).\n* **G**: Grimace (Reflex irritability).\n* **A**: Activity (Muscle tone).\n* **R**: Respiration (Respiratory effort).\n\n### Interpretation\nPerformed at 1 and 5 minutes. 7-10 is normal; < 3 requires immediate resuscitation.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Goniometry: Knee Flexion",
+    "category": "Musculoskeletal",
+    "content": "### Landmarks\n* **Axis**: Lateral epicondyle of the femur.\n* **Stationary Arm**: Lateral midline of the femur (toward greater trochanter).\n* **Moving Arm**: Lateral midline of the fibula (toward lateral malleolus).\n\n### Normal ROM\n$0-135^{\\circ}$.",
+    "references": [
+      "Norkin and White Measurement of Joint Motion"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Upper Motor Neuron (UMN) vs. Lower Motor Neuron (LMN)",
+    "category": "Neuromuscular",
+    "content": "### UMN Signs\n* Hyperreflexia, Hypertonia (Spasticity), Positive Babinski, Clonus.\n\n### LMN Signs\n* Hyporeflexia, Hypotonia (Flaccidity), Fasciculations, Significant Atrophy.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Obstructive Sleep Apnea (OSA) and PT",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Clinical Implications\nStrongly associated with obesity and hypertension. Patients are at higher risk for cardiovascular events during exercise. Weight loss and CPAP compliance are key management goals.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Tennis Elbow (Lateral Epicondylalgia) Tests",
+    "category": "Musculoskeletal",
+    "content": "### Cozen's Test\nResisted wrist extension with radial deviation and elbow flexion.\n\n### Mill’s Test\nPassive wrist flexion and forearm pronation while extending the elbow.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Complex Regional Pain Syndrome (CRPS) Types",
+    "category": "Neuromuscular",
+    "content": "### Classifications\n* **Type I (RSD)**: No clear nerve injury. Triggered by trauma (fracture, sprain).\n* **Type II (Causalgia)**: Clear evidence of a specific nerve injury.\n\n### Symptoms\nSevere burning pain, hypersensitivity to light touch (allodynia), and trophic changes (thin, shiny skin).",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Heart Sounds: S1, S2, S3, S4",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Sounds\n* **S1 (Lub)**: Closure of mitral/tricuspid valves.\n* **S2 (Dub)**: Closure of aortic/pulmonary valves.\n* **S3**: Ventricular gallop; sign of CHF in older adults.\n* **S4**: Atrial gallop; associated with HTN or MI.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Talar Tilt Test",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo assess the integrity of the calcaneofibular ligament (CFL).\n\n### Technique\nPatient is side-lying or supine. The therapist stabilizes the distal tibia and inverts the talus.\n\n### Interpretation\n**Positive**: Increased laxity or pain, indicating CFL sprain/tear.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Rancho Los Amigos Scale of Cognitive Functioning",
+    "category": "Neuromuscular",
+    "content": "### Levels\n* **I**: No Response.\n* **IV**: Confused-Agitated.\n* **VII**: Automatic-Appropriate.\n* **X**: Purposeful-Appropriate (Modified Independent).",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wheezes vs. Crackles",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Wheezes (Sibilant rhonchi)\nContinuous high-pitched whistling sounds; indicate narrowed airways (Asthma).\n\n### Crackles (Rales)\nDiscontinuous popping sounds; indicate fluid/secretions in the alveoli (Pneumonia, CHF).",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cervical Radiculopathy: Cluster of Wainner",
+    "category": "Musculoskeletal",
+    "content": "### Clinical Prediction Rule (4/4)\n1. Positive Upper Limb Tension Test (Median Nerve).\n2. Involved side Cervical Rotation < $60^{\\circ}$.\n3. Positive Distraction Test.\n4. Positive Spurling’s Test A.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hemiballismus",
+    "category": "Neuromuscular",
+    "content": "### Definition\nLarge-amplitude, sudden, violent flailing movements of the limbs on one side of the body.\n\n### Cause\nLesion of the subthalamic nucleus (Basal Ganglia).",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wound Care: Debridement Types",
+    "category": "Integumentary",
+    "content": "### Selective\n* **Sharp**: Using scalpel/scissors.\n* **Autolytic**: Using body's own enzymes under occlusive dressings.\n* **Enzymatic**: Using topical chemical agents.\n\n### Non-Selective\n* **Wet-to-Dry Dressings**: Removes both necrotic and viable tissue.\n* **Whirlpool**: Generally outdated for clean wounds.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Finkelstein’s Test",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo identify De Quervain's Tenosynovitis (Abductor Pollicis Longus and Extensor Pollicis Brevis).\n\n### Technique\nPatient makes a fist with the thumb tucked inside; the therapist passively ulnar deviates the wrist.\n\n### Interpretation\n**Positive**: Pain over the radial styloid.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Duchenne Muscular Dystrophy (DMD)",
+    "category": "Other Systems (Pediatrics)",
+    "content": "### Key Signs\n* **Gower’s Sign**: Using hands to 'walk up' legs to stand up.\n* **Pseudohypertrophy**: Fatty deposits in calf muscles making them look large.\n* **Trendelenburg Gait**: Weakness of hip abductors.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hypothyroidism vs. Hyperthyroidism",
+    "category": "Metabolic/Endocrine",
+    "content": "### Hypothyroidism (Hashimoto's)\n* Slowed metabolism, weight gain, cold intolerance, bradycardia, lethargy.\n\n### Hyperthyroidism (Graves')\n* Increased metabolism, weight loss, heat intolerance, tachycardia, exophthalmos (bulging eyes).",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Legg-Calvé-Perthes Disease",
+    "category": "Musculoskeletal (Pediatrics)",
+    "content": "### Description\nAvascular necrosis of the femoral head in children (typically ages 4-8).\n\n### Presentation\nLimping and hip pain with limited abduction and internal rotation.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Iontophoresyis: Polarity of Common Meds",
+    "category": "Non-Systems (Equipment)",
+    "content": "### Medications\n* **Dexamethasone**: Negative (for inflammation).\n* **Lidocaine**: Positive (for pain).\n* **Acetic Acid**: Negative (for calcific tendonitis).\n\n### Rule\nLike charges repel. Place the medication on the electrode with the same polarity.",
+    "references": [
+      "Michlovitz's Modalities for Therapeutic Intervention"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Ottowa Ankle Rules",
+    "category": "Musculoskeletal",
+    "content": "### Indications for X-ray\n* Bone tenderness at posterior edge of lateral or medial malleolus (6cm).\n* Inability to bear weight (4 steps) both immediately and in the ER.",
+    "references": [
+      "FSBPT Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Symmetical Tonic Neck Reflex (STNR)",
+    "category": "Neuromuscular (Pediatrics)",
+    "content": "### Description\n* **Neck Flexion**: Arms flex, legs extend.\n* **Neck Extension**: Arms extend, legs flex.\n\n### Integration\nNormally integrated between 8-12 months. Persistence interferes with crawling.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pulsed Lavage with Suction (PLWS)",
+    "category": "Integumentary",
+    "content": "### Parameters\nTypical pressure is $4-15 \\text{ psi}$.\n\n### Indications\nWound cleansing and debridement of necrotic tissue. Higher pressures (> 15 psi) can damage viable tissue.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Upper Limb Tension Test 1 (ULTT 1)",
+    "category": "Neuromuscular",
+    "content": "### Nerve Tested\nMedian Nerve ($C5-C7$).\n\n### Sequence\nShoulder depression, abduction ($110^{\\circ}$), wrist extension, finger/thumb extension, forearm supination, elbow extension.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Standard Precautions: PPE",
+    "category": "Professional Responsibilities",
+    "content": "### Contact Precautions (C-diff, MRSA)\n* Gown and Gloves.\n\n### Droplet Precautions (Flu, Pertussis)\n* Surgical Mask.\n\n### Airborne Precautions (TB, Measles)\n* N95 Respirator; negative pressure room.",
+    "references": [
+      "CDC Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Valsalva Maneuver Effects",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Clinical Importance\nForced expiration against a closed glottis. Increases intrathoracic pressure, decreases venous return, and can lead to a sudden drop in HR and BP, followed by a surge. Dangerous for patients with HTN or recent MI.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Babinski Reflex",
+    "category": "Neuromuscular",
+    "content": "### Technique\nStroke the lateral sole of the foot from heel to the base of the small toe, then across to the great toe.\n\n### Interpretation\n**Positive (Abnormal in adults)**: Extension of the great toe and fanning of other toes. Indicates UMN lesion.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Goniometry: Shoulder Internal Rotation",
+    "category": "Musculoskeletal",
+    "content": "### Landmarks\n* **Axis**: Olecranon process of the ulna.\n* **Stationary Arm**: Perpendicular to the floor.\n* **Moving Arm**: Midline of the ulna (toward ulnar styloid).\n\n### Normal ROM\n$0-70^{\\circ}$.",
+    "references": [
+      "Norkin and White Measurement of Joint Motion"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cushing’s Syndrome",
+    "category": "Metabolic/Endocrine",
+    "content": "### Description\nExcessive cortisol (hypercortisolism) often from long-term steroid use.\n\n### Presentation\nMoon face, buffalo hump, central obesity, purple striae, and proximal muscle weakness.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pressure Injury Staging (NPUAP)",
+    "category": "Integumentary",
+    "content": "### Stages\n* **Stage 1**: Non-blanchable erythema of intact skin.\n* **Stage 2**: Partial-thickness skin loss with exposed dermis (pink/red, moist).\n* **Stage 3**: Full-thickness skin loss; adipose is visible. Slough/eschar may be present.\n* **Stage 4**: Full-thickness skin and tissue loss; exposed fascia, muscle, tendon, or bone.\n* **Unstageable**: Obscured by slough or eschar.\n* **Deep Tissue Injury**: Persistent non-blanchable deep red, maroon, or purple discoloration.",
+    "references": [
+      "NPUAP Guidelines",
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Arterial vs. Venous Insufficiency Ulcers",
+    "category": "Integumentary",
+    "content": "### Arterial\n* **Location**: Distal toes, lateral malleolus.\n* **Appearance**: 'Punched out,' pale base, minimal drainage.\n* **Pain**: Severe; increases with elevation.\n\n### Venous\n* **Location**: Proximal to medial malleolus.\n* **Appearance**: Irregular shape, ruddy/red base, heavy drainage.\n* **Pain**: Mild to moderate; decreases with elevation.",
+    "references": [
+      "Guide to Physical Therapist Practice"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gastroesophageal Reflux Disease (GERD) and PT",
+    "category": "Other Systems (GI)",
+    "content": "### Clinical Considerations\n* **Positioning**: Avoid supine exercise after meals; left side-lying is preferred over right side-lying to reduce acid reflux.\n* **Symptoms**: Heartburn, chest pain, dysphagia.\n* **Prevalence**: High in patients with obesity or pregnancy.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Incontinence Types",
+    "category": "Other Systems (GU)",
+    "content": "### Classifications\n* **Stress**: Leakage with coughing, sneezing, or exercise (weak pelvic floor).\n* **Urge**: Sudden, intense need to void (detrusor overactivity).\n* **Overflow**: Constant dribbling due to incomplete emptying (bladder obstruction/weakness).\n* **Functional**: Physical or cognitive impairment prevents reaching the toilet in time.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Americans with Disabilities Act (ADA) - Ramps",
+    "category": "Non-Systems",
+    "content": "### Requirements\n* **Slope**: 1:12 ratio (for every 1 inch of rise, 12 inches of run).\n* **Width**: Minimum 36 inches.\n* **Handrails**: Required if rise is > 6 inches or run is > 72 inches.\n* **Landings**: Required at top and bottom, and if the ramp changes direction ($5' \\times 5'$).",
+    "references": [
+      "ADA Standards for Accessible Design"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "TNM Cancer Staging System",
+    "category": "Other Systems",
+    "content": "### Components\n* **T (Tumor)**: Size and extent of the primary tumor.\n* **N (Nodes)**: Involvement of regional lymph nodes.\n* **M (Metastasis)**: Presence of distant metastasis.\n\n### Clinical Importance\nHelps determine prognosis and appropriate physical therapy intensity/contraindications.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve VIII: Vestibulocochlear",
+    "category": "Neuromuscular",
+    "content": "### Testing\n* **Vestibular**: Balance and coordination tests (e.g., Romberg).\n* **Cochlear**: Weber and Rinne tests using a tuning fork to distinguish between conductive and sensorineural hearing loss.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Rheumatoid Arthritis (RA) vs. Osteoarthritis (OA)",
+    "category": "Musculoskeletal",
+    "content": "### RA\nSystemic, autoimmune, symmetrical involvement. Morning stiffness > 1 hour. Affects MCP/PIP joints.\n\n### OA\nDegenerative, asymmetrical. Morning stiffness < 30 mins. Affects weight-bearing joints and DIP joints (Heberden’s nodes).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Manual Muscle Testing (MMT) Grades",
+    "category": "Musculoskeletal",
+    "content": "### Grades\n* **5 (Normal)**: Full ROM vs max resistance.\n* **4 (Good)**: Full ROM vs mod resistance.\n* **3 (Fair)**: Full ROM vs gravity ONLY.\n* **2 (Poor)**: Full ROM in gravity-eliminated position.\n* **1 (Trace)**: Palpable contraction, no movement.\n* **0 (Zero)**: No contraction.",
+    "references": [
+      "Daniels and Worthingham's Muscle Testing"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Benign Paroxysmal Positional Vertigo (BPPV)",
+    "category": "Neuromuscular",
+    "content": "### Diagnosis and Treatment\n* **Diagnosis**: Dix-Hallpike maneuver (torsional nystagmus).\n* **Treatment**: Epley maneuver (Canalith repositioning) to move otoconia back to the utricle.\n\n### Symptoms\nBrief episodes of vertigo triggered by head position changes.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Lymphedema: Complete Decongestive Therapy (CDT)",
+    "category": "Other Systems",
+    "content": "### Phases\n* **Phase I (Intensive)**: Manual lymphatic drainage (MLD), short-stretch compression bandages, exercise, and skin care.\n* **Phase II (Maintenance)**: Compression garments during the day, bandages at night, continued exercise.",
+    "references": [
+      "Zuther Lymphedema Management"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wrist Drop (Radial Nerve Injury)",
+    "category": "Neuromuscular",
+    "content": "### Description\nInability to extend the wrist and fingers due to damage to the radial nerve (e.g., 'Saturday Night Palsy' or mid-shaft humerus fracture).\n\n### Splinting\nA wrist cock-up splint is commonly used to maintain the wrist in a functional position.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cystic Fibrosis: Pancreatic Involvement",
+    "category": "Other Systems",
+    "content": "### Clinical Signs\nThick secretions block pancreatic ducts, leading to malabsorption of fats and proteins. Patients often present with steatorrhea (foul-smelling, fatty stools) and failure to thrive.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Standard Deviation in Research",
+    "category": "Non-Systems",
+    "content": "### Interpretation\n* **1 SD**: Covers approx. 68% of the data.\n* **2 SD**: Covers approx. 95% of the data.\n* **3 SD**: Covers approx. 99% of the data.\n\n### Use\nIndicates the amount of variability or dispersion around the mean.",
+    "references": [
+      "Foundations of Clinical Research"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Anterior Compartment Syndrome",
+    "category": "Musculoskeletal",
+    "content": "### The 6 P's (Medical Emergency)\n1. Pain (out of proportion)\n2. Palpable tenderness/Pressure\n3. Paresthesia\n4. Pallor\n5. Pulselessness\n6. Paralysis",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve III: Oculomotor Nerve Lesion",
+    "category": "Neuromuscular",
+    "content": "### Presentation\n* Ptosis (drooping eyelid).\n* Eye positioned 'down and out.'\n* Dilated pupil (mydriasis).\n* Loss of pupillary light reflex.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Therapeutic Ultrasound: Attenuation",
+    "category": "Non-Systems",
+    "content": "### Definition\nReduction of energy as it passes through tissue due to absorption, reflection, and refraction.\n\n### Key Fact\nTissues with high collagen content (tendon, ligament, bone) have high absorption/attenuation rates.",
+    "references": [
+      "Michlovitz's Modalities for Therapeutic Intervention"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Avascular Necrosis (AVN) of the Hip",
+    "category": "Musculoskeletal",
+    "content": "### Etiology\nDisruption of blood supply to the femoral head. Common causes: prolonged corticosteroid use, excessive alcohol, or trauma.\n\n### Clinical Findings\nGradual onset of groin pain, worse with weight-bearing. Decreased IR, flexion, and abduction.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Foot Slap vs. Foot Drop",
+    "category": "Musculoskeletal",
+    "content": "### Foot Slap\nWeak dorsiflexors (MMT 3/5). Initial contact is made, but the foot slaps down during loading response.\n\n### Foot Drop\nSevere dorsiflexor weakness (MMT < 3/5). Toes drag during swing phase, often leading to a 'steppage gait' (increased hip flexion).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "C-Reactive Protein (CRP)",
+    "category": "Other Systems",
+    "content": "### Clinical Value\nA non-specific marker of systemic inflammation. Elevated in conditions like RA, infection, or after surgery. High levels are a risk factor for cardiovascular disease.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Borg Rating of Perceived Exertion (RPE)",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Scale (6-20)\n* **6**: No exertion.\n* **11-13**: 'Fairly light' to 'Somewhat hard' (approx. 60% Max HR).\n* **20**: Maximal exertion.\n\n### Utility\nCrucial for patients on Beta-blockers where HR is blunted.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hoffa's Syndrome (Fat Pad Impingement)",
+    "category": "Musculoskeletal",
+    "content": "### Description\nIrritation of the infrapatellar fat pad, usually due to hyperextension trauma or chronic impingement.\n\n### Presentation\nPain at the inferior pole of the patella, made worse by knee extension.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Anterolateral Spinothalamic Tract",
+    "category": "Neuromuscular",
+    "content": "### Function\nConveys sensations of pain, temperature, and crude touch. Fibers decussate (cross) immediately at the level of the spinal cord segment.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Posterior Column-Medial Lemniscus (PCML)",
+    "category": "Neuromuscular",
+    "content": "### Function\nConveys sensations of proprioception, vibration, and fine (discriminative) touch. Fibers decussate in the medulla.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Functional Reach Test",
+    "category": "Neuromuscular",
+    "content": "### Norms\n* **< 6 inches**: High fall risk.\n* **6-10 inches**: Moderate fall risk.\n\n### Procedure\nPatient stands next to a wall, reaches forward with a closed fist without taking a step.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Goniometry: Ankle Dorsiflexion",
+    "category": "Musculoskeletal",
+    "content": "### Landmarks\n* **Axis**: Lateral malleolus.\n* **Stationary Arm**: Lateral midline of the fibula (toward fibular head).\n* **Moving Arm**: Parallel to the 5th metatarsal.\n\n### Normal ROM\n$0-20^{\\circ}$.",
+    "references": [
+      "Norkin and White Measurement of Joint Motion"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Ankylosing Spondylitis",
+    "category": "Musculoskeletal",
+    "content": "### Description\nChronic inflammatory disease primarily affecting the SI joints and spine. Leads to 'Bamboo Spine' on X-ray.\n\n### Presentation\nMorning stiffness, decreased spinal mobility in all planes, and kyphotic deformity. HLA-B27 positive.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Intermittent Claudication Testing",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Treadmill Test\nPatient walks at 2.0 mph on a constant grade. Time or distance is recorded when pain starts (claudication distance) and when pain becomes unbearable (maximal claudication distance).",
+    "references": [
+      "ACSM Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Charcot Foot (Neuropathic Arthropathy)",
+    "category": "Metabolic/Endocrine",
+    "content": "### Description\nProgressive destruction of joints/bones in the foot due to neuropathy (common in Diabetes).\n\n### Presentation\nHot, swollen, red foot that mimics infection but is relatively painless due to sensory loss. Can lead to 'rocker-bottom' deformity.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Manual Traction: Cervical Parameters",
+    "category": "Non-Systems",
+    "content": "### Parameters\n* **Disc protrusion/stretch**: 12-15 lbs.\n* **Joint distraction**: 20-30 lbs (or 7% of body weight).\n* **Angle**: $25-30^{\\circ}$ of flexion for mid-lower cervical spine.",
+    "references": [
+      "Michlovitz's Modalities for Therapeutic Intervention"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Moro Reflex",
+    "category": "Neuromuscular (Pediatrics)",
+    "content": "### Description\nSudden drop of the head leads to abduction/extension of arms followed by adduction/flexion.\n\n### Integration\nNormally integrated by 5-6 months. Persistence may interfere with sitting balance.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Osteogenesis Imperfecta (OI)",
+    "category": "Musculoskeletal (Pediatrics)",
+    "content": "### Description\n'Brittle bone disease' caused by a defect in collagen synthesis.\n\n### PT Considerations\nGentle handling is critical; avoid passive stretching and high-torque exercises due to high fracture risk.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Vaulting",
+    "category": "Musculoskeletal",
+    "content": "### Presentation\nThe patient rises up on the toes of the stance leg to help the swing leg clear the ground.\n\n### Cause\nInadequate knee flexion or dorsiflexion of the swing limb, or a functionally long limb.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Incentive Spirometry",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Purpose\nTo encourage deep breathing and prevent atelectasis (collapsed alveoli), especially post-surgery.\n\n### Instruction\nPatient performs a slow, deep inspiration followed by a 3-5 second breath hold.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Sinding-Larsen-Johansson Syndrome",
+    "category": "Musculoskeletal (Pediatrics)",
+    "content": "### Description\nTraction apophysitis at the inferior pole of the patella. Most common in active adolescents.\n\n### Treatment\nActivity modification, ice, and stretching of the quadriceps.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wound Dressings: Alginates",
+    "category": "Integumentary",
+    "content": "### Characteristics\nHighly absorptive (derived from seaweed). Form a gel when in contact with exudate.\n\n### Indications\nWounds with heavy drainage and infected wounds. Requires a secondary dressing.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wound Dressings: Hydrocolloids",
+    "category": "Integumentary",
+    "content": "### Characteristics\nOcclusive/semi-occlusive. Promote autolytic debridement.\n\n### Indications\nGranular or necrotic wounds with mild-to-moderate drainage. Contraindicated for infected wounds.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hip Scouring Test",
+    "category": "Musculoskeletal",
+    "content": "### Technique\nPatient is supine. Hip and knee are flexed. The therapist applies a downward compressive force through the femur while rotating the hip.\n\n### Interpretation\n**Positive**: Clicking, grinding, or pain, suggesting labral tear or OA.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Tinel’s Sign (Wrist)",
+    "category": "Neuromuscular",
+    "content": "### Technique\nTap over the carpal tunnel (median nerve).\n\n### Interpretation\n**Positive**: Tingling or 'shocks' in the median nerve distribution, indicating Carpal Tunnel Syndrome.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pneumothorax vs. Atelectasis",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Pneumothorax\nAir in the pleural space. Deviates trachea to the *opposite* side.\n\n### Atelectasis\nCollapsed alveoli. Deviates trachea to the *same* side.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Stages of Motor Learning",
+    "category": "Neuromuscular",
+    "content": "### Stages\n1. **Cognitive**: High concentration; many errors; rely on visual feedback.\n2. **Associative**: Refining the skill; fewer errors; rely on proprioceptive feedback.\n3. **Autonomous**: Skill is automatic; distracted performance is possible.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Carpal Bones Mnemonics",
+    "category": "Musculoskeletal",
+    "content": "### 'Some Lovers Try Positions That They Can't Handle'\n* **Proximal (Radial to Ulnar)**: Scaphoid, Lunate, Triquetrum, Pisiform.\n* **Distal (Radial to Ulnar)**: Trapezium, Trapezoid, Capitate, Hamate.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hemoglobin (Hgb) Values and Exercise",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Values\n* **Normal**: 12-16 g/dL (Women), 14-18 g/dL (Men).\n* **< 8 g/dL**: Exercise usually contraindicated.\n* **8-10 g/dL**: Light exercise/ADLs permitted.",
+    "references": [
+      "ACSM Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Anterolateral Ligament (ALL) of the Knee",
+    "category": "Musculoskeletal",
+    "content": "### Importance\nA stabilizer discovered to play a role in controlling internal tibial rotation. Often injured alongside the ACL, contributing to the 'pivot shift' phenomenon.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Posterior Cerebral Artery (PCA) Stroke",
+    "category": "Neuromuscular",
+    "content": "### Symptoms\n* Homonymous hemianopsia.\n* Thalamic pain syndrome (intense burning pain).\n* Visual agnosia (inability to recognize objects).\n* Memory deficits.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Berg Balance Scale",
+    "category": "Neuromuscular",
+    "content": "### Scoring\nTotal score of 56 points. A score of **< 45** indicates a high risk of falls.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Clonus Testing",
+    "category": "Neuromuscular",
+    "content": "### Technique\nQuickly dorsiflex the patient's foot and maintain the position.\n\n### Interpretation\n**Positive**: Rhythmic 'beats' or oscillations. Indicates UMN lesion. 1-2 beats can be normal; > 3 is abnormal.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Slump Test",
+    "category": "Neuromuscular",
+    "content": "### Purpose\nTo assess for neural tension (sciatic nerve, dural tethering).\n\n### Sequence\nPatient slumps (thoracic/lumbar flexion), then neck flexion, then knee extension, then ankle dorsiflexion.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Ober's Test",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo identify tightness of the Ilio-tibial (IT) band.\n\n### Technique\nPatient is side-lying. The therapist abducts and extends the top hip, then slowly lowers it toward the table.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Informed Consent Requirements",
+    "category": "Professional Responsibilities",
+    "content": "### Elements\n1. Explanation of the procedure.\n2. Risks and benefits.\n3. Alternatives to the treatment.\n4. Opportunity for the patient to ask questions.",
+    "references": [
+      "APTA Guide for Professional Conduct"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Beta-Blockers and Exercise Response",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Mechanism\nInhibit beta-adrenergic receptors, reducing sympathetic load on the heart.\n\n### Clinical Impact\nBlunts heart rate and blood pressure response to exercise. Traditional HR-based formulas (e.g., 220-age) are invalid. \n\n### Monitoring\nMust use the Borg Rating of Perceived Exertion (RPE) to monitor exercise intensity.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "ACE Inhibitors (Suffix: -pril)",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Mechanism\nPrevents conversion of Angiotensin I to Angiotensin II, a potent vasoconstrictor.\n\n### Side Effects\nDry cough (most common), hypotension, and dizziness. Patients are at risk for orthostatic hypotension during transfers.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pediatric Milestones: 4 Months",
+    "category": "Neuromuscular (Pediatrics)",
+    "content": "### Key Skills\n* **Gross Motor**: Sits with support; rolls from prone to side; bears weight on forearms in prone.\n* **Fine Motor**: Reaches for toys; shakes a rattle.\n* **Reflexes**: Primitive reflexes (Moro, ATNR) begin to integrate.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pediatric Milestones: 6 Months",
+    "category": "Neuromuscular (Pediatrics)",
+    "content": "### Key Skills\n* **Gross Motor**: Sits independently; rolls from prone to supine and supine to prone; pivots on belly.\n* **Fine Motor**: Palmar grasp; transfers objects between hands.\n* **Oral**: Begins eating solid foods.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pediatric Milestones: 12 Months",
+    "category": "Neuromuscular (Pediatrics)",
+    "content": "### Key Skills\n* **Gross Motor**: Stands alone; walks with one hand held or independently; creeps upstairs.\n* **Fine Motor**: Pincer grasp (thumb and forefinger); releases objects into a container.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Spina Bifida Occulta vs. Cystica",
+    "category": "Neuromuscular (Pediatrics)",
+    "content": "### Classifications\n* **Occulta**: Mildest form; small gap in vertebrae but no protrusion. Often marked by a tuft of hair on the lower back.\n* **Meningocele**: Sac containing spinal fluid protrudes; no nerve damage.\n* **Myelomeningocele**: Most severe; sac contains spinal cord/nerves; results in paralysis and sensory loss.",
+    "references": [
+      "Somers Spinal Cord Injury Evidence-Based Practice"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Statins (HMG-CoA Reductase Inhibitors)",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Purpose\nLower LDL cholesterol and triglycerides.\n\n### Warning Signs\n**Statin-induced Myopathy**: Muscle pain, weakness, or cramping. If severe, can lead to rhabdomyolysis (dark urine, medical emergency).",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Antalgic Gait",
+    "category": "Musculoskeletal",
+    "content": "### Characteristics\nReduced stance phase on the painful limb and a shortened swing phase on the uninvolved limb. Rapid 'step-to' pattern to minimize weight-bearing on the affected side.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Circumduction",
+    "category": "Neuromuscular",
+    "content": "### Presentation\nThe swing leg swings out in a lateral arc to clear the ground.\n\n### Causes\nWeak hip flexors, stiff knee (inability to flex), or weak dorsiflexors (drop foot). Common in hemiparetic patients.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Festinating Gait",
+    "category": "Neuromuscular",
+    "content": "### Presentation\nSmall, shuffling steps that increase in speed; the patient feels they are 'chasing' their center of gravity. Characteristic of Parkinson's Disease.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Scissor Gait",
+    "category": "Neuromuscular",
+    "content": "### Presentation\nLegs cross over the midline during swing phase due to severe hip adductor spasticity. Common in patients with Spastic Cerebral Palsy.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Standard Deviation and the Normal Curve",
+    "category": "Non-Systems (Research)",
+    "content": "### Normal Distribution\n* **$\\pm 1$ SD**: 68.2%\n* **$\\pm 2$ SD**: 95.4%\n* **$\\pm 3$ SD**: 99.7%\n\n### Application\nIn research, data points outside 2 SDs are often considered statistically significant outliers.",
+    "references": [
+      "Foundations of Clinical Research"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "T-Test vs. ANOVA",
+    "category": "Non-Systems (Research)",
+    "content": "### T-Test\nUsed to compare the means of **two** groups (e.g., Treatment vs. Control).\n\n### ANOVA (Analysis of Variance)\nUsed to compare the means of **three or more** groups (e.g., Treatment A vs. Treatment B vs. Control).",
+    "references": [
+      "Foundations of Clinical Research"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Goniometry: Hip Extension",
+    "category": "Musculoskeletal",
+    "content": "### Landmarks\n* **Axis**: Greater trochanter of the femur.\n* **Stationary Arm**: Lateral midline of the pelvis/trunk.\n* **Moving Arm**: Lateral midline of the femur (lateral epicondyle).\n\n### Normal ROM\n$0-20^{\\circ}$.",
+    "references": [
+      "Norkin and White Measurement of Joint Motion"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Goniometry: Elbow Flexion",
+    "category": "Musculoskeletal",
+    "content": "### Landmarks\n* **Axis**: Lateral epicondyle of the humerus.\n* **Stationary Arm**: Lateral midline of the humerus (acromion process).\n* **Moving Arm**: Lateral midline of the radius (radial styloid).\n\n### Normal ROM\n$0-150^{\\circ}$.",
+    "references": [
+      "Norkin and White Measurement of Joint Motion"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Colles' vs. Smith's Fracture",
+    "category": "Musculoskeletal",
+    "content": "### Colles'\nDistal radius fracture with **dorsal** displacement ('Dinner fork' deformity). Results from FOOSH.\n\n### Smith's\nDistal radius fracture with **volar** displacement ('Garden spade' deformity). Results from a fall on the back of a flexed wrist.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Scurvy (Vitamin C Deficiency)",
+    "category": "Metabolic/Endocrine",
+    "content": "### Clinical Presentation\nImpaired collagen synthesis leading to bleeding gums, bruising (petechiae), and poor wound healing. Essential for PTs to recognize in malnourished or geriatric populations.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Rickets (Vitamin D Deficiency)",
+    "category": "Metabolic/Endocrine",
+    "content": "### Presentation\nSoftening and weakening of bones in children, leading to 'bowed' legs (genu varum). In adults, this is known as Osteomalacia.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Metabolic Bone Disease: Osteoporosis",
+    "category": "Musculoskeletal",
+    "content": "### T-Score Guidelines\n* **Normal**: $\\ge -1.0$.\n* **Osteopenia**: $-1.0$ to $-2.5$.\n* **Osteoporosis**: $\\le -2.5$.\n\n### PT Focus\nWeight-bearing exercises, balance training to prevent falls, and avoiding end-range spinal flexion (to prevent compression fractures).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve X: Vagus Nerve",
+    "category": "Neuromuscular",
+    "content": "### Function\n* **Motor**: Pharyngeal and laryngeal muscles.\n* **Autonomic**: Parasympathetic control of the heart, lungs, and GI tract.\n\n### Testing\nObserve the soft palate during 'Ah' phonation. The uvula will deviate **away** from the side of the lesion.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve XII: Hypoglossal Nerve",
+    "category": "Neuromuscular",
+    "content": "### Function\nMotor control of the tongue.\n\n### Testing\nAsk the patient to protrude the tongue. The tongue will deviate **toward** the side of the lesion ('Licks the lesion').",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Lhermitte’s Sign",
+    "category": "Neuromuscular",
+    "content": "### Presentation\nAn 'electric shock' sensation that runs down the spine and into the limbs when the neck is flexed. Indicative of Multiple Sclerosis or cervical myelopathy.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Romberg Test",
+    "category": "Neuromuscular",
+    "content": "### Procedure\nPatient stands with feet together, eyes open (EO), then eyes closed (EC).\n\n### Interpretation\nIncreased sway with EC compared to EO suggests sensory ataxia (proprioceptive loss). If the patient sways with EO, it is likely a cerebellar or vestibular issue.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Anterolateral Ligament (ALL) Injury",
+    "category": "Musculoskeletal",
+    "content": "### Significance\nInjury to this ligament often occurs during high-grade ACL tears. It is a primary stabilizer against internal tibial rotation. Its injury increases the 'pivot shift' severity.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Carpal Tunnel Syndrome (CTS) Night Splinting",
+    "category": "Musculoskeletal",
+    "content": "### Rationale\nWrists are typically held in $0-20^{\\circ}$ of extension to minimize pressure on the median nerve. Splinting at night prevents prolonged flexion, which narrows the canal.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hyperkalemia vs. Hypokalemia",
+    "category": "Metabolic/Endocrine",
+    "content": "### Hyperkalemia (High Potassium)\nCan cause peaked T-waves on EKG; muscle weakness. Dangerous for cardiac arrest.\n\n### Hypokalemia (Low Potassium)\nCan cause flattened T-waves or U-waves; muscle cramps and fatigue.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Normal Lab Values: White Blood Cells (WBC)",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Reference Range\n$5,000 - 10,000 / \\text{mm}^3$.\n\n### Clinical Implications\n* **Leukocytosis (> 11,000)**: Sign of infection, inflammation, or stress.\n* **Leukopenia (< 4,000)**: Increased risk for infection (Neutropenic precautions may be needed).",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wound Care: Dehiscence",
+    "category": "Integumentary",
+    "content": "### Definition\nThe partial or total separation of wound layers, often occurring with surgical incisions. Risk factors include obesity, diabetes, and infection.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wound Care: Evisceration",
+    "category": "Integumentary",
+    "content": "### Definition\nA medical emergency where internal organs protrude through an open wound or surgical incision. PT should immediately stop, position the patient for comfort, and call for emergency assistance.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wheelchair: Standard Seat Dimensions",
+    "category": "Non-Systems",
+    "content": "### Adult Standard\n* **Width**: 18 inches.\n* **Depth**: 16 inches.\n* **Height**: 20 inches.\n\n### Measurement\nSeat width should be 2 inches wider than the patient's widest part of the hips.",
+    "references": [
+      "Pierson and Fairchild's Principles of Patient Care"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wheelchair: Seat Depth Measurement",
+    "category": "Non-Systems",
+    "content": "### Technique\nMeasure from the posterior buttock to the popliteal fold, then **subtract 2 inches** to prevent irritation of the popliteal space.",
+    "references": [
+      "Pierson and Fairchild's Principles of Patient Care"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Goniometry: Shoulder Abduction",
+    "category": "Musculoskeletal",
+    "content": "### Landmarks\n* **Axis**: Anterior aspect of the acromion process.\n* **Stationary Arm**: Parallel to the sternum.\n* **Moving Arm**: Anterior midline of the humerus.\n\n### Normal ROM\n$0-180^{\\circ}$.",
+    "references": [
+      "Norkin and White Measurement of Joint Motion"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Corticosteroids: Chronic Side Effects",
+    "category": "Metabolic/Endocrine",
+    "content": "### Systemic Effects\nOsteoporosis, tendon weakening/rupture, skin thinning, hyperglycemia (steroid-induced diabetes), and moon-face appearance. PTs must monitor for tendon pain.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Ankle Posterior Drawer Test",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo assess the integrity of the posterior talofibular ligament (PTFL).\n\n### Technique\nPatient supine. Therapist stabilizes the foot and pushes the tibia posteriorly relative to the talus.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve VI: Abducens Nerve",
+    "category": "Neuromuscular",
+    "content": "### Function\nMotor control of the lateral rectus muscle (eye abduction).\n\n### Testing\nAsk the patient to follow an object laterally. A lesion will result in the inability to move the eye laterally.",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hawkins-Kennedy Test",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo identify shoulder impingement (supraspinatus tendon).\n\n### Technique\nShoulder and elbow flexed to $90^{\\circ}$, then therapist performs passive internal rotation.\n\n### Interpretation\n**Positive**: Pain in the shoulder.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Yergason’s Test",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo test for bicipital tendonitis or integrity of the transverse humeral ligament.\n\n### Technique\nResisted forearm supination and external rotation with the elbow flexed to $90^{\\circ}$.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Froment’s Sign",
+    "category": "Neuromuscular",
+    "content": "### Purpose\nTo test for Ulnar Nerve palsy (Adductor Pollicis weakness).\n\n### Technique\nPatient attempts to pinch a piece of paper. \n\n### Interpretation\n**Positive**: The patient flexes the IP joint of the thumb (recruiting Flexor Pollicis Longus, Median Nerve) to compensate.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Chvostek’s Sign",
+    "category": "Metabolic/Endocrine",
+    "content": "### Indication\nHypocalcemia.\n\n### Technique\nTapping on the facial nerve in front of the ear.\n\n### Interpretation\n**Positive**: Twitching of the facial muscles on the same side.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Trousseau’s Sign",
+    "category": "Metabolic/Endocrine",
+    "content": "### Indication\nHypocalcemia.\n\n### Technique\nInflating a blood pressure cuff on the arm to above systolic pressure for 3 minutes.\n\n### Interpretation\n**Positive**: Carpal spasm (flexion of wrist and MCP joints).",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Gluteus Maximus Gait",
+    "category": "Musculoskeletal",
+    "content": "### Presentation\nTrunk leans posteriorly at initial contact/loading response on the stance leg.\n\n### Cause\nWeakness of the gluteus maximus; the lean shifts the center of gravity posterior to the hip joint to prevent hip flexion.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Orthostatic Hypotension Definition",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Criteria\nA drop in SBP $> 20 \\text{ mmHg}$ or DBP $> 10 \\text{ mmHg}$ within 3 minutes of standing or moving from supine to sit.\n\n### Intervention\nRecline the patient immediately; encourage leg pumps or abdominal binders.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Sternal Precautions (Post-CABG)",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Guidelines (typically 6-8 weeks)\n* No lifting > 5-10 lbs.\n* No pushing/pulling with UEs.\n* Avoid wide abduction or overhead reaching.\n* 'Hug a pillow' when coughing or moving in bed.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wallenberg Syndrome (PICA Stroke)",
+    "category": "Neuromuscular",
+    "content": "### Symptoms\n* Lateral Medullary Syndrome.\n* Ipsilateral ataxia, Horner's syndrome, facial sensory loss.\n* Contralateral pain and temperature loss in the body.\n* Dysphagia and vertigo.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Dysphagia vs. Dysarthria",
+    "category": "Neuromuscular",
+    "content": "### Dysphagia\nDifficulty swallowing; high risk for aspiration pneumonia.\n\n### Dysarthria\nDifficulty with the motor production of speech (slurring) due to muscle weakness; language comprehension remains intact.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Crouched Gait",
+    "category": "Neuromuscular (Pediatrics)",
+    "content": "### Presentation\nExcessive hip and knee flexion with ankle dorsiflexion during stance. Common in Spastic Diplegia (CP).",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Normal Lab Values: Platelets",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Reference Range\n$150,000 - 450,000 / \\text{mm}^3$.\n\n### Exercise Guidelines\n* **< 20,000**: High risk for spontaneous bleed; only light ADLs.\n* **20,000 - 50,000**: Moderate resistance permitted.\n* **> 50,000**: Normal activity permitted.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Dermatome: C6",
+    "category": "Neuromuscular",
+    "content": "### Location\nLateral forearm and thumb.\n\n### Myotome\nElbow flexion and wrist extension.\n\n### Reflex\nBrachioradialis.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Dermatome: L4",
+    "category": "Neuromuscular",
+    "content": "### Location\nMedial malleolus and medial lower leg.\n\n### Myotome\nAnkle dorsiflexion.\n\n### Reflex\nPatellar tendon.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Dermatome: S1",
+    "category": "Neuromuscular",
+    "content": "### Location\nLateral malleolus and lateral foot.\n\n### Myotome\nAnkle plantarflexion and eversion.\n\n### Reflex\nAchilles tendon.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Pelvic Floor: Levator Ani Components",
+    "category": "Other Systems (GU)",
+    "content": "### Muscle Group\nConsists of the Puborectalis, Pubococcygeus, and Iliococcygeus.\n\n### Function\nSupports pelvic visceral structures and resists increases in intra-abdominal pressure. Weakness contributes to stress incontinence and pelvic organ prolapse.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Meniscal Repair vs. Meniscectomy Rehab",
+    "category": "Musculoskeletal",
+    "content": "### Meniscectomy\nFull weight-bearing (FWB) as tolerated immediately. Rapid progression to strengthening.\n\n### Meniscal Repair\nPeriod of NWB or PWB (3-6 weeks). Limited knee flexion (usually < $90^{\\circ}$) for 4-6 weeks to protect the suture site.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Bankart vs. SLAP Lesions",
+    "category": "Musculoskeletal",
+    "content": "### Bankart\nAvulsion of the anterior-inferior labrum. Often follows anterior dislocation.\n\n### SLAP (Superior Labrum Anterior Posterior)\nInvolves the superior labrum where the long head of the biceps attaches. Common in overhead athletes.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Biceps Tendon Rupture: 'Popeye' Deformity",
+    "category": "Musculoskeletal",
+    "content": "### Presentation\nDistal bunching of the muscle belly after a rupture of the long head of the biceps. Often occurs in older adults with chronic impingement or during a sudden forceful contraction in younger athletes.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cauda Equina Syndrome (Red Flag)",
+    "category": "Neuromuscular",
+    "content": "### Symptoms\nSaddle anesthesia, new-onset bowel/bladder incontinence, global LE weakness, and loss of Achilles reflex. \n\n### Action\nImmediate referral to the Emergency Room for surgical decompression.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cystic Fibrosis: Percussion and Vibration",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Technique\n**Percussion**: Rhythmic clapping with cupped hands over lung segments.\n**Vibration**: High-frequency oscillation during exhalation only. \n\n### Goal\nTo mobilize thick secretions from the periphery to the central airways.",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Heart Failure: Ejection Fraction (EF)",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Values\n* **Normal**: 55-70%.\n* **Heart Failure**: < 40%.\n\n### Exercise Precautions\nPatients with low EF require longer warm-ups and cool-downs and close monitoring of vitals (and signs of exercise intolerance).",
+    "references": [
+      "Hillegass Essentials of Cardiopulmonary Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Tetralogy of Fallot",
+    "category": "Cardiovascular/Pulmonary (Pediatrics)",
+    "content": "### Four Defects\n1. Ventricular septal defect.\n2. Pulmonary stenosis.\n3. Right ventricular hypertrophy.\n4. Overriding aorta.\n\n### Presentation\n'Cyanotic' heart defect; infants may have 'Tet spells' (bluish skin during crying or feeding).",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Down Syndrome (Trisomy 21)",
+    "category": "Neuromuscular (Pediatrics)",
+    "content": "### Key PT Concerns\nAtlanto-axial instability (AAI), generalized hypotonia, joint hypermobility, and congenital heart defects. Avoid forceful neck manipulation or extreme neck flexion/extension.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Slipped Capital Femoral Epiphysis (SCFE)",
+    "category": "Musculoskeletal (Pediatrics)",
+    "content": "### Description\nDisplacement of the femoral head from the neck. Common in obese adolescent males.\n\n### Presentation\nHip/knee pain with a characteristic 'out-toeing' gait. Limited Internal Rotation.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Goniometry: Wrist Extension",
+    "category": "Musculoskeletal",
+    "content": "### Landmarks\n* **Axis**: Triquetrum.\n* **Stationary Arm**: Lateral midline of the ulna.\n* **Moving Arm**: Lateral midline of the 5th metatarsal.\n\n### Normal ROM\n$0-70^{\\circ}$.",
+    "references": [
+      "Norkin and White Measurement of Joint Motion"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cerebellar Ataxia vs. Sensory Ataxia",
+    "category": "Neuromuscular",
+    "content": "### Cerebellar\nDue to cerebellum damage. Incoordination remains even with eyes open.\n\n### Sensory\nDue to PCML/proprioceptive loss. Coordination improves significantly with visual input (EO) and worsens with EC.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "TENS: Conventional vs. Brief Intense",
+    "category": "Non-Systems",
+    "content": "### Conventional (High Rate)\nShort pulse duration, high frequency. Provides immediate pain relief via Gate Control Theory.\n\n### Brief Intense\nHigh pulse duration, high frequency. Used for rapid, short-term pain relief during painful procedures (e.g., debridement).",
+    "references": [
+      "Michlovitz's Modalities for Therapeutic Intervention"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "P-Value Significance",
+    "category": "Non-Systems (Research)",
+    "content": "### Definition\nThe probability that the results occurred by chance.\n\n### Interpretation\nAn alpha level of $0.05$ is standard. If $p < 0.05$, we reject the null hypothesis (statistically significant).",
+    "references": [
+      "Foundations of Clinical Research"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wells Criteria for DVT",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Scoring\n* **+1 for**: Active cancer, paralysis/cast, bedridden > 3 days, localized tenderness, calf swelling > 3cm, collateral superficial veins.\n* **Interpretation**: Score $\ge 2$ indicates DVT is likely.",
+    "references": [
+      "FSBPT Guidelines",
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Peripheral Arterial Disease (PAD): Exercise Guidelines",
+    "category": "Cardiovascular/Pulmonary",
+    "content": "### Training Parameters\nInterval walking training. Walk until pain reaches 3/4 on the claudication scale, rest until pain subsides, and repeat. Aim for 30-60 mins total.",
+    "references": [
+      "ACSM Guidelines"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Carpal Tunnel: Median Nerve Glides",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo reduce neural tension and improve mobility of the median nerve within the carpal tunnel. \n\n### Positions\nMoving from fist to extended fingers, then to wrist/thumb extension and forearm supination.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Lymphedema: Stage 2 Findings",
+    "category": "Other Systems",
+    "content": "### Characteristics\nSpontaneously irreversible. Non-pitting edema with fibrotic changes (thickening of the skin). Stemmer's sign is positive.",
+    "references": [
+      "Zuther Lymphedema Management"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Stemmer's Sign",
+    "category": "Other Systems",
+    "content": "### Technique\nAttempting to pinch and lift the skin on the dorsal base of the second toe or finger.\n\n### Interpretation\n**Positive**: The skin cannot be pinched/lifted; indicates Lymphedema.",
+    "references": [
+      "Zuther Lymphedema Management"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Benign Prostatic Hyperplasia (BPH)",
+    "category": "Other Systems (GU)",
+    "content": "### Presentation\nFound in aging males. Symptoms include urinary frequency, urgency, nocturia, and a weak urinary stream. Can mimic lower back pain in some cases.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Cranial Nerve II: Optic Nerve Testing",
+    "category": "Neuromuscular",
+    "content": "### Assessment\nVisual acuity (Snellen chart), visual fields (confrontation test), and pupillary light reflex (afferent limb).",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Trendelenburg (Compensated)",
+    "category": "Musculoskeletal",
+    "content": "### Presentation\nThe patient leans the trunk toward the side of the weak gluteus medius during the stance phase to keep the pelvis level.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Calcaneus Gait",
+    "category": "Neuromuscular",
+    "content": "### Cause\nWeakness of the gastroc/soleus (plantarflexors). The patient walks on their heels and is unable to 'push-off' during the terminal stance.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Sjogren’s Syndrome",
+    "category": "Other Systems",
+    "content": "### Clinical Signs\nChronic autoimmune disease. Classic triad: dry eyes (xerophthalmia), dry mouth (xerostomia), and arthritis.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Systemic Lupus Erythematosus (SLE)",
+    "category": "Other Systems",
+    "content": "### Presentation\nAutoimmune condition with a characteristic 'butterfly rash' over the nose and cheeks. Can cause joint pain, fatigue, and kidney damage (nephritis).",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "De Quervain’s Tenosynovitis",
+    "category": "Musculoskeletal",
+    "content": "### Anatomy\nInflammation of the Abductor Pollicis Longus (APL) and Extensor Pollicis Brevis (EPB) tendons within the first dorsal compartment of the wrist.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Dupuytren’s Contracture",
+    "category": "Musculoskeletal",
+    "content": "### Presentation\nContracture of the palmar fascia leading to fixed flexion deformities, most common in the 4th and 5th digits.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Adrenal Insufficiency (Addison’s Disease)",
+    "category": "Metabolic/Endocrine",
+    "content": "### Signs\nHypocortisolism. Presents with dark skin pigmentation, hypotension, fatigue, and weight loss.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Shoulder Capsular Pattern",
+    "category": "Musculoskeletal",
+    "content": "### Order of Restriction\nExternal Rotation > Abduction > Internal Rotation. Hallmark of adhesive capsulitis.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Hip Capsular Pattern",
+    "category": "Musculoskeletal",
+    "content": "### Order of Restriction\nFlexion > Abduction > Internal Rotation. (In some sources: IR > Flexion > Abduction).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Knee Capsular Pattern",
+    "category": "Musculoskeletal",
+    "content": "### Order of Restriction\nFlexion > Extension.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Anterior Innominate Rotation",
+    "category": "Musculoskeletal",
+    "content": "### Supine-to-Sit Test\nLeg appears **longer** in supine and **shorter** in sitting.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Posterior Innominate Rotation",
+    "category": "Musculoskeletal",
+    "content": "### Supine-to-Sit Test\nLeg appears **shorter** in supine and **longer** in sitting.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Panner’s Disease",
+    "category": "Musculoskeletal (Pediatrics)",
+    "content": "### Description\nOsteochondritis of the capitellum of the humerus. Occurs in children < 10 years old. Presents as elbow pain and limited extension.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Wound Care: Silver Sulfadiazine",
+    "category": "Integumentary",
+    "content": "### Pros/Cons\nEffective against yeast and bacteria (common for burns). However, it can cause leukopenia (drop in WBCs).",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603398938378-e54eab446f91?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Shuffling Gait",
+    "category": "Neuromuscular",
+    "content": "### Presentation\nShort steps with minimal floor clearance and loss of arm swing. Classic for Parkinson's Disease.",
+    "references": [
+      "O'Sullivan Physical Rehabilitation"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Anterior Interosseous Nerve Syndrome",
+    "category": "Neuromuscular",
+    "content": "### Sign\nInability to make the 'OK' sign (pinch grip). Due to weakness of the Flexor Pollicis Longus and Flexor Digitorum Profundus (lateral half).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Posterior Interosseous Nerve Syndrome",
+    "category": "Neuromuscular",
+    "content": "### Sign\nWeakness of wrist and finger extensors without sensory loss (pure motor nerve from the radial nerve).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719202047-76d3432ee323?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Prone Instability Test",
+    "category": "Musculoskeletal",
+    "content": "### Purpose\nTo identify lumbar segmental instability.\n\n### Interpretation\n**Positive**: Pain is present with PA pressure when legs are on the floor, but pain **disappears** when PA pressure is applied while the patient lifts their legs.",
+    "references": [
+      "Magee Orthopedic Physical Assessment"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Murphy’s Sign (Gallbladder)",
+    "category": "Other Systems (GI)",
+    "content": "### Technique\nTherapist palpates under the right costal margin while the patient takes a deep breath.\n\n### Interpretation\n**Positive**: Sudden cessation of breath due to pain; indicates Cholecystitis.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "McBurney’s Point",
+    "category": "Other Systems (GI)",
+    "content": "### Location\n1/3 of the distance from the ASIS to the umbilicus.\n\n### Sign\nTenderness here is a classic sign of Appendicitis.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Rebound Tenderness (Blumberg’s Sign)",
+    "category": "Other Systems (GI)",
+    "content": "### Sign\nPain upon sudden release of pressure on the abdomen. Indicates peritoneal irritation.",
+    "references": [
+      "Goodman and Fuller's Pathology"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Goniometry: Forearm Supination",
+    "category": "Musculoskeletal",
+    "content": "### Landmarks\n* **Axis**: Medial to the ulnar styloid.\n* **Stationary Arm**: Parallel to the midline of the humerus.\n* **Moving Arm**: Across the volar aspect of the forearm.\n\n### Normal ROM\n$0-80^{\\circ}$.",
+    "references": [
+      "Norkin and White Measurement of Joint Motion"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Functional Capacity Evaluation (FCE)",
+    "category": "Professional Responsibilities",
+    "content": "### Purpose\nA battery of tests used to determine an individual's ability to perform work-related tasks (lifting, carrying, etc.) following an injury.",
+    "references": [
+      "Guide to Physical Therapist Practice"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Type I vs. Type II Muscle Fibers",
+    "category": "Musculoskeletal",
+    "content": "### Type I (Slow Twitch)\nOxidative, fatigue-resistant, used for posture/endurance (e.g., Soleus).\n\n### Type II (Fast Twitch)\nGlycolytic, easy to fatigue, used for power/speed (e.g., Gastrocnemius).",
+    "references": [
+      "Lundy-Ekman Neuroscience"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512432223793-ee2796ff132e?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Osteogenesis Imperfecta (Type I)",
+    "category": "Musculoskeletal (Pediatrics)",
+    "content": "### Characteristics\nMost common and mildest type. Blue sclera, hearing loss, and frequent fractures prior to puberty.",
+    "references": [
+      "Tecklin's Pediatric Physical Therapy"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Salter-Harris Fracture Classification",
+    "category": "Musculoskeletal (Pediatrics)",
+    "content": "### Classifications\n**S-A-L-T-R Mnemonic**:\n1. **S**: Straight across (Physed).\n2. **A**: Above (Metaphysis).\n3. **L**: Lower (Epiphysis).\n4. **T**: Through (Everything).\n5. **R**: Rammed/Crushed.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Gait: Vaulting",
+    "category": "Musculoskeletal",
+    "content": "### Cause\nFunctionally long leg on the swing side (e.g., foot drop, knee stiffness). The patient rises up on the toes of the **opposite** (stance) leg.",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Passive Insufficiency",
+    "category": "Musculoskeletal",
+    "content": "### Definition\nWhen a multi-joint muscle cannot be elongated far enough to allow full ROM in all joints it crosses (e.g., tight hamstrings preventing full hip flexion when the knee is extended).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
+    ]
+  },
+  {
+    "title": "Active Insufficiency",
+    "category": "Musculoskeletal",
+    "content": "### Definition\nWhen a multi-joint muscle is shortened over two joints and loses the ability to produce maximum tension (e.g., trying to make a fist with a flexed wrist).",
+    "references": [
+      "Dutton's Orthopaedic Examination"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=800"
     ]
   }
 ]
