@@ -11,10 +11,10 @@ interface QuestionCardProps {
   correctAnswer?: string;
 }
 
-export default function QuestionCard({ 
-  question, 
-  selectedOption, 
-  onSelectOption, 
+export default function QuestionCard({
+  question,
+  selectedOption,
+  onSelectOption,
   onSubmit,
   isSubmitting,
   isAnswered,
@@ -44,7 +44,7 @@ export default function QuestionCard({
       {/* Question Body */}
       <div className="p-6 sm:p-8">
         <h2 className="text-xl sm:text-2xl font-semibold text-slate-800 leading-snug mb-8">
-          {question.question}
+          {question.id}. {question.question}
         </h2>
 
         {/* Options */}
@@ -52,27 +52,27 @@ export default function QuestionCard({
           {question.options.map((optionText, index) => {
             const letter = optionLetters[index];
             const isSelected = selectedOption === letter;
-            
+
             // Post-answer styles
             const isCorrect = isAnswered && letter === correctAnswer;
             const isWrongSelected = isAnswered && isSelected && letter !== correctAnswer;
-            
+
             let buttonClass = "w-full text-left p-4 rounded-xl border-2 transition-all duration-200 flex items-start gap-4 ";
-            
+
             if (isAnswered) {
-                if (isCorrect) {
-                  buttonClass += "border-brand-500 bg-brand-50 text-brand-900 shadow-sm";
-                } else if (isWrongSelected) {
-                  buttonClass += "border-red-400 bg-red-50 text-red-900";
-                } else {
-                  buttonClass += "border-slate-100 bg-white text-slate-400 opacity-60";
-                }
+              if (isCorrect) {
+                buttonClass += "border-brand-500 bg-brand-50 text-brand-900 shadow-sm";
+              } else if (isWrongSelected) {
+                buttonClass += "border-red-400 bg-red-50 text-red-900";
+              } else {
+                buttonClass += "border-slate-100 bg-white text-slate-400 opacity-60";
+              }
             } else {
-                if (isSelected) {
-                   buttonClass += "border-brand-500 bg-brand-50 text-brand-900 shadow-md transform scale-[1.01]";
-                } else {
-                   buttonClass += "border-slate-200 bg-white text-slate-700 hover:border-brand-300 hover:bg-slate-50 hover:shadow-sm";
-                }
+              if (isSelected) {
+                buttonClass += "border-brand-500 bg-brand-50 text-brand-900 shadow-md transform scale-[1.01]";
+              } else {
+                buttonClass += "border-slate-200 bg-white text-slate-700 hover:border-brand-300 hover:bg-slate-50 hover:shadow-sm";
+              }
             }
 
             return (
@@ -82,10 +82,9 @@ export default function QuestionCard({
                 disabled={isAnswered}
                 className={buttonClass}
               >
-                <div className={`flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-lg font-bold text-sm transition-colors ${
-                  (isSelected && !isAnswered) || isCorrect ? 'bg-brand-500 text-white' : 
-                  isWrongSelected ? 'bg-red-500 text-white' : 'bg-slate-100 text-slate-500'
-                }`}>
+                <div className={`flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-lg font-bold text-sm transition-colors ${(isSelected && !isAnswered) || isCorrect ? 'bg-brand-500 text-white' :
+                    isWrongSelected ? 'bg-red-500 text-white' : 'bg-slate-100 text-slate-500'
+                  }`}>
                   {letter}
                 </div>
                 <div className="pt-1 text-[1.05rem]">{optionText}</div>
@@ -100,11 +99,10 @@ export default function QuestionCard({
             <button
               onClick={onSubmit}
               disabled={!selectedOption || isSubmitting}
-              className={`px-8 py-3 rounded-xl font-bold tracking-wide transition-all shadow-sm flex items-center gap-2 ${
-                !selectedOption || isSubmitting
+              className={`px-8 py-3 rounded-xl font-bold tracking-wide transition-all shadow-sm flex items-center gap-2 ${!selectedOption || isSubmitting
                   ? 'bg-slate-200 text-slate-400 cursor-not-allowed'
                   : 'bg-brand-500 text-white hover:bg-brand-600 hover:shadow-md hover:-translate-y-0.5'
-              }`}
+                }`}
             >
               {isSubmitting ? 'Submitting...' : 'Show Answer'}
             </button>

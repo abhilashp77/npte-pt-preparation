@@ -12,7 +12,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -25,7 +24,6 @@ public class QuestionService {
 
     public QuestionDto getRandomQuestion(Long excludeId) {
         Question question;
-        boolean tryDatabase = true;
 
         if (excludeId != null && questionRepository.count() > 1) {
             question = questionRepository.findRandomQuestionExcludingId(excludeId).orElse(null);
