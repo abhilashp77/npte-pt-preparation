@@ -35,8 +35,8 @@ public class SeedService {
         log.info("API Triggered: Clearing and Reseeding Database...");
 
         // 1. Clear everything
-        topicRepository.deleteAll();
-        questionRepository.deleteAll();
+        topicRepository.truncateAndResetTopics();
+        questionRepository.truncateAndResetQuestions();
 
         // 2. Seed Topics
         seedTopics();
