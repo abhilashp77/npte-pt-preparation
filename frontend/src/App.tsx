@@ -46,7 +46,7 @@ function App() {
               </button>
 
               <div className="h-9 w-9 bg-slate-100 rounded-full flex items-center justify-center text-slate-500 hover:bg-slate-200 cursor-pointer transition-colors border border-slate-200">
-                <UserCircle size={24} />
+                {/* <UserCircle size={24} /> */}
               </div>
             </nav>
           </div>
