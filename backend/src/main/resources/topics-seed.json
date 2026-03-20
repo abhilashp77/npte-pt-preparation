@@ -9656,7 +9656,7 @@
   {
     "title": "Wells Criteria for DVT",
     "category": "Cardiovascular/Pulmonary",
-    "content": "### Scoring\n* **+1 for**: Active cancer, paralysis/cast, bedridden > 3 days, localized tenderness, calf swelling > 3cm, collateral superficial veins.\n* **Interpretation**: Score $\ge 2$ indicates DVT is likely.",
+    "content": "### Scoring\n* **+1 for**: Active cancer, paralysis/cast, bedridden > 3 days, localized tenderness, calf swelling > 3cm, collateral superficial veins.\n* **Interpretation**: Score $\\ge 2$ indicates DVT is likely.",
     "references": [
       "FSBPT Guidelines",
       "Goodman and Fuller's Pathology"
