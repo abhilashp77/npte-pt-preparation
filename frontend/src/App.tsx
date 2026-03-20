@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Activity, BookOpen, GraduationCap, UserCircle } from 'lucide-react';
+import { Activity, BookOpen, GraduationCap } from 'lucide-react';
 import QuestionContainer from './components/QuestionContainer';
 import StudyMode from './components/StudyMode';
 
