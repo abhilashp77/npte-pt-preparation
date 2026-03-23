@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import type { SubmitAnswerResponse, FollowUpAnswerResponse } from '../types';
 import { fetchFollowUpOptions, fetchFollowUpAnswer } from '../api';
-import { ArrowRight, BookMarked, CheckCircle, Info, MessageCircleQuestion, Loader2, Lightbulb } from 'lucide-react';
+import { ArrowRight, BookMarked, CheckCircle, Info, MessageCircleQuestion, Loader2, Lightbulb, Send } from 'lucide-react';
 
 interface ExplanationCardProps {
   explanation: SubmitAnswerResponse;
@@ -19,6 +19,7 @@ export default function ExplanationCard({
   const [followUpAnswer, setFollowUpAnswer] = useState<FollowUpAnswerResponse | null>(null);
   const [isLoadingAnswer, setIsLoadingAnswer] = useState(false);
   const [showFollowUps, setShowFollowUps] = useState(false);
+  const [customQuestion, setCustomQuestion] = useState('');
 
   const handleAskFollowUp = async () => {
     if (followUpOptions.length > 0) {
@@ -186,6 +187,36 @@ export default function ExplanationCard({
                       </span>
                     </button>
                   ))}
+
+                  {/* Custom question input */}
+                  <div className="mt-3 flex gap-2">
+                    <input
+                      type="text"
+                      value={customQuestion}
+                      onChange={(e) => setCustomQuestion(e.target.value)}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Enter' && customQuestion.trim() && !isLoadingAnswer) {
+                          handleSelectFollowUp(customQuestion.trim());
+                          setCustomQuestion('');
+                        }
+                      }}
+                      placeholder="Or type your own question..."
+                      disabled={isLoadingAnswer}
+                      className="flex-1 px-4 py-3 rounded-xl border border-slate-200 bg-white text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-300 focus:border-brand-300 disabled:opacity-50 transition-all shadow-sm"
+                    />
+                    <button
+                      onClick={() => {
+                        if (customQuestion.trim()) {
+                          handleSelectFollowUp(customQuestion.trim());
+                          setCustomQuestion('');
+                        }
+                      }}
+                      disabled={!customQuestion.trim() || isLoadingAnswer}
+                      className="px-4 py-3 bg-brand-600 text-white rounded-xl font-bold hover:bg-brand-700 transition-all shadow-sm disabled:opacity-40 disabled:cursor-not-allowed flex items-center gap-2"
+                    >
+                      <Send size={18} />
+                    </button>
+                  </div>
                 </div>
               )}
 
