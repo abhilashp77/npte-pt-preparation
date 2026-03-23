@@ -161,6 +161,8 @@ OpenAI API
 
 # Core Features
 
+See questions manually by calling post API: `curl -X POST https://npte-backend.onrender.com/api/admin/seed`
+
 ## 1 Question Portal
 
 The portal must show **ONE question at a time**.
