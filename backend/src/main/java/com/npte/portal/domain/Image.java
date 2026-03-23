@@ -19,6 +19,6 @@ public class Image {
     @JoinColumn(name = "question_id")
     private Question question;
 
-    @Column(name = "image_url")
+    @Column(name = "image_url", columnDefinition = "TEXT")
     private String imageUrl;
 }

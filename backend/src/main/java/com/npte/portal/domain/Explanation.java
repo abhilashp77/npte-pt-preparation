@@ -26,6 +26,6 @@ public class Explanation {
 
     @ElementCollection(fetch = FetchType.EAGER)
     @CollectionTable(name = "explanation_references", joinColumns = @JoinColumn(name = "explanation_id"))
-    @Column(name = "reference")
+    @Column(name = "reference", columnDefinition = "TEXT")
     private List<String> references;
 }
