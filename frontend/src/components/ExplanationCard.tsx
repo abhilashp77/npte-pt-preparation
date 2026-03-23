@@ -2,6 +2,7 @@ import { useState } from 'react';
 import type { SubmitAnswerResponse, FollowUpAnswerResponse } from '../types';
 import { fetchFollowUpOptions, fetchFollowUpAnswer } from '../api';
 import { ArrowRight, BookMarked, CheckCircle, Info, MessageCircleQuestion, Loader2, Lightbulb, Send } from 'lucide-react';
+import ReactMarkdown from 'react-markdown';
 
 interface ExplanationCardProps {
   explanation: SubmitAnswerResponse;
@@ -234,8 +235,8 @@ export default function ExplanationCard({
                     <Lightbulb size={18} className="text-emerald-500" />
                     {followUpAnswer.question}
                   </h5>
-                  <div className="text-slate-700 leading-relaxed whitespace-pre-line">
-                    {followUpAnswer.answer}
+                  <div className="text-slate-700 leading-relaxed prose prose-sm max-w-none prose-emerald">
+                    <ReactMarkdown>{followUpAnswer.answer}</ReactMarkdown>
                   </div>
                 </div>
               )}
