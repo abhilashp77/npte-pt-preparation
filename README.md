@@ -41,6 +41,104 @@ The NPTE contains **200 multiple-choice questions** with a strong focus on clini
 
 ---
 
+# Local Development Setup
+
+## Prerequisites
+
+- **Java 17+** (JDK)
+- **Node.js 18+** and **npm**
+- **PostgreSQL 15** (via Docker or local install)
+- **NVIDIA API Key** (optional, for AI follow-up questions)
+
+## 1. Start PostgreSQL
+
+Using Docker (recommended):
+
+```bash
+docker-compose up -d
+```
+
+This starts a PostgreSQL container with:
+- **Host:** `localhost:5432`
+- **Database:** `npte_portal`
+- **User:** `npte`
+- **Password:** `password`
+
+Or if you have PostgreSQL installed locally, create the database:
+
+```bash
+createdb -U npte npte_portal
+```
+
+## 2. Set Environment Variables (optional)
+
+For AI-powered follow-up questions, set your NVIDIA API key:
+
+```bash
+export NVIDIA_API_KEY=nvapi-your-key-here
+```
+
+Without this key, follow-up questions will use fallback responses.
+
+## 3. Start the Backend
+
+```bash
+cd backend
+./gradlew bootRun
+```
+
+The backend starts on **http://localhost:8080**. On first run, it automatically:
+- Creates database tables via Hibernate
+- Seeds questions from `questions-seed.json`
+- Seeds topics from `topics-seed.json`
+
+## 4. Start the Frontend
+
+In a new terminal:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+The frontend starts on **http://localhost:5173**.
+
+## 5. Open the App
+
+Navigate to **http://localhost:5173** in your browser.
+
+## Quick Start (all commands)
+
+```bash
+# Terminal 1: Start PostgreSQL
+docker-compose up -d
+
+# Terminal 2: Start Backend
+cd backend
+./gradlew bootRun
+
+# Terminal 3: Start Frontend
+cd frontend
+npm install
+npm run dev
+```
+
+## Stopping the App
+
+```bash
+# Stop frontend: Ctrl+C in the frontend terminal
+# Stop backend: Ctrl+C in the backend terminal
+
+# Stop PostgreSQL (Docker)
+docker-compose down
+
+# Stop PostgreSQL and delete data
+docker-compose down -v
+```
+
+---
+
 # Tech Stack
 
 ## Frontend

@@ -1,5 +1,5 @@
 import axios from 'axios';
-import type { Question, SubmitAnswerRequest, SubmitAnswerResponse, Topic } from './types';
+import type { Question, SubmitAnswerRequest, SubmitAnswerResponse, Topic, FollowUpRequest, FollowUpAnswerRequest, FollowUpOptionsResponse, FollowUpAnswerResponse } from './types';
 
 const getBaseUrl = () => {
   const envUrl = import.meta.env.VITE_API_BASE_URL;
@@ -41,5 +41,15 @@ export const fetchAiGeneratedQuestion = async (): Promise<Question> => {
 
 export const fetchRandomTopic = async (): Promise<Topic> => {
   const { data } = await apiClient.get<Topic>('/questions/topics/random', { params: { t: Date.now() } });
+  return data;
+};
+
+export const fetchFollowUpOptions = async (request: FollowUpRequest): Promise<FollowUpOptionsResponse> => {
+  const { data } = await apiClient.post<FollowUpOptionsResponse>('/followup/options', request);
+  return data;
+};
+
+export const fetchFollowUpAnswer = async (request: FollowUpAnswerRequest): Promise<FollowUpAnswerResponse> => {
+  const { data } = await apiClient.post<FollowUpAnswerResponse>('/followup/answer', request);
   return data;
 };

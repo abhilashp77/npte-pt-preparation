@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
-import { fetchRandomQuestion, submitAnswer, fetchAiGeneratedQuestion } from '../api';
+import { fetchRandomQuestion, submitAnswer } from '../api';
 import QuestionCard from './QuestionCard';
 import ExplanationCard from './ExplanationCard';
 import type { Question, SubmitAnswerResponse } from '../types';
@@ -10,8 +10,6 @@ export default function QuestionContainer() {
   const queryClient = useQueryClient();
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [explanationData, setExplanationData] = useState<SubmitAnswerResponse | null>(null);
-  const [isGeneratingNext, setIsGeneratingNext] = useState(false);
-  const [aiError, setAiError] = useState<string | null>(null);
 
   // Fetch initial question from DB
   const { data: question, isLoading: isQuestionLoading, isError, refetch } = useQuery<Question>({
@@ -40,42 +38,19 @@ export default function QuestionContainer() {
     }
   };
 
-  // Next Question = pulls from database (1000 questions)
+  // Next Question = pulls from database
   const handleNextQuestion = () => {
     setSelectedOption(null);
     setExplanationData(null);
-    setAiError(null);
     queryClient.invalidateQueries({ queryKey: ['randomQuestion'] });
     refetch();
   };
 
-  // Explicit AI Generation
-  const handleGenerateAiQuestion = async () => {
-    setIsGeneratingNext(true);
-    setSelectedOption(null);
-    setExplanationData(null);
-    setAiError(null);
-    try {
-      const aiQuestion = await fetchAiGeneratedQuestion();
-      queryClient.setQueryData(['randomQuestion'], aiQuestion);
-    } catch (error) {
-      console.error("Failed to generate next question", error);
-      setAiError("AI credits exhausted. No new questions can be generated right now. Falling back to database questions.");
-      // Fallback to DB question
-      queryClient.invalidateQueries({ queryKey: ['randomQuestion'] });
-      refetch();
-    } finally {
-      setIsGeneratingNext(false);
-    }
-  };
-
-  if (isQuestionLoading || isGeneratingNext) {
+  if (isQuestionLoading) {
     return (
       <div className="flex flex-col items-center justify-center py-24 text-slate-500">
         <Loader2 className="animate-spin mb-4" size={48} />
-        <p className="text-lg font-medium animate-pulse">
-            {isGeneratingNext ? "Preparing next clinical scenario..." : "Loading question..."}
-        </p>
+        <p className="text-lg font-medium animate-pulse">Loading question...</p>
       </div>
     );
   }
@@ -97,22 +72,6 @@ export default function QuestionContainer() {
   return (
     <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-500">
 
-      {aiError && (
-        <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 flex items-start gap-3">
-          <span className="text-amber-500 text-xl mt-0.5">⚠️</span>
-          <div className="flex-1">
-            <h4 className="font-semibold text-amber-800 mb-1">Content Update Notice</h4>
-            <p className="text-amber-700 text-sm">{aiError}</p>
-          </div>
-          <button 
-            onClick={() => setAiError(null)} 
-            className="text-amber-400 hover:text-amber-600 text-lg font-bold"
-          >
-            ✕
-          </button>
-        </div>
-      )}
-
       <QuestionCard 
         question={question} 
         selectedOption={selectedOption}
@@ -126,12 +85,10 @@ export default function QuestionContainer() {
       {explanationData && (
         <ExplanationCard 
           explanation={explanationData} 
+          originalQuestion={question.question}
           onNextQuestion={handleNextQuestion}
-          onGenerateAi={handleGenerateAiQuestion}
-          isGeneratingAi={isGeneratingNext}
         />
       )}
     </div>
   );
 }
-

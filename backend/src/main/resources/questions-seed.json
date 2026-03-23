@@ -16866,5 +16866,600 @@
             "https://www.nationalmssociety.org/What-is-MS/Types-of-MS",
             "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027973/"
         ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 33-year-old rock climber presents with chronic pain over the radial styloid process for 6 months. Examination reveals positive Finkelstein test, tenderness in the first dorsal compartment, and thickening palpable along the APL and EPB tendons. Conservative treatment (splinting, activity modification, NSAIDs) for 12 weeks has failed. What intervention has the BEST evidence for refractory De Quervain's tenosynovitis?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Continue current conservative treatment for another 6 months",
+            "B": "Aggressive transverse friction massage to break up adhesions",
+            "C": "Corticosteroid injection into first dorsal compartment or surgical release if injection fails",
+            "D": "Immobilization in thumb spica cast for 8 weeks"
+        },
+        "explanation": "Option C is correct. For De Quervain's tenosynovitis failing 3 months of conservative care, corticosteroid injection into first dorsal compartment has 60-80% success rate providing lasting relief. If injection fails (2-3 attempts maximum), surgical release of first dorsal compartment is highly effective. The confusing option is A - continuing failed treatment for 6 MORE months delays effective intervention and prolongs disability. Option B lacks evidence and may irritate inflamed tendons. Option D is too restrictive and doesn't address underlying pathology. Understanding treatment progression hierarchy for chronic tendinopathies optimizes outcomes.",
+        "references": [
+            "https://orthoinfo.aaos.org/en/diseases--conditions/de-quervains-tendinosis/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK442005/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old patient presents with gradual onset of bilateral leg weakness, gait instability, urinary urgency/frequency, and mild cognitive slowing over 8 months. MRI shows dilated lateral ventricles with periventricular T2 hyperintensities but patent aqueduct of Sylvius. Opening pressure on lumbar puncture is 14 cm H2O (normal 10-20). What is the MOST specific diagnostic feature distinguishing this from other causes of dementia?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Elevated opening pressure on LP confirming hydrocephalus",
+            "B": "Clinical triad (gait disorder, cognitive impairment, urinary symptoms) with ventriculomegaly despite normal ICP",
+            "C": "Periventricular white matter changes on MRI",
+            "D": "Gradual symptom onset over months"
+        },
+        "explanation": "Option B is correct. Normal pressure hydrocephalus (NPH) is diagnosed by CLINICAL TRIAD plus ventriculomegaly with NORMAL opening pressure - hence the name. The confusing option is A - opening pressure is NORMAL (14 cm H2O), not elevated, which is what makes NPH diagnostically challenging. The pressure is 'normal' by LP but intermittently elevated causing ventricular dilation and symptoms. Option C (white matter changes) occurs in many conditions. Option D doesn't distinguish from other dementias. NPH is potentially reversible with VP shunt, making correct diagnosis critical. Understanding the paradox of 'normal pressure' with hydrocephalus guides appropriate neurosurgical referral.",
+        "references": [
+            "https://www.ninds.nih.gov/health-information/disorders/normal-pressure-hydrocephalus",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822469/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 52-year-old patient presents to cardiac rehabilitation 8 weeks post-anterior STEMI with successful PCI (stent placement to LAD). Recent stress test shows: peak exercise 7 METs, no angina, no ST changes, appropriate BP response. The patient asks about returning to job as firefighter (estimated 8-12 METs demand with high-stress situations). What is the MOST appropriate recommendation?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Full immediate return to firefighting duties; stress test was negative",
+            "B": "Never return to firefighting due to cardiac history",
+            "C": "Return to light duty only permanently",
+            "D": "Functional capacity testing and physician clearance needed; 7 METs is below job demands; may need additional conditioning or modified duties"
+        },
+        "explanation": "Option D is correct. Return-to-work decisions require: job demand analysis, functional capacity assessment, and physician clearance. This patient achieved 7 METs but firefighting requires 8-12 METs plus high psychological stress, heat exposure, and no immediate medical access. Gap between current capacity and job demands indicates need for: continued conditioning to improve fitness, possibly work capacity evaluation, and discussion of light duty transition vs full duty. The confusing option is A - negative stress test is necessary but NOT sufficient; must also have adequate FUNCTIONAL CAPACITY for job demands. Option B is too restrictive; some firefighters return post-MI. Option C may be premature; further conditioning might enable full duty. Understanding functional capacity vs job demands prevents premature or unsafe return.",
+        "references": [
+            "https://www.heart.org/en/professional/quality-improvement/get-with-the-guidelines/get-with-the-guidelines-coronary-artery-disease",
+            "https://www.acsm.org/read-research/books/acsms-guidelines-for-exercise-testing-and-prescription"
+        ]
+    },
+    {
+        "bodySystem": "Integumentary",
+        "difficulty": "Medium",
+        "questionText": "A 75-year-old patient with Stage 3 pressure injury over sacrum shows the following wound bed composition: 30% yellow slough, 50% red granulation tissue, 20% black eschar. What is the FIRST priority intervention?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Apply growth factors to stimulate granulation tissue",
+            "B": "Begin electrical stimulation for wound healing",
+            "C": "Debridement to remove necrotic tissue (slough and eschar) creating barrier to healing",
+            "D": "Apply moisture-retentive dressing to all areas equally"
+        },
+        "explanation": "Option C is correct. Necrotic tissue (slough and eschar totaling 50% of wound bed) must be REMOVED before wound can heal. Debridement is FIRST priority as it: removes bacteria source, allows wound bed assessment, enables granulation tissue formation, and permits other interventions to work. Method depends on clinical scenario (sharp/surgical, enzymatic, autolytic). The confusing option is A - growth factors don't work with necrotic tissue present. Option B - E-stim is adjunctive therapy after debridement. Option D doesn't address necrotic tissue actively impeding healing. Understanding wound bed preparation principles guides appropriate treatment sequencing.",
+        "references": [
+            "https://www.woundsource.com/blog/demystifying-debridement",
+            "https://www.npuap.org/resources/educational-and-clinical-resources/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 46-year-old patient presents with anterior knee pain and patellar maltracking. Examination reveals: increased Q-angle (22 degrees), weak hip external rotators (3+/5), excessive foot pronation during single-leg squat, and positive J-sign (lateral patellar tracking during extension). What is the PRIMARY biomechanical contributor to the patellar maltracking?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Excessive Q-angle alone",
+            "B": "Weak hip external rotators allowing dynamic knee valgus (femoral internal rotation and adduction)",
+            "C": "Foot pronation directly pulling patella laterally",
+            "D": "Quadriceps weakness causing poor patellar control"
+        },
+        "explanation": "Option B is correct. While multiple factors contribute to patellofemoral pain, weak hip external rotators and abductors allow DYNAMIC KNEE VALGUS during functional activities (femur internally rotates and adducts, creating functional increase in Q-angle). This is the PRIMARY modifiable factor. Research strongly supports hip strengthening for PFP. The confusing option is A - increased Q-angle is structural/anatomical factor but STATIC measurement; dynamic hip control during movement is more important treatment target. Option C - foot pronation contributes through kinetic chain but isn't primary driver. Option D - quadriceps strength usually normal in PFP; timing/VMO:VL ratio may be issue. Understanding proximal hip control's role guides treatment prioritization.",
+        "references": [
+            "https://www.jospt.org/doi/10.2519/jospt.2019.8939",
+            "https://bjsm.bmj.com/content/49/19/1245"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Medium",
+        "questionText": "A 58-year-old patient with diabetic peripheral neuropathy reports 'burning feet' pain rated 8/10, worse at night, significantly limiting sleep and function. Current medications include gabapentin with partial relief. What additional physical therapy intervention has evidence for neuropathic pain reduction?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Transcutaneous electrical nerve stimulation (TENS) and infrared light therapy",
+            "B": "Aggressive sensory reeducation with rough textures",
+            "C": "Hot water soaks before bedtime",
+            "D": "Complete avoidance of all weight-bearing activities"
+        },
+        "explanation": "Option A is correct. For diabetic neuropathic pain, evidence supports: TENS therapy (gate control theory for pain modulation), infrared/monochromatic infrared light therapy (improves circulation and reduces pain), and regular aerobic exercise (improves nerve function and glycemic control). These complement pharmacological management. The confusing option is B - sensory reeducation is for sensory LOSS rehabilitation, not burning pain management; rough textures may worsen pain. Option C is CONTRAINDICATED - impaired sensation + heat = burn risk. Option D prevents beneficial effects of controlled exercise on neuropathy. Understanding appropriate pain modulation techniques improves outcomes.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6136889/",
+            "https://care.diabetesjournals.org/content/40/1/136"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Medium",
+        "questionText": "A 62-year-old patient with peripheral arterial disease (ABI 0.68) reports calf claudication after walking 150 meters that resolves with 3 minutes rest. The patient asks if it's harmful to 'walk through the pain.' What is the MOST evidence-based recommendation?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Stop immediately when pain begins to avoid tissue damage",
+            "B": "Walk to moderate-to-maximum claudication pain (3-4/5), rest until pain resolves, then repeat; this is therapeutic and stimulates collateral development",
+            "C": "Avoid all walking; use wheelchair to prevent pain",
+            "D": "Walk through severe pain to maximize training effect"
+        },
+        "explanation": "Option B is correct. Supervised exercise therapy for claudication uses 'walk to pain' approach: walk until moderate-to-maximum claudication pain (3-4/5 on pain scale), rest until pain resolves, repeat for 30-50 minutes total. This controlled ischemia-reperfusion stimulates collateral vessel development, improves endothelial function, enhances metabolic efficiency, and increases pain-free walking distance. This is FIRST-line treatment for PAD. The confusing option is A - stopping at FIRST pain onset doesn't provide adequate stimulus for adaptation. Option C eliminates therapeutic benefits. Option D - severe pain is unnecessary; moderate pain is sufficient. Understanding exercise as TREATMENT for claudication, not harmful, improves patient compliance.",
+        "references": [
+            "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000470",
+            "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2017/03/21/12/42/2016-aha-acc-guideline-pad"
+        ]
+    },
+    {
+        "bodySystem": "Other Systems",
+        "difficulty": "Hard",
+        "questionText": "A 48-year-old patient with systemic sclerosis (scleroderma) presents with bilateral hand contractures, tight facial skin limiting mouth opening, and reports difficulty swallowing. Raynaud's phenomenon affects fingers with color changes (white→blue→red) in cold. What is the MOST important exercise consideration for the hand contractures?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Aggressive passive stretching to maximum range to prevent further contracture",
+            "B": "Gentle prolonged stretching, heat before exercise (warmth helps), splinting, and avoiding cold exposure that triggers Raynaud's",
+            "C": "Complete rest to avoid triggering inflammatory response",
+            "D": "Strengthening exercises only; stretching is contraindicated"
+        },
+        "explanation": "Option B is correct. Scleroderma causes progressive skin thickening and fibrosis requiring GENTLE management: prolonged gentle stretching (30-60 seconds, avoid aggressive), heat before exercise (helps tissue extensibility and prevents Raynaud's triggering), night splinting in stretch position, and avoiding COLD (triggers Raynaud's causing ischemia and pain). Maintaining ROM is critical as contractures are progressive. The confusing option is A - aggressive stretching can damage fragile tissues and trigger inflammation/pain in inflammatory conditions. Option C allows rapid contracture progression. Option D alone doesn't address tightness. Understanding tissue fragility in autoimmune connective tissue diseases guides gentle but consistent approach.",
+        "references": [
+            "https://www.scleroderma.org/site/SPageNavigator/patients_exercisefitness.html",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822469/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 24-year-old patient sustained complete T10 ASIA A spinal cord injury 3 months ago. During transfers, patient reports sudden severe headache (9/10), blurred vision, and feels flushed above injury level. BP is 190/110 mmHg (baseline 110/70). The patient is sweating profusely above T10 but dry below. What is the FIRST action to take?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Immediately sit patient upright, loosen tight clothing/devices, check for distended bladder or bowel impaction and remove noxious stimulus",
+            "B": "Lay patient flat and elevate legs to improve blood flow to brain",
+            "C": "Continue transfer activity as symptoms are likely anxiety-related",
+            "D": "Administer antihypertensive medication immediately without checking for cause"
+        },
+        "explanation": "Option A is correct. This is autonomic dysreflexia (AD) - medical EMERGENCY in SCI above T6. Immediate management: sit upright (lowers BP via orthostatic effect), loosen constrictive items, identify and REMOVE noxious stimulus (typically distended bladder - catheterize/check for blockage; or bowel impaction - check rectum, use anesthetic jelly). Most episodes resolve when stimulus removed. The confusing option is D - while antihypertensives may be needed, removing CAUSE is first step. Option B WORSENS hypertension. Option C is dangerous - AD can cause stroke, seizures if untreated. Understanding AD triggers and emergency management prevents catastrophic complications. Bladder distension is most common trigger.",
+        "references": [
+            "https://www.christopherreeve.org/living-with-paralysis/health/secondary-conditions/autonomic-dysreflexia",
+            "https://www.ncbi.nlm.nih.gov/books/NBK482434/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Medium",
+        "questionText": "A 71-year-old patient with chronic systolic heart failure (EF 28%) reports waking up suddenly at 2 AM gasping for air and needing to sit upright or stand for relief. Symptoms resolve after 15-20 minutes. What is this symptom pattern called and what does it indicate?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Orthopnea; indicates mild heart failure",
+            "B": "Dyspnea on exertion; indicates deconditioning",
+            "C": "Paroxysmal nocturnal dyspnea (PND); indicates worsening heart failure requiring medical evaluation",
+            "D": "Sleep apnea; requires CPAP evaluation"
+        },
+        "explanation": "Option C is correct. Paroxysmal nocturnal dyspnea (PND) is sudden awakening from sleep with severe dyspnea, requiring sitting/standing for relief. Occurs when fluid redistributes from extremities to central circulation during recumbency, overwhelming heart's capacity and causing pulmonary congestion. PND indicates MORE SEVERE heart failure than orthopnea alone and suggests worsening status requiring medical management adjustment. The confusing option is A - orthopnea is dyspnea when lying flat (uses pillows), but PND is SUDDEN awakening from sleep. Option D - while OSA causes nocturnal symptoms, PND has specific pattern of sudden gasping with fluid redistribution. Understanding HF symptom hierarchy guides appropriate urgency of medical referral.",
+        "references": [
+            "https://www.heart.org/en/health-topics/heart-failure/warning-signs-of-heart-failure",
+            "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000757"
+        ]
+    },
+    {
+        "bodySystem": "Integumentary",
+        "difficulty": "Hard",
+        "questionText": "A 55-year-old patient with lymphedema of the right arm following breast cancer treatment presents with sudden onset of fever (102.2°F), rapidly spreading redness with defined margins tracking up the arm, and flu-like symptoms. Previous similar episodes have occurred 3 times in past 2 years. What is the MOST critical long-term management strategy?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Discontinue compression therapy permanently to reduce infection risk",
+            "B": "Apply topical antibiotics only for current episode",
+            "C": "Accept recurrent infections as inevitable with lymphedema",
+            "D": "Immediate IV antibiotics for current cellulitis; consider prophylactic oral antibiotics for recurrent infections; meticulous skin care and infection prevention education"
+        },
+        "explanation": "Option D is correct. Recurrent cellulitis (3 episodes in 2 years) in lymphedema indicates need for: aggressive current treatment (IV antibiotics for acute cellulitis), and consideration of PROPHYLACTIC antibiotics (daily low-dose) to prevent recurrences. Each infection episode worsens chronic lymphedema by further damaging lymphatic vessels. Prevention strategies critical: meticulous skin care, moisturization preventing cracks, immediate treatment of skin breaks, avoiding trauma/blood draws on affected limb. The confusing option is C - while infections are more common in lymphedema, RECURRENT infections warrant prophylaxis. Option A would worsen lymphedema. Option B provides inadequate treatment; cellulitis requires systemic antibiotics. Understanding infection prevention in lymphedema reduces morbidity.",
+        "references": [
+            "https://www.cancer.gov/about-cancer/treatment/side-effects/lymphedema/lymphedema-hp-pdq",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954383/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Medium",
+        "questionText": "A 58-year-old patient underwent lumbar laminectomy at L4-L5 for spinal stenosis 6 weeks ago. The patient reports significant improvement in leg symptoms but new onset of low back pain (5/10) with prolonged standing and walking. Examination shows weak core musculature and positive prone instability test. What does this indicate?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Surgical failure requiring revision",
+            "B": "Infection at surgical site",
+            "C": "Post-laminectomy segmental instability requiring core stabilization focus",
+            "D": "Normal surgical pain that will resolve spontaneously"
+        },
+        "explanation": "Option C is correct. Laminectomy removes posterior spinal elements (lamina, sometimes facet portions) potentially creating iatrogenic instability, especially if significant facet removal occurred. Positive prone instability test confirms segmental instability. New mechanical back pain (worse with standing/walking, improved with sitting/support) 6 weeks post-op suggests this issue. Management: core stabilization exercises emphasizing deep stabilizers (transversus abdominis, multifidus), avoiding excessive spinal loading initially. The confusing option is A - leg symptoms IMPROVED (decompression worked), back pain is separate issue. Option B would show systemic signs, wound issues. Option D dismisses treatable problem. Understanding post-surgical biomechanical changes guides appropriate rehabilitation focus.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK507845/",
+            "https://www.jospt.org/doi/10.2519/jospt.2005.1746"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old patient with Parkinson's disease demonstrates: resting tremor controlled with medication, minimal bradykinesia, but THREE falls in past month (all backward falls when reaching overhead or turning quickly). Berg Balance Scale: 44/56. What is the PRIMARY fall risk factor requiring intervention focus?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Tremor causing loss of balance",
+            "B": "Bradykinesia preventing protective responses",
+            "C": "Freezing of gait causing falls",
+            "D": "Postural instability with impaired protective stepping responses (retropulsion)"
+        },
+        "explanation": "Option D is correct. BACKWARD falls with reaching/turning indicate POSTURAL INSTABILITY and retropulsion (tendency to fall backward) - the fall risk factor LEAST responsive to medication in PD. Tremor and bradykinesia are well-controlled (per history), but postural instability requires specific PT interventions: postural awareness training, anticipatory postural adjustment exercises, protective stepping strategies (backward, lateral, multidirectional), dual-task training, and environmental modifications. BBS 44/56 confirms fall risk. The confusing option is A - tremor is controlled and doesn't typically cause falls. Option B is minimal per exam. Option C causes forward falls, not backward. Understanding which PD symptom causes falls guides appropriate intervention selection.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3813949/",
+            "https://www.apdaparkinson.org/what-is-parkinsons/symptoms/postural-instability/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 54-year-old patient in ICU day 8 post-esophagectomy has been on mechanical ventilation. Current settings: PEEP 8, FiO2 0.40, patient triggering breaths appropriately. Physician orders spontaneous breathing trial. During trial (30 minutes on T-piece), patient develops: RR 32 (from 18), HR 118 (from 88), SpO2 91% (from 96%), appears anxious and diaphoretic. What do these findings indicate?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Successful breathing trial; patient ready for extubation",
+            "B": "Continue trial for full 2 hours despite changes",
+            "C": "Failed breathing trial; patient not ready for extubation; return to ventilator support",
+            "D": "Normal response; all patients show these changes during weaning"
+        },
+        "explanation": "Option C is correct. Spontaneous breathing trial failure criteria include: RR >35 or increase >50%, SpO2 <90%, HR >140 or increase >20%, systolic BP >180 or <90 mmHg, anxiety, diaphoresis. This patient meets multiple criteria (tachypnea, tachycardia, desaturation, anxiety, diaphoresis). Indicates respiratory muscle fatigue and inability to sustain unassisted breathing. Must abort trial, return to ventilator, allow rest, address underlying issues before retry. The confusing option is A - these are signs of FAILURE, not success. Option B continues trial despite distress, risking exhaustion. Option D normalizes concerning findings. Understanding weaning criteria prevents premature extubation and reintubation.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4830367/",
+            "https://journal.chestnet.org/article/S0012-3692(20)34804-8/fulltext"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Medium",
+        "questionText": "A 28-year-old patient presents with insidious onset of low back pain worse in morning and after sitting, improving with activity. The patient is diagnosed with non-specific mechanical low back pain. What intervention has the STRONGEST evidence for acute low back pain management?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Bed rest for 1 week then gradual mobilization",
+            "B": "Continuation of normal activities as tolerated, movement-based therapy, and education on favorable prognosis",
+            "C": "Immediate MRI to identify structural pathology",
+            "D": "Opioid pain medication and complete activity restriction"
+        },
+        "explanation": "Option B is correct. Current evidence for acute non-specific low back pain strongly supports: staying active and continuing normal activities as tolerated (bed rest is harmful), movement-based therapy (not passive modalities), reassurance and education about favorable natural history (90% improve within 6 weeks), and avoiding over-medicalization/imaging for non-specific pain without red flags. Early movement prevents deconditioning and chronicity. The confusing option is A - bed rest >2 days is HARMFUL, causing muscle atrophy, deconditioning, and delayed recovery. Option C - imaging not indicated without red flags and doesn't improve outcomes. Option D promotes chronicity and opioid dependence. Understanding evidence-based acute LBP management prevents iatrogenic disability.",
+        "references": [
+            "https://www.jospt.org/doi/10.2519/jospt.2012.0301",
+            "https://bjsm.bmj.com/content/54/2/79"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 42-year-old patient presents with gradually progressive proximal muscle weakness over 6 months (difficulty rising from chair, climbing stairs), dysphagia, and heliotrope rash (purple discoloration on eyelids). Labs show: CK 4,500 U/L (markedly elevated), positive anti-Mi-2 antibodies, elevated ESR. What is the MOST likely diagnosis requiring urgent treatment?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Polymyositis",
+            "B": "Dermatomyositis",
+            "C": "Inclusion body myositis",
+            "D": "Myasthenia gravis"
+        },
+        "explanation": "Option B is correct. Dermatomyositis presents with proximal muscle weakness, elevated CK, AND characteristic SKIN manifestations: heliotrope rash (purple eyelids), Gottron's papules (knuckles), shawl sign. Anti-Mi-2 antibodies are specific for dermatomyositis. Requires urgent rheumatology referral for immunosuppressive treatment (corticosteroids, methotrexate). Also needs malignancy screening as dermatomyositis can be paraneoplastic. The confusing option is A (polymyositis) - similar muscle involvement but NO skin findings. Option C shows distal > proximal weakness, older onset. Option D has fatigable weakness, normal CK, no rash. The heliotrope rash is pathognomonic for dermatomyositis distinguishing it from other myopathies.",
+        "references": [
+            "https://www.hopkinsvasculitis.org/types-vasculitis/dermatomyositis/",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427041/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 64-year-old patient with severe aortic stenosis (valve area 0.7 cm², normal 3-4 cm²) presents for pre-operative physical therapy before scheduled valve replacement. The patient reports exertional dyspnea and occasional chest tightness with activities. What is the MOST appropriate exercise approach?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Moderate-to-vigorous intensity aerobic training to optimize pre-surgical fitness",
+            "B": "High-resistance strength training to improve surgical outcomes",
+            "C": "No exercise restrictions; aortic stenosis doesn't limit activity",
+            "D": "Low-intensity activities only with close monitoring; avoid moderate-to-vigorous exercise as severe AS is relative/absolute contraindication to exercise testing/training"
+        },
+        "explanation": "Option D is correct. SEVERE aortic stenosis (valve area <1 cm²) is RELATIVE contraindication to exercise due to: fixed cardiac output (can't increase with demand), risk of syncope, arrhythmias, or sudden death with exertion. If exercise performed, must be LOW intensity with close monitoring, stopping for symptoms. Surgical valve replacement is definitive treatment; post-op, exercise restrictions are lifted. The confusing option is A - pre-surgical conditioning seems logical but creates unacceptable risk with severe AS. Options B and C ignore serious exercise limitations. Understanding valvular disease severity and exercise contraindications prevents catastrophic events. After valve replacement, patient can progress to normal exercise.",
+        "references": [
+            "https://www.heart.org/en/health-topics/heart-valve-problems-and-disease/heart-valve-problems-and-causes/problem-aortic-valve-stenosis",
+            "https://www.acsm.org/read-research/books/acsms-guidelines-for-exercise-testing-and-prescription"
+        ]
+    },
+    {
+        "bodySystem": "Other Systems",
+        "difficulty": "Medium",
+        "questionText": "A 38-year-old pregnant patient at 34 weeks gestation with gestational diabetes (controlled with diet) wants to continue exercising. Recent glucose logs show fasting 92 mg/dL, 1-hour post-meal values 135-142 mg/dL (target <140). BP is 118/76 mmHg. What exercise modification is MOST important at this stage of pregnancy?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Discontinue all exercise in third trimester",
+            "B": "Increase exercise intensity to maximize glucose control",
+            "C": "Avoid supine exercises, monitor for warning signs (bleeding, contractions, decreased fetal movement), stay well-hydrated",
+            "D": "Only upper extremity exercises to avoid preterm labor"
+        },
+        "explanation": "Option C is correct. Third trimester exercise modifications include: avoid supine position after 20 weeks (aortocaval compression syndrome), monitor for warning signs (vaginal bleeding, regular painful contractions, fluid leakage, decreased fetal movement, dizziness, chest pain), adequate hydration, avoid overheating, and moderate intensity. Gestational diabetes control is good; exercise should continue with pregnancy-specific modifications. The confusing option is A - exercise is beneficial in third trimester with appropriate modifications. Option B is unsafe; intensity should be moderate. Option D is unnecessarily restrictive. Understanding pregnancy-specific exercise modifications optimizes safety while maintaining benefits.",
+        "references": [
+            "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+            "https://diabetesjournals.org/care/article/43/Supplement_1/S183/30544/14-Management-of-Diabetes-in-Pregnancy-Standards"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 52-year-old patient presents with chronic shoulder pain and significant weakness. MRI shows: complete supraspinatus tear (retracted 3 cm), complete infraspinatus tear, intact subscapularis, and Grade 3 fatty infiltration of supraspinatus muscle. The patient underwent arthroscopic rotator cuff repair 10 weeks ago. Current active ROM: flexion 85 degrees, abduction 70 degrees. What is the MOST realistic functional prognosis?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Full return to normal strength and ROM within 6 months",
+            "B": "Complete pain relief with normal function expected",
+            "C": "Poor prognosis; reverse total shoulder arthroplasty should have been performed instead",
+            "D": "Modest improvements in pain and function likely, but significant weakness may persist due to muscle quality (fatty infiltration) and massive tear size"
+        },
+        "explanation": "Option D is correct. Massive rotator cuff tears (>5cm or ≥2 tendons) with significant retraction (3cm) and FATTY INFILTRATION (Grade 3-4 indicates irreversible muscle degeneration) have GUARDED surgical outcomes. While pain often improves, functional ROM and strength gains are LIMITED by poor muscle quality that cannot regenerate. Re-tear rates are high. Realistic goals: pain reduction, improved passive ROM, modest functional gains. The confusing option is C - while reverse TSA is sometimes indicated for massive irreparable tears, repair was attempted (may fail but reasonable to try first in appropriate candidates). Options A and B set unrealistic expectations given poor prognostic factors. Understanding tissue quality's impact on surgical outcomes guides appropriate patient counseling.",
+        "references": [
+            "https://www.jospt.org/doi/10.2519/jospt.2016.0301",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6349787/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Medium",
+        "questionText": "A 58-year-old patient with asthma uses albuterol rescue inhaler and reports exercise-induced symptoms. The patient asks about using the inhaler before exercise. What is the MOST appropriate recommendation regarding timing?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Use inhaler only if symptoms develop during exercise",
+            "B": "Use inhaler 15-30 minutes before exercise to prevent exercise-induced bronchospasm",
+            "C": "Use inhaler immediately after exercise to prevent late-onset symptoms",
+            "D": "Avoid using inhaler before exercise as it may cause tachycardia"
+        },
+        "explanation": "Option B is correct. Short-acting beta-agonists (albuterol/salbutamol) taken 15-30 minutes BEFORE exercise effectively PREVENT exercise-induced bronchospasm (EIB) in susceptible individuals. Peak bronchodilation occurs 15-30 minutes post-inhalation, lasting 4-6 hours. Prophylactic use allows for better exercise tolerance and prevents symptom development. The confusing option is A - waiting until symptoms develop means bronchospasm has already occurred (harder to reverse). Option C is too late. Option D incorrectly fears normal effect; slight HR increase from beta-agonist is expected and not contraindication. Understanding proper pre-exercise medication timing optimizes asthma control during activity.",
+        "references": [
+            "https://www.aaaai.org/conditions-treatments/related-conditions/exercise-induced-asthma",
+            "https://www.aafa.org/asthma-treatment-action-plan/"
+        ]
+    },
+    {
+        "bodySystem": "Integumentary",
+        "difficulty": "Medium",
+        "questionText": "A 72-year-old patient has Stage 4 pressure injury over the ischium with exposed bone. After 6 weeks of wound care, the wound shows clean granulation tissue covering previously exposed bone, but wound size has not decreased. What is the MOST appropriate next step?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Continue current treatment; granulation tissue indicates healing is progressing",
+            "B": "Increase frequency of dressing changes to twice daily",
+            "C": "Surgical consultation for flap closure; Stage 4 with bone exposure rarely heals by secondary intention alone",
+            "D": "Apply negative pressure wound therapy and continue conservative management"
+        },
+        "explanation": "Option C is correct. Stage 4 pressure injuries with bone involvement rarely close completely with conservative management alone, even with healthy granulation tissue. Surgical intervention (debridement of necrotic bone if present, muscle or fasciocutaneous flap coverage) is typically required for definitive closure. Clean granulation over bone indicates wound is READY for surgical closure. Conservative management alone has poor outcomes for Stage 4. The confusing option is A - while granulation is positive sign, it doesn't indicate wound will close without surgery. Option B doesn't address the fundamental issue. Option D may prepare wound bed but doesn't provide definitive closure for bone-involved wounds. Understanding surgical indications prevents prolonged futile conservative care.",
+        "references": [
+            "https://www.npuap.org/resources/educational-and-clinical-resources/npuap-pressure-injury-stages/",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6475382/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 35-year-old patient sustained traumatic knee dislocation in motor vehicle accident 4 hours ago (reduced in ED). Current examination shows intact skin, diminished but present pedal pulses (dorsalis pedis and posterior tibial), and ankle-brachial index of 0.85 on affected limb (1.1 on unaffected). Patient denies leg numbness/pain. What is the MOST critical immediate concern?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Vascular injury (popliteal artery damage); requires immediate vascular surgery consultation despite palpable pulses as ABI <0.9 indicates arterial compromise",
+            "B": "Multiple ligament tears requiring orthopedic surgery within days",
+            "C": "Compartment syndrome requiring fasciotomy",
+            "D": "Peroneal nerve injury causing foot drop"
+        },
+        "explanation": "Option A is correct. Knee dislocation has 20-40% incidence of popliteal artery injury - potentially limb-threatening. Even with palpable pulses, ABI <0.9 (this patient 0.85) indicates arterial compromise requiring IMMEDIATE vascular surgery evaluation and imaging (CT angiography). Delayed diagnosis risks limb loss. Vascular injury takes priority over ligamentous injuries. The confusing aspect is 'present pulses' - pulses can be present with PARTIAL arterial injury that may thrombose or rupture later. ABI <0.9 is ABNORMAL and concerning. Options B, C, and D are important but VASCULAR status is most immediately limb-threatening and time-sensitive. Understanding vascular injury risk with knee dislocations prevents catastrophic outcomes.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822469/",
+            "https://orthoinfo.aaos.org/en/diseases--conditions/knee-dislocation/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Medium",
+        "questionText": "A 7-year-old child with spina bifida at L4 level uses bilateral KAFOs and walker for household ambulation. The parents report child is beginning to prefer wheelchair for school and community. The child is maintaining growth (height increasing), gaining weight, and entering growth spurt phase. What is the MOST likely reason for declining ambulation preference?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Progressive neurological deterioration from tethered cord",
+            "B": "Decreased motivation and laziness",
+            "C": "Increased energy cost of ambulation with growth (longer limbs, heavier body) making wheelchair more efficient for community distances",
+            "D": "Development of hip/knee contractures preventing ambulation"
+        },
+        "explanation": "Option C is correct. Children with spina bifida often transition from primary ambulation to increased wheelchair use during growth spurts/adolescence due to BIOMECHANICAL factors: longer limbs and heavier body mass increase energy cost of braced ambulation exponentially, making wheelchair more energy-efficient for community distances. This is FUNCTIONAL adaptation, not deterioration. Therapeutic ambulation can continue for short distances and health benefits. The confusing option is A - while tethered cord is concern in spina bifida, the scenario describes FUNCTIONAL preference change, not new weakness. Option B is judgmental and misses biomechanical reality. Option D would show ROM limitations not described. Understanding natural functional mobility transitions prevents inappropriate interventions.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3607817/",
+            "https://www.sbaa.org/spina-bifida-fact-sheet/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old patient with chronic left-sided heart failure (EF 32%) has been stable on medications for months. Today the patient reports 3-pound weight gain over 2 days, increased bilateral ankle edema, and mild increase in dyspnea. Vitals: HR 94 bpm, BP 138/86 mmHg (baseline 118/74), SpO2 93% on room air. Lung auscultation reveals new fine bilateral crackles at bases. What is the MOST appropriate action?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Do not exercise; contact physician immediately regarding signs of decompensated heart failure",
+            "B": "Proceed with exercise at 75% of usual intensity",
+            "C": "Continue normal exercise program as changes are minor",
+            "D": "Focus only on upper extremity exercises to reduce cardiac demand"
+        },
+        "explanation": "Option A is correct. This patient shows ACUTE DECOMPENSATED HEART FAILURE: rapid weight gain (fluid retention - 2-3 lbs in 2 days is concerning), worsening peripheral edema, increased dyspnea, elevated BP from baseline, decreased SpO2, and NEW crackles (pulmonary congestion). Exercise is CONTRAINDICATED during acute decompensation - can precipitate pulmonary edema, severe dyspnea, or arrhythmias. Requires immediate medical attention for diuretic adjustment, possibly hospitalization. The confusing option is C which minimizes 'minor' changes - but these are classic early decompensation signs requiring prompt intervention before crisis develops. Options B and D inappropriately continue exercise during unstable cardiac status. Recognizing early decompensation prevents deterioration.",
+        "references": [
+            "https://www.heart.org/en/health-topics/heart-failure/warning-signs-of-heart-failure",
+            "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000757"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Medium",
+        "questionText": "A 45-year-old patient presents with chronic lateral hip pain for 8 months, worse with running and lying on affected side. Examination reveals: tenderness over greater trochanter, positive Trendelenburg sign, weak hip abductors (4-/5), and tight iliotibial band (positive Ober's test). Conservative treatment for 12 weeks has minimally helped. What intervention should be prioritized?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Corticosteroid injection into trochanteric bursa as definitive treatment",
+            "B": "Progressive hip abductor strengthening (gluteus medius focus) with IT band stretching and activity modification",
+            "C": "Complete rest from all weight-bearing activities",
+            "D": "Immediate surgical consultation for bursectomy"
+        },
+        "explanation": "Option B is correct. Greater trochanteric pain syndrome (formerly trochanteric bursitis) is now understood as primarily TENDINOPATHY of gluteal tendons with possible associated bursitis. Treatment focuses on: progressive hip abductor strengthening (eccentric loading shown effective), addressing contributing factors (IT band tightness, altered mechanics), activity modification (avoid aggravating activities, side-sleeping with pillow between knees). Injection provides SHORT-term relief but doesn't address underlying weakness. The confusing option is A - injection alone without addressing biomechanical factors has high recurrence. Option C prevents therapeutic loading. Option D is last resort after failed comprehensive conservative care. Understanding gluteal tendinopathy as primary pathology guides effective treatment.",
+        "references": [
+            "https://www.jospt.org/doi/10.2519/jospt.2015.0302",
+            "https://bjsm.bmj.com/content/52/22/1464"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 72-year-old patient with history of falls presents with balance impairment. Examination shows: normal strength, normal vision, normal vestibular testing (normal head impulse test, no nystagmus), but IMPAIRED proprioception (unable to identify toe position with eyes closed) and positive Romberg test (significant sway with eyes closed vs eyes open). What type of balance disorder is this?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Vestibular balance disorder",
+            "B": "Cerebellar ataxia",
+            "C": "Sensory ataxia from proprioceptive deficit",
+            "D": "Multisensory imbalance"
+        },
+        "explanation": "Option C is correct. Positive Romberg (worsens significantly with eyes closed) with impaired proprioception but NORMAL vestibular and cerebellar testing indicates SENSORY ataxia - balance impairment from proprioceptive loss (common with peripheral neuropathy, posterior column spinal pathology, or age-related sensory decline). When visual input removed (eyes closed), no proprioceptive backup, causing instability. Vestibular is intact (can be tested). The confusing option is D - while multiple systems often contribute, the PRIMARY deficit here is proprioceptive. Option A - vestibular testing is normal. Option B - cerebellar ataxia shows dysmetria, dysdiadochokinesia, intention tremor, and doesn't improve with eyes open. Understanding balance system contributions guides targeted interventions (visual/vestibular compensation strategies).",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK547606/",
+            "https://www.physio-pedia.com/Romberg_Test"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Medium",
+        "questionText": "A 68-year-old patient with COPD uses pursed-lip breathing during activities. What is the MOST accurate description of the technique's mechanism of benefit?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Creates back-pressure during exhalation preventing premature small airway collapse and reducing air trapping",
+            "B": "Strengthens respiratory muscles through resistance training",
+            "C": "Increases tidal volume by forcing deeper breaths",
+            "D": "Directly improves oxygen saturation through increased oxygen extraction"
+        },
+        "explanation": "Option A is correct. Pursed-lip breathing creates mild resistance/back-pressure during exhalation (through partially closed lips), which helps maintain positive pressure in airways, preventing premature collapse of small airways (common in COPD due to loss of elastic recoil). This allows more complete exhalation, reduces air trapping, decreases work of breathing, and indirectly improves gas exchange by reducing dead space. Also naturally slows respiratory rate. The confusing option is B - while pursed-lip breathing provides mild resistance, it's not primarily for muscle strengthening but for airway mechanics. Options C and D describe secondary effects, not primary mechanism. Understanding precise mechanisms explains why technique works.",
+        "references": [
+            "https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/breathing-exercises",
+            "https://www.thoracic.org/patients/patient-resources/resources/copd.pdf"
+        ]
+    },
+    {
+        "bodySystem": "Integumentary",
+        "difficulty": "Medium",
+        "questionText": "A 65-year-old patient has bilateral lower extremity edema (2+ pitting). Right medial malleolus has chronic venous ulcer (4cm × 3cm). Left medial malleolus shows hemosiderin staining, thickened skin (lipodermatosclerosis), and eczematous changes but no open wound. What does the left leg presentation indicate?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Normal aging skin changes requiring no intervention",
+            "B": "Advanced chronic venous insufficiency changes indicating high risk for future ulceration; requires preventive compression therapy",
+            "C": "Cellulitis requiring antibiotics",
+            "D": "Arterial insufficiency requiring vascular surgery"
+        },
+        "explanation": "Option B is correct. Hemosiderin staining (brown discoloration from RBC breakdown), lipodermatosclerosis (indurated/thickened skin from chronic inflammation), and venous eczema WITHOUT open ulcer indicate ADVANCED chronic venous insufficiency. These are PRE-ULCERATIVE changes - skin breakdown is imminent without intervention. Requires: compression therapy (20-30 mmHg), skin care, elevation, and close monitoring to PREVENT ulcer development. The confusing option is A - these are pathological changes, not normal aging. Option C - eczematous changes from venous stasis, not infection (no warmth/fever mentioned). Option D - these are venous, not arterial, changes. Understanding pre-ulcerative venous skin changes enables preventive intervention.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598045/",
+            "https://www.woundsinternational.com/resources/details/compression-venous-leg-ulcers"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 58-year-old patient sustained left middle cerebral artery stroke 8 weeks ago. Current presentation: right hemiparesis, Brunnstrom Stage 3 upper extremity (can voluntarily initiate flexor synergy pattern), minimal voluntary hand movement. The patient becomes frustrated during therapy. What intervention approach is MOST appropriate for this stage?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Constraint-induced movement therapy (CIMT) for the affected arm",
+            "B": "Focus only on compensatory strategies using left arm",
+            "C": "Facilitate voluntary control of synergy patterns; practice mass grasp/release; prepare for eventual out-of-synergy movements",
+            "D": "Passive range of motion only until voluntary movement improves to Stage 5"
+        },
+        "explanation": "Option C is correct. Brunnstrom Stage 3 represents ability to voluntarily initiate synergy patterns (progress from Stage 2's minimal voluntary movement). Appropriate interventions: facilitate voluntary control of flexor/extensor synergies, practice movements within synergy (mass grasp, elbow flexion with shoulder), strengthen within available patterns, and begin preparing for Stage 4 (movement combinations deviating from strict synergy). The confusing option is A - CIMT requires Stage 4-5 with some isolated movement and functional hand use; Stage 3 is too early. Option B abandons affected side prematurely. Option D is too passive; active movement should be maximized at each stage. Understanding Brunnstrom progression guides stage-appropriate interventions.",
+        "references": [
+            "https://www.physio-pedia.com/Brunnstrom_Stages_of_Stroke_Recovery",
+            "https://www.ncbi.nlm.nih.gov/books/NBK559135/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 54-year-old patient in Phase II cardiac rehabilitation is on beta-blocker (metoprolol). Resting HR is 58 bpm. During exercise at perceived moderate intensity (RPE 13/20), HR increases to only 72 bpm but BP appropriately increases from 118/74 to 148/80 mmHg. Patient denies symptoms. What is the MOST appropriate exercise monitoring method for this patient?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Target heart rate using 220-age formula",
+            "B": "Heart rate reserve (Karvonen) method",
+            "C": "Percentage of maximum heart rate from stress test",
+            "D": "Rating of perceived exertion (RPE) as primary intensity guide"
+        },
+        "explanation": "Option D is correct. Beta-blockers BLUNT heart rate response to exercise (this patient only increased 14 bpm despite moderate intensity), making heart rate-based methods UNRELIABLE for monitoring intensity. RPE (Borg scale) is most appropriate as it reflects overall perceived exertion independent of heart rate. Target RPE 11-14 for moderate intensity. The BP response confirms actual moderate workload despite blunted HR. Options A, B, and C all rely on heart rate calculations invalidated by beta-blocker effect. The confusing aspect is patient IS exercising at appropriate intensity (normal BP response, appropriate RPE) but HR doesn't reflect this due to medication. Understanding medication effects on exercise responses guides appropriate monitoring selection.",
+        "references": [
+            "https://www.acsm.org/read-research/books/acsms-guidelines-for-exercise-testing-and-prescription",
+            "https://www.heart.org/en/health-topics/cardiac-rehab/getting-physically-active/cardiac-medications"
+        ]
+    },
+    {
+        "bodySystem": "Other Systems",
+        "difficulty": "Medium",
+        "questionText": "A 52-year-old patient with breast cancer is undergoing chemotherapy (doxorubicin and cyclophosphamide). The patient reports new onset of numbness and tingling in hands and feet (glove-and-stocking distribution) after third chemotherapy cycle. Reflexes are diminished bilaterally. What is the MOST likely cause and appropriate recommendation?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Cervical radiculopathy from tumor metastasis",
+            "B": "Chemotherapy-induced peripheral neuropathy (CIPN); report to oncologist and modify activities for safety",
+            "C": "Anxiety-related symptoms from cancer diagnosis",
+            "D": "Diabetes developing secondary to chemotherapy"
+        },
+        "explanation": "Option B is correct. Chemotherapy-induced peripheral neuropathy (CIPN) is common side effect of certain chemotherapy agents (platinum-based, taxanes like in this regimen, vinca alkaloids). Presents as distal symmetric polyneuropathy with sensory loss, paresthesias, and can include motor and autonomic involvement. Timing (after chemotherapy cycles), bilateral symmetric pattern, and diminished reflexes confirm. Requires: oncologist notification (may adjust treatment), fall prevention, assistive device assessment if balance affected, and safety education. The confusing option is D - while steroids (often given with chemo) can affect glucose, glove-stocking neuropathy after specific chemo points to CIPN. Option A wouldn't be bilateral symmetric. Option C dismisses real neurotoxic effect. Understanding chemotherapy side effects guides appropriate safety interventions.",
+        "references": [
+            "https://www.cancer.gov/about-cancer/treatment/side-effects/nerve-problems",
+            "https://ascopubs.org/doi/10.1200/JCO.2013.54.0914"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 38-year-old patient underwent ACL reconstruction (patellar tendon autograft) 20 weeks ago. Current examination shows: full ROM, quadriceps strength 88% of uninvolved limb (isokinetic testing), negative Lachman's and pivot shift tests, but reports anterior knee pain (4/10) with kneeling and jumping. What is the MOST likely source of persistent pain?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "ACL graft failure requiring revision",
+            "B": "Meniscal tear from rehabilitation activities",
+            "C": "Patellar tendinopathy or anterior knee pain syndrome from graft harvest site",
+            "D": "Arthrofibrosis requiring manipulation"
+        },
+        "explanation": "Option C is correct. Patellar tendon autograft harvest creates DONOR SITE morbidity: anterior knee pain, patellar tendinopathy, kneeling pain (common complaint), and possible patellar fracture risk. This is common complication (20-30% report anterior knee pain) that may persist years. Managed with: activity modification, tendon loading programs, patellar mobilization, and patience. Graft itself is stable (negative stability tests). The confusing option is A - stability tests are NEGATIVE indicating graft is intact. Option B would show positive McMurray's or mechanical symptoms. Option D is ruled out by full ROM. Understanding graft-specific complications guides appropriate patient counseling and treatment of residual symptoms.",
+        "references": [
+            "https://www.jospt.org/doi/10.2519/jospt.2017.0303",
+            "https://orthoinfo.aaos.org/en/treatment/anterior-cruciate-ligament-acl-injury-does-it-require-surgery/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Medium",
+        "questionText": "A 6-month-old infant demonstrates: able to roll both directions, reaches for toys with both hands, bears weight on legs when held in standing, and has good head control. However, parent reports infant cannot sit independently yet (sits briefly then falls). What is the MOST appropriate assessment?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Significant developmental delay requiring immediate intervention",
+            "B": "Cerebral palsy diagnosis is confirmed",
+            "C": "Borderline development; monitor closely as independent sitting typically develops 6-8 months; initiate therapy if not achieved by 8 months",
+            "D": "Completely normal; sitting develops at 12 months"
+        },
+        "explanation": "Option C is correct. Independent sitting typically develops 6-8 months (range 5-9 months). At 6 months, infant has good associated skills (rolling, reaching, weight-bearing, head control) but sits only briefly. This is BORDERLINE - within normal range but at lower end. Appropriate response: monitor over next 2 months, provide parents with activities encouraging sitting practice, and initiate intervention if sitting not achieved by 8 months. The confusing option is A - infant shows multiple appropriate skills; isolated delay in sitting at 6 months doesn't yet indicate significant delay. Option B is premature diagnosis. Option D is incorrect; 12 months is quite delayed for sitting. Understanding developmental milestone ranges prevents over- or under-reaction.",
+        "references": [
+            "https://www.cdc.gov/ncbddd/actearly/milestones/index.html",
+            "https://publications.aap.org/pediatrics/article/145/2/e20193449/36891/Identifying-Infants-and-Young-Children-With"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 58-year-old patient with idiopathic pulmonary arterial hypertension (PAH, mean PAP 48 mmHg) on targeted PAH medications wants to exercise. Echocardiogram shows moderate right ventricular dysfunction. What is the PRIMARY safety concern limiting exercise intensity in PAH?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Left ventricular failure from systemic hypertension",
+            "B": "Right ventricular failure from excessive pulmonary vascular resistance and afterload",
+            "C": "Airway obstruction limiting ventilation",
+            "D": "Skeletal muscle weakness from deconditioning"
+        },
+        "explanation": "Option B is correct. Pulmonary arterial hypertension creates elevated pressure in pulmonary circulation, increasing RIGHT ventricular afterload. During exercise, pulmonary pressures rise further, potentially overwhelming RV function leading to: RV failure, syncope, arrhythmias, or sudden death. Exercise must be carefully monitored: low-to-moderate intensity (avoid excessive dyspnea/Borg <5), supplemental oxygen as needed, frequent monitoring for signs of RV strain (excessive fatigue, presyncope, chest discomfort). The confusing option is D - while deconditioning contributes, the PRIMARY safety limit is RV capacity against high pulmonary pressures. Option A is wrong ventricle. Option C - PAH is vascular, not obstructive disease. Understanding PAH pathophysiology guides safe exercise parameters.",
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003040/",
+            "https://erj.ersjournals.com/content/46/suppl_59/PA4062"
+        ]
+    },
+    {
+        "bodySystem": "Integumentary",
+        "difficulty": "Medium",
+        "questionText": "A 58-year-old patient with chronic lymphedema following axillary lymph node dissection asks about air travel. The patient is flying cross-country (5-hour flight). What is the MOST important recommendation?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Avoid all air travel with lymphedema",
+            "B": "Remove compression garment during flight for comfort",
+            "C": "Wear compression garment during flight, stay well-hydrated, perform in-seat exercises, avoid heavy lifting of luggage",
+            "D": "Air travel has no special considerations with lymphedema"
+        },
+        "explanation": "Option C is correct. Air travel with lymphedema requires precautions due to: cabin pressure changes, prolonged immobility, and dehydration risk. Recommendations: wear compression garment during flight (pressure changes may worsen swelling), adequate hydration, frequent in-seat exercises (ankle pumps, arm movements), aisle walking if permitted, avoid heavy lifting (request assistance with luggage), elevate limb when possible. These reduce swelling exacerbation risk. The confusing option is B - compression should be WORN during flight when swelling risk is highest. Option A is unnecessarily restrictive. Option D ignores legitimate precautions. Understanding lymphedema management during travel prevents complications.",
+        "references": [
+            "https://www.cancer.gov/about-cancer/treatment/side-effects/lymphedema/lymphedema-hp-pdq",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954383/"
+        ]
     }
 ]

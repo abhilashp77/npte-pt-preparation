@@ -25,3 +25,26 @@ export interface Topic {
   references: string[];
   imageUrls: string[];
 }
+
+export interface FollowUpRequest {
+  question: string;
+  selectedAnswer: string;
+  correctAnswer: string;
+  explanation: string;
+}
+
+export interface FollowUpAnswerRequest {
+  originalQuestion: string;
+  correctAnswer: string;
+  explanation: string;
+  followUpQuestion: string;
+}
+
+export interface FollowUpOptionsResponse {
+  options: string[];
+}
+
+export interface FollowUpAnswerResponse {
+  question: string;
+  answer: string;
+}
