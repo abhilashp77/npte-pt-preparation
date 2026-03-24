@@ -21690,5 +21690,872 @@
             "O'Sullivan, S. B., Schmitz, T. J., & Fulk, G. (2019). Physical Rehabilitation (7th ed.). F.A. Davis Company.",
             "Lundy-Ekman, L. (2022). Neuroscience: Fundamentals for Rehabilitation (6th ed.). Saunders."
         ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 58-year-old patient presents with progressive difficulty swallowing, slurred speech, and fasciculations in the tongue. Manual muscle testing reveals 3/5 strength in bilateral upper extremities with preserved sensation. Deep tendon reflexes are 3+ throughout. Which intervention is MOST appropriate at this stage?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-resistance strengthening exercises to slow muscle atrophy",
+            "B": "Energy conservation techniques and adaptive equipment training",
+            "C": "Aggressive stretching to prevent contractures",
+            "D": "Electrical stimulation to denervated muscles"
+        },
+        "explanation": "This patient presents with classic signs of Amyotrophic Lateral Sclerosis (ALS): bulbar symptoms (dysphagia, dysarthria), fasciculations, weakness, hyperreflexia, and preserved sensation. Energy conservation and adaptive equipment are most appropriate as they preserve function and quality of life without overtaxing degenerating motor neurons. Option A is incorrect because high-resistance exercise may accelerate motor neuron degeneration and increase fatigue in ALS. Option C is incorrect as aggressive stretching is not a priority and may cause injury; gentle ROM is more appropriate. Option D is incorrect because electrical stimulation is ineffective in progressive motor neuron disease and may increase metabolic stress on dying neurons.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Umphred DA, Lazaro RT, Roller ML, Burton GU. Umphred's Neurological Rehabilitation. 6th ed. St. Louis: Elsevier; 2013."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 35-year-old construction worker reports acute low back pain radiating to the posterolateral leg after lifting. Straight leg raise is positive at 40 degrees on the affected side. Ankle dorsiflexion strength is 3/5, and the patient has diminished sensation over the dorsum of the foot. Which nerve root is MOST likely affected?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "L3",
+            "B": "L4",
+            "C": "L5",
+            "D": "S1"
+        },
+        "explanation": "The L5 nerve root is most likely affected based on the clinical presentation. L5 radiculopathy typically presents with weakness in ankle dorsiflexion (tibialis anterior), toe extension (extensor hallucis longus), and sensory changes over the dorsum of the foot and lateral leg. The positive straight leg raise confirms nerve root compression. Option A (L3) is incorrect as L3 radiculopathy affects hip flexion and knee extension with sensory changes in the anterior thigh. Option B (L4) is incorrect as it primarily affects knee extension and tibialis anterior with diminished patellar reflex and anterior/medial leg sensation. Option D (S1) is incorrect as S1 radiculopathy causes weakness in ankle plantarflexion, diminished Achilles reflex, and sensory changes in the posterior leg and lateral foot.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 62-year-old male with chronic heart failure (EF 30%) is referred for cardiac rehabilitation. During exercise testing, he demonstrates chronotropic incompetence. What is the MOST appropriate method to monitor exercise intensity?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Target heart rate of 70-85% of age-predicted maximum",
+            "B": "Heart rate reserve method (Karvonen formula)",
+            "C": "Metabolic equivalents (METs) based on treadmill speed",
+            "D": "Rating of perceived exertion (RPE) scale"
+        },
+        "explanation": "Chronotropic incompetence is the inability to increase heart rate appropriately with exercise, common in heart failure patients and those on beta-blockers. RPE (Borg scale) is the most appropriate monitoring method as it doesn't rely on heart rate response. Target RPE of 11-14 (moderate intensity) is recommended. Option A is incorrect because age-predicted maximum heart rate formulas are invalid with chronotropic incompetence. Option B is incorrect as the Karvonen formula also relies on heart rate response, which is blunted in this population. Option C is incorrect because METs alone don't account for individual patient response and symptom tolerance, and fixed treadmill speeds may overestimate or underestimate intensity in heart failure patients.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "American College of Sports Medicine. ACSM's Guidelines for Exercise Testing and Prescription. 10th ed. Philadelphia: Wolters Kluwer; 2018."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 4-year-old child with spastic diplegic cerebral palsy demonstrates excessive hip adduction during gait with scissoring pattern. Passive ROM reveals hip abduction limited to 20 degrees bilaterally. What is the PRIMARY muscle group contributing to this limitation?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Hip adductors with predominant spasticity of the gracilis and adductor longus",
+            "B": "Hip flexors including iliopsoas and rectus femoris",
+            "C": "Medial hamstrings including semimembranosus and semitendinosus",
+            "D": "Tensor fasciae latae and iliotibial band"
+        },
+        "explanation": "In spastic diplegic CP, the hip adductors (gracilis, adductor longus, adductor brevis, adductor magnus) are primary contributors to scissoring gait and limited hip abduction. The gracilis and adductor longus are particularly problematic as they cross both hip and knee joints. This spasticity leads to contracture and functional limitation. Option B is incorrect because while hip flexors are often tight in CP, they don't primarily limit hip abduction or cause scissoring. Option C is incorrect as medial hamstrings contribute to knee flexion contractures and internal rotation but are not the primary cause of hip adduction contracture. Option D is incorrect because TFL and ITB cause hip abduction and flexion, not adduction; they would oppose the scissoring pattern.",
+        "references": [
+            "Campbell SK, Palisano RJ, Orlin MN. Physical Therapy for Children. 5th ed. St. Louis: Elsevier; 2017.",
+            "Tecklin JS. Pediatric Physical Therapy. 5th ed. Philadelphia: Lippincott Williams & Wilkins; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 28-year-old volleyball player complains of anterior shoulder pain during overhead serving. Physical examination reveals a positive relocation test and apprehension at 90 degrees abduction and maximum external rotation. Sulcus sign is 2+ with the arm at the side. What is the MOST likely diagnosis?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Superior labral anterior-posterior (SLAP) lesion",
+            "B": "Subacromial impingement syndrome",
+            "C": "Multidirectional instability with anterior component",
+            "D": "Isolated anterior labral tear (Bankart lesion)"
+        },
+        "explanation": "Multidirectional instability (MDI) is indicated by the positive sulcus sign (indicating inferior laxity) combined with anterior apprehension and positive relocation test. MDI involves laxity in multiple directions and is common in overhead athletes. The 2+ sulcus sign is the key differentiator. Option A is incorrect because SLAP lesions typically present with pain during overhead activities but don't usually show significant sulcus sign; tests like O'Brien's and Speed's would be more indicative. Option B is incorrect as impingement presents with painful arc and positive Neer/Hawkins tests without the instability signs. Option D is incorrect because an isolated Bankart lesion would show anterior instability without the significant inferior laxity (sulcus sign) that characterizes MDI.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Brotzman SB, Manske RC. Clinical Orthopaedic Rehabilitation: A Team Approach. 4th ed. Philadelphia: Elsevier; 2018."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 55-year-old patient in the ICU is on mechanical ventilation (assist-control mode) following coronary artery bypass surgery. The ventilator alarm sounds, and you observe the patient has increased accessory muscle use and appears distressed. Peak inspiratory pressure has increased from 25 to 45 cmH2O, but plateau pressure remains at 20 cmH2O. What is the MOST likely cause?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Pneumothorax",
+            "B": "Bronchospasm or mucus plug",
+            "C": "Acute respiratory distress syndrome (ARDS)",
+            "D": "Ventilator circuit disconnection"
+        },
+        "explanation": "The increased peak inspiratory pressure (PIP) with unchanged plateau pressure indicates increased airway resistance rather than decreased lung compliance. This pattern is classic for bronchospasm or airway obstruction (mucus plug). The difference between PIP and plateau pressure reflects resistance in the airways. Option A is incorrect because pneumothorax would increase both PIP and plateau pressure due to decreased lung compliance. Option C is incorrect as ARDS also increases both PIP and plateau pressure from decreased compliance and increased lung stiffness. Option D is incorrect because disconnection would cause low-pressure alarms, not high-pressure alarms, and the patient would not be distressed from increased work of breathing but from inadequate ventilation.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "Frownfelter D, Dean E. Cardiovascular and Pulmonary Physical Therapy: Evidence and Practice. 5th ed. St. Louis: Mosby; 2012."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 72-year-old patient presents with sudden onset right-sided weakness and sensory loss. CT scan reveals a left-sided thalamic infarct. During mobilization, the patient reports severe, burning pain on the right side that is disproportionate to tactile stimulation. What condition is MOST consistent with these findings?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Complex regional pain syndrome type I",
+            "B": "Wallenberg syndrome",
+            "C": "Brown-Séquard syndrome",
+            "D": "Central post-stroke pain (thalamic pain syndrome)"
+        },
+        "explanation": "Central post-stroke pain (Dejerine-Roussy syndrome or thalamic pain syndrome) occurs after thalamic infarcts and presents with contralateral sensory loss followed by severe, often burning pain that is disproportionate to stimulation (allodynia/hyperalgesia). The thalamus is critical for sensory processing. Option A is incorrect because CRPS typically follows trauma to a limb and presents with autonomic changes, not from central thalamic lesions. Option B is incorrect as Wallenberg syndrome results from lateral medullary infarct, presenting with ipsilateral facial and contralateral body sensory loss, ataxia, dysphagia, and Horner's syndrome. Option C is incorrect because Brown-Séquard syndrome is a spinal cord hemisection injury showing ipsilateral motor/proprioception loss and contralateral pain/temperature loss.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Gillen G. Stroke Rehabilitation: A Function-Based Approach. 4th ed. St. Louis: Elsevier; 2016."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 45-year-old patient reports lateral elbow pain that worsens with gripping activities. Resisted wrist extension and supination with the elbow extended reproduces pain. Palpation reveals tenderness 1 cm distal to the lateral epicondyle. What is the MOST appropriate initial treatment approach?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Eccentric wrist extensor strengthening and activity modification",
+            "B": "Corticosteroid injection and rest",
+            "C": "Aggressive stretching of wrist extensors",
+            "D": "Mobilization with movement (MWM) of the radioulnar joint"
+        },
+        "explanation": "Lateral epicondylalgia (tennis elbow) is a tendinopathy of the common extensor origin, primarily affecting the extensor carpi radialis brevis. Evidence strongly supports eccentric strengthening (Tyler Twist protocol) combined with activity modification as first-line treatment. Eccentric exercises promote tendon remodeling and collagen alignment. Option B is incorrect as corticosteroid injections provide only short-term relief and may impair long-term tendon healing and increase re-injury risk. Option C is incorrect because aggressive stretching can aggravate tendinopathy; gentle stretching may be incorporated but is not the primary intervention. Option D is incorrect as MWM techniques for lateral epicondylalgia target the elbow joint itself rather than the radioulnar joint, though MWM can be an adjunct therapy.",
+        "references": [
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017.",
+            "Brotzman SB, Manske RC. Clinical Orthopaedic Rehabilitation: A Team Approach. 4th ed. Philadelphia: Elsevier; 2018."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old patient with Parkinson's disease demonstrates festinating gait and frequent freezing episodes when approaching doorways. Which intervention strategy is MOST evidence-based for addressing these gait impairments?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Backward walking training to improve motor planning",
+            "B": "Ankle-foot orthoses to improve foot clearance",
+            "C": "Visual and auditory cueing with cognitive strategies",
+            "D": "High-frequency electrical stimulation to the lower extremities"
+        },
+        "explanation": "Festinating gait (rapid, shuffling steps with forward-leaning posture) and freezing of gait are common in Parkinson's disease due to basal ganglia dysfunction affecting movement initiation and rhythm. Visual cues (lines on floor), auditory cues (metronome, rhythmic commands), and cognitive strategies (step over, big steps) activate alternative neural pathways and significantly reduce freezing episodes. Option A is incorrect while backward walking may improve balance, it doesn't specifically address festination or freezing and lacks strong evidence for these symptoms. Option B is incorrect as AFOs are not indicated for Parkinson's gait dysfunction; the issue is initiation and rhythm, not foot drop. Option D is incorrect because electrical stimulation is not an evidence-based intervention for parkinsonian gait patterns.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Umphred DA, Lazaro RT, Roller ML, Burton GU. Umphred's Neurological Rehabilitation. 6th ed. St. Louis: Elsevier; 2013."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 58-year-old patient with COPD (FEV1 45% predicted) becomes increasingly dyspneic during ambulation training. Pulse oximetry drops from 92% to 84%. The patient's respiratory rate increases to 32 breaths/min with shallow breathing. What is the MOST appropriate immediate intervention?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Encourage deep breathing exercises and continue ambulation",
+            "B": "Stop activity and use pursed-lip breathing with rest position",
+            "C": "Increase supplemental oxygen and resume ambulation at slower pace",
+            "D": "Perform percussion and postural drainage to clear secretions"
+        },
+        "explanation": "The patient demonstrates acute respiratory distress with desaturation below 85%, tachypnea, and dyspnea. Immediate cessation of activity with pursed-lip breathing (prolongs exhalation, reduces air trapping, improves gas exchange) and rest positioning (forward lean to optimize diaphragm position) is the priority. Option A is incorrect because continuing activity with respiratory distress risks further desaturation and respiratory failure; deep breathing is difficult during acute distress. Option C is incorrect as the immediate priority is stopping the activity causing distress; oxygen adjustment comes after stabilization. Option D is incorrect because percussion/postural drainage is not an emergency intervention for acute dyspnea and could worsen distress; it's used for secretion clearance in stable patients.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "Frownfelter D, Dean E. Cardiovascular and Pulmonary Physical Therapy: Evidence and Practice. 5th ed. St. Louis: Mosby; 2012."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 32-year-old female presents with insidious onset anterior knee pain that worsens with stair descent and prolonged sitting. Patellar glide test reveals lateral tightness, and J-sign is present during active knee extension. Q-angle measures 20 degrees. What is the PRIMARY muscle group that requires strengthening?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Vastus lateralis and lateral quadriceps",
+            "B": "Hip flexors and rectus femoris",
+            "C": "Hamstrings and gastrocnemius",
+            "D": "Vastus medialis oblique (VMO) and hip abductors"
+        },
+        "explanation": "This patient has patellofemoral pain syndrome with lateral patellar tracking (evidenced by J-sign, lateral tightness, theater sign from sitting, and increased Q-angle >18°). The VMO and hip abductors (particularly gluteus medius) are critical for proper patellar tracking. VMO provides medial stability to the patella, while hip abductors prevent femoral internal rotation and dynamic knee valgus. Option A is incorrect because strengthening the already overactive vastus lateralis would worsen lateral tracking. Option B is incorrect as hip flexor strengthening is not indicated and tight hip flexors may contribute to anterior pelvic tilt and altered mechanics. Option C is incorrect because while hamstrings play a role in knee stability, they don't directly address patellar maltracking; strengthening them won't correct the VMO-VL imbalance.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 25-year-old patient sustained a brachial plexus injury in a motorcycle accident. Examination reveals inability to flex the elbow, numbness over the lateral forearm, and absent biceps reflex. Shoulder abduction and external rotation are intact. Which portion of the brachial plexus is MOST likely injured?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Upper trunk (Erb's palsy - C5-C6)",
+            "B": "Musculocutaneous nerve or lateral cord",
+            "C": "Posterior cord",
+            "D": "Medial cord"
+        },
+        "explanation": "The clinical presentation indicates isolated musculocutaneous nerve injury or lateral cord involvement. The musculocutaneous nerve (C5-C7, primarily C6) innervates the biceps brachii, brachialis, and coracobrachialis (elbow flexion) and provides sensation to the lateral forearm via the lateral antebrachial cutaneous nerve. The absent biceps reflex confirms this. Intact shoulder abduction (axillary nerve - C5-C6) and external rotation (suprascapular nerve) indicate upper trunk is functioning. Option A is incorrect because Erb's palsy (C5-C6 upper trunk) would affect shoulder abduction/external rotation (axillary, suprascapular nerves) and show 'waiter's tip' position. Option C is incorrect as posterior cord injury would affect radial nerve function (wrist/finger extension, triceps). Option D is incorrect because medial cord injury affects ulnar and median nerve components, causing hand intrinsic weakness.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 70-year-old patient with Class III heart failure (NYHA) presents for cardiac rehabilitation. Resting heart rate is 58 bpm, and the patient is taking metoprolol. During the initial exercise test, heart rate increases to only 68 bpm at peak exertion. What percentage of heart rate reserve should be used to establish the target training zone?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "60-70% of heart rate reserve using Karvonen formula",
+            "B": "70-85% of age-predicted maximum heart rate",
+            "C": "50-60% of measured peak heart rate during exercise test",
+            "D": "Heart rate prescription is inappropriate; use RPE 11-14 instead"
+        },
+        "explanation": "This patient demonstrates chronotropic incompetence (inadequate heart rate response to exercise) due to beta-blocker therapy and possible intrinsic cardiac dysfunction. Heart rate only increased 10 bpm from rest to peak exertion, indicating severe blunting of chronotropic response. RPE-based prescription (Borg scale 11-14 for moderate intensity) is most appropriate as it doesn't rely on heart rate. Option A is incorrect because the Karvonen formula requires valid resting and maximum heart rates; this patient's chronotropic incompetence invalidates heart rate reserve calculations. Option B is incorrect for the same reason; age-predicted maximums don't apply with beta-blockade and chronotropic incompetence. Option C is incorrect because using a percentage of the already blunted peak HR would result in inadequate training intensity.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "American College of Sports Medicine. ACSM's Guidelines for Exercise Testing and Prescription. 10th ed. Philadelphia: Wolters Kluwer; 2018."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 56-year-old patient with rotator cuff tendinopathy demonstrates a painful arc between 70-120 degrees of abduction. Neer's test is positive, but Hawkins-Kennedy test is negative. Empty can test shows 4/5 strength with pain. What is the MOST likely structure involved?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Supraspinatus tendon",
+            "B": "Infraspinatus tendon",
+            "C": "Subscapularis tendon",
+            "D": "Long head of biceps tendon"
+        },
+        "explanation": "The supraspinatus is most likely involved based on the painful arc (70-120° is classic for supraspinatus impingement), positive Neer's test (forward elevation with impingement), painful empty can test (specific for supraspinatus), and negative Hawkins-Kennedy (more specific for general anterosuperior impingement). The supraspinatus passes under the acromion and is most susceptible to impingement. Option B is incorrect because infraspinatus involvement would show weakness in external rotation and positive external rotation resistance tests; Hawkins-Kennedy would likely also be positive. Option C is incorrect as subscapularis pathology presents with positive lift-off or belly-press tests and internal rotation weakness. Option D is incorrect because biceps tendinopathy presents with positive Speed's test, Yergason's test, and anterior shoulder pain, not a painful arc in mid-range abduction.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 7-year-old child with Duchenne muscular dystrophy can still ambulate independently but demonstrates increased lumbar lordosis and uses Gowers' sign to rise from the floor. What is the MOST appropriate therapeutic focus at this stage of the disease?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-resistance progressive strengthening of lower extremities",
+            "B": "Stretching of hip and knee flexors with sub-maximal strengthening",
+            "C": "Complete bed rest to preserve muscle tissue",
+            "D": "Aggressive aerobic conditioning to improve cardiovascular endurance"
+        },
+        "explanation": "In DMD, maintaining functional mobility while preventing contractures is critical during the ambulatory phase. Hip and knee flexor tightness (iliopsoas, hamstrings) contributes to increased lordosis and compensatory gait patterns. Gentle stretching combined with sub-maximal strengthening (avoiding eccentric exercise and overwork) helps maintain function without causing muscle damage. Option A is incorrect because high-resistance exercise can cause further muscle damage in dystrophic muscle due to membrane fragility and eccentric contraction vulnerability. Option C is incorrect as bed rest leads to rapid deconditioning and contracture development; maintaining activity within tolerance is essential. Option D is incorrect because aggressive aerobic conditioning can overwork dystrophic muscles and accelerate degeneration; moderate activity is preferred.",
+        "references": [
+            "Campbell SK, Palisano RJ, Orlin MN. Physical Therapy for Children. 5th ed. St. Louis: Elsevier; 2017.",
+            "Tecklin JS. Pediatric Physical Therapy. 5th ed. Philadelphia: Lippincott Williams & Wilkins; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 48-year-old patient develops acute shortness of breath, tachycardia (HR 118 bpm), and hypoxemia (SpO2 88%) three days post-total hip arthroplasty. The patient has unilateral leg swelling and sudden onset pleuritic chest pain. What is the MOST appropriate immediate action?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Stop all activity, call for emergency assistance, and maintain patient in position of comfort",
+            "B": "Increase supplemental oxygen and continue with gentle mobilization",
+            "C": "Perform deep breathing and coughing exercises to expand the lungs",
+            "D": "Elevate the affected leg and apply compression to reduce edema"
+        },
+        "explanation": "This patient presents with classic signs of pulmonary embolism (PE): sudden dyspnea, tachycardia, hypoxemia, pleuritic chest pain, and unilateral leg swelling (suggesting DVT) post-orthopedic surgery. This is a medical emergency requiring immediate physician evaluation. Stopping activity, activating emergency response, and keeping the patient still (to prevent further embolization) are critical. Option B is incorrect because mobilization could dislodge additional thrombi and worsen the PE; this is an emergency requiring medical intervention, not continued therapy. Option C is incorrect as deep breathing exercises are inappropriate during acute PE; they won't address the embolus and could worsen symptoms. Option D is incorrect because leg elevation and compression could dislodge additional thrombi from a DVT, potentially causing further PE.",
+        "references": [
+            "Goodman CC, Fuller KS. Pathology: Implications for the Physical Therapist. 4th ed. St. Louis: Elsevier; 2015.",
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 42-year-old runner presents with medial shin pain that worsens during the loading phase of running. Palpation reveals tenderness along the distal posteromedial tibia. Resisted plantar flexion and inversion reproduce pain. What is the MOST likely diagnosis?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Anterior tibialis tendinopathy",
+            "B": "Tibial stress fracture",
+            "C": "Chronic exertional compartment syndrome",
+            "D": "Medial tibial stress syndrome (shin splints)"
+        },
+        "explanation": "Medial tibial stress syndrome (MTSS) presents with diffuse posteromedial tibial pain during loading activities, tenderness along the distal-medial tibia (middle to distal third), and pain with resisted plantar flexion/inversion (implicating soleus, flexor digitorum longus, tibialis posterior). MTSS results from repetitive stress causing periostitis. Option A is incorrect because anterior tibialis tendinopathy would cause anterior leg pain and pain with resisted dorsiflexion/inversion, not plantarflexion. Option B is incorrect as stress fractures present with focal point tenderness and pain that persists with rest, plus positive hop test and tuning fork test. Option C is incorrect because CECS presents with tightness/pressure during exercise that resolves quickly with rest, often with neurological symptoms, not focal tenderness.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 65-year-old patient recovering from right MCA stroke demonstrates left-sided neglect, impaired body awareness, and left homonymous hemianopsia. Which compensatory strategy is MOST appropriate for improving functional mobility?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Approach patient from the left side to force attention to neglected side",
+            "B": "Place all functional items on the right side to maximize success",
+            "C": "Use verbal and tactile cues to scan left with gradual environmental modification",
+            "D": "Apply left upper extremity constraint to force use during activities"
+        },
+        "explanation": "Right hemisphere stroke with left neglect, anosognosia (impaired body awareness), and left homonymous hemianopsia requires gradual, systematic retraining with verbal/tactile cues to promote left-sided scanning and awareness. Starting from the intact right side and systematically cueing leftward scanning, combined with gradually moving objects to the left, promotes neural compensation while maintaining safety. Option A is incorrect as suddenly approaching from the neglected side can be startling, unsafe, and ineffective; patients may simply not process the information. Option B is incorrect because this reinforces the neglect and doesn't promote compensation or recovery of awareness. Option D is incorrect as constraint-induced therapy is for motor recovery in learned non-use, not for perceptual or attention deficits; it could be dangerous with neglect.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Gillen G. Stroke Rehabilitation: A Function-Based Approach. 4th ed. St. Louis: Elsevier; 2016."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 38-year-old office worker presents with numbness and tingling in the thumb, index, and middle fingers that worsens at night. Phalen's test is positive at 30 seconds, and Tinel's sign is present at the wrist. Thenar atrophy is not present. What is the MOST appropriate initial intervention?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Neutral wrist splinting at night and ergonomic modifications",
+            "B": "Aggressive nerve gliding exercises throughout the day",
+            "C": "Surgical consultation for carpal tunnel release",
+            "D": "Strengthening exercises for thenar muscles"
+        },
+        "explanation": "This patient has mild-to-moderate carpal tunnel syndrome (CTS) without muscle atrophy. Conservative management is first-line treatment: neutral wrist splinting (especially at night to prevent flexed sleep postures) and ergonomic modifications to reduce repetitive wrist flexion/extension. Neutral positioning minimizes median nerve compression. Option B is incorrect because aggressive nerve gliding during acute irritation may exacerbate symptoms; gentle tendon/nerve gliding can be incorporated after initial symptom reduction. Option C is incorrect as surgery is indicated for severe CTS (thenar atrophy, constant numbness, failed conservative treatment), not as first-line treatment. Option D is incorrect because strengthening isn't a primary treatment for nerve compression; addressing the compression source is the priority; strengthening may be added post-symptom reduction.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 52-year-old patient with restrictive lung disease (idiopathic pulmonary fibrosis) demonstrates reduced total lung capacity and decreased lung compliance. Which breathing technique is MOST appropriate during exercise training?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Pursed-lip breathing to prolong exhalation",
+            "B": "Diaphragmatic breathing with shorter inspirations",
+            "C": "Incentive spirometry with sustained maximal inspiration",
+            "D": "Resistive inspiratory muscle training"
+        },
+        "explanation": "Restrictive lung disease is characterized by decreased lung volumes and compliance, not air trapping. Diaphragmatic breathing with efficient, shorter inspirations optimizes ventilation within the limited lung capacity and reduces work of breathing. The focus is on maximizing tidal volume efficiency, not prolonging expiration. Option A is incorrect because pursed-lip breathing is for obstructive diseases (COPD) where the goal is to prevent airway collapse during exhalation; it's not beneficial in restriction. Option C is incorrect as sustained maximal inspiration against stiff lungs increases work of breathing and may not be achievable; it's more appropriate post-surgery or in atelectasis. Option D is incorrect because resistive training increases inspiratory work, which may excessively fatigue patients with already compromised lung mechanics.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "Frownfelter D, Dean E. Cardiovascular and Pulmonary Physical Therapy: Evidence and Practice. 5th ed. St. Louis: Mosby; 2012."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "An 18-month-old child demonstrates persistent toe-walking bilaterally with tight heel cords. Passive dorsiflexion is limited to -5 degrees with knee extended and 5 degrees with knee flexed. Gross motor skills are otherwise age-appropriate. What is the MOST appropriate intervention?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Serial casting to achieve neutral dorsiflexion",
+            "B": "Gentle stretching of gastrocnemius and soleus with functional gait training",
+            "C": "Ankle-foot orthoses (AFOs) worn full-time",
+            "D": "Surgical lengthening of Achilles tendon"
+        },
+        "explanation": "Idiopathic toe-walking with mild contracture responds well to conservative management including gentle, sustained stretching of both gastrocnemius (knee extended) and soleus (knee flexed), combined with activities promoting heel-strike gait. The child shows only mild limitation and is otherwise developing normally. Option A is incorrect because serial casting is typically reserved for more severe contractures (>10-15° limitation) or when conservative stretching fails after several months. Option C is incorrect as full-time AFO use is not first-line for idiopathic toe-walking without neurological involvement; it may inhibit normal motor development. Option D is incorrect because surgery is last resort after conservative treatment failure and is usually not considered until age 4-5 years or older with persistent contracture.",
+        "references": [
+            "Campbell SK, Palisano RJ, Orlin MN. Physical Therapy for Children. 5th ed. St. Louis: Elsevier; 2017.",
+            "Tecklin JS. Pediatric Physical Therapy. 5th ed. Philadelphia: Lippincott Williams & Wilkins; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 29-year-old pregnant patient at 28 weeks gestation reports severe posterior pelvic pain that worsens with single-leg stance and stair climbing. Posterior pelvic pain provocation test (P4) is positive bilaterally. What is the MOST appropriate intervention?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Joint mobilization of the sacroiliac joints to restore alignment",
+            "B": "Aggressive stretching of piriformis and hip rotators",
+            "C": "Bed rest and avoidance of all weight-bearing activities",
+            "D": "Pelvic stabilization exercises and sacroiliac belt"
+        },
+        "explanation": "Pregnancy-related pelvic girdle pain (PGP), particularly sacroiliac dysfunction, is common due to hormonal changes (relaxin) increasing ligamentous laxity. The positive P4 test indicates SI joint dysfunction. Pelvic stabilization exercises (transverse abdominis, pelvic floor, gluteals) and SI belt provide external support and improve force closure. Option A is incorrect as high-velocity joint manipulation is contraindicated in pregnancy due to ligamentous laxity; gentle mobilization may be used but isn't first-line. Option B is incorrect because aggressive stretching may worsen instability during pregnancy when ligaments are already lax; gentle stretching within comfort is acceptable. Option C is incorrect as bed rest leads to deconditioning and doesn't address the stability issue; modified activity with support is more appropriate.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 54-year-old patient presents with progressive bilateral hand weakness and muscle wasting without sensory loss. Fasciculations are noted in both hands. EMG reveals widespread denervation and fibrillations. What is the expected pattern of disease progression?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Distal to proximal progression with eventual sensory involvement",
+            "B": "Improvement with corticosteroid treatment and immune modulation",
+            "C": "Progressive motor involvement including bulbar and respiratory muscles",
+            "D": "Stabilization of symptoms after initial progression"
+        },
+        "explanation": "This presentation is consistent with Amyotrophic Lateral Sclerosis (ALS) - progressive motor neuron disease with fasciculations, weakness, atrophy, and EMG showing denervation without sensory involvement. ALS progresses to involve bulbar muscles (speech, swallowing) and respiratory muscles, ultimately causing respiratory failure. Progression is typically relentless. Option A is incorrect because ALS affects motor neurons only; sensory function remains intact throughout disease progression. Option B is incorrect as ALS is not an autoimmune or inflammatory condition and doesn't respond to corticosteroids or immunomodulation. Option D is incorrect because ALS is relentlessly progressive; there is no plateau phase, unlike conditions such as post-polio syndrome or some peripheral neuropathies.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Umphred DA, Lazaro RT, Roller ML, Burton GU. Umphred's Neurological Rehabilitation. 6th ed. St. Louis: Elsevier; 2013."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 44-year-old patient with asthma presents for pulmonary rehabilitation. Peak expiratory flow rate (PEFR) is 65% of predicted. During exercise, the patient develops wheezing and increased dyspnea. What is the MOST likely cause of these symptoms?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Exercise-induced bronchoconstriction",
+            "B": "Cardiac-related dyspnea from underlying heart disease",
+            "C": "Hyperventilation from anxiety",
+            "D": "Vocal cord dysfunction"
+        },
+        "explanation": "Exercise-induced bronchoconstriction (EIB) is common in asthma patients, triggered by increased ventilation during exercise causing airway cooling and drying. Symptoms include wheezing, dyspnea, and decreased PEFR during or after exercise. The patient's baseline PEFR of 65% suggests partially controlled asthma, increasing EIB risk. Option B is incorrect because the patient's history indicates asthma, and wheezing is characteristic of airway obstruction, not cardiac dysfunction (which presents with orthopnea, edema, crackles). Option C is incorrect as hyperventilation causes respiratory alkalosis symptoms (tingling, lightheadedness) without wheezing; it doesn't cause airway obstruction. Option D is incorrect because vocal cord dysfunction typically causes inspiratory stridor in the throat/neck area, not expiratory wheezing from the chest.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "American College of Sports Medicine. ACSM's Guidelines for Exercise Testing and Prescription. 10th ed. Philadelphia: Wolters Kluwer; 2018."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 67-year-old patient with rheumatoid arthritis presents with boutonniere deformity of the index finger. Which muscle imbalance PRIMARILY contributes to this deformity?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Intrinsic tightness with lumbrical overpull",
+            "B": "Extensor digitorum communis contracture",
+            "C": "Central slip rupture with lateral band volar migration",
+            "D": "Flexor digitorum profundus tendon adhesion"
+        },
+        "explanation": "Boutonniere deformity (PIP flexion, DIP hyperextension) in RA results from chronic synovitis causing central slip (extensor mechanism at PIP) attenuation or rupture. The lateral bands migrate volarly, becoming PIP flexors instead of extensors while maintaining DIP extension. This is the primary pathomechanics. Option A is incorrect as intrinsic tightness causes intrinsic-plus position (MCP flexion, IP extension) and contributes to swan-neck deformity, not boutonniere. Option B is incorrect because EDC contracture wouldn't cause PIP flexion; it extends the MCP and assists IP extension. Option D is incorrect as FDP adhesion could limit DIP extension but wouldn't cause the characteristic hyperextension seen in boutonniere; the deformity is primarily extensor mechanism disruption.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 3-year-old child with spastic quadriplegic cerebral palsy (GMFCS Level IV) demonstrates severe hip adduction with subluxation risk. What is the PRIMARY goal of physical therapy intervention at this stage?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Achieve independent ambulation through intensive gait training",
+            "B": "Maintain hip range of motion and prevent complete dislocation",
+            "C": "Strengthen hip abductors to reverse the subluxation",
+            "D": "Fit for reciprocating gait orthosis (RGO) for standing"
+        },
+        "explanation": "GMFCS Level IV indicates severe motor limitations with no independent mobility. Hip subluxation/dislocation is common due to spastic hip adductors and weak abductors. The primary goal is preventing complete dislocation through positioning, ROM exercises, and possible orthotic management while maintaining function and comfort. Option A is incorrect because Level IV children don't achieve independent ambulation; this is an unrealistic goal that could lead to frustration and inappropriate intervention intensity. Option C is incorrect as strengthening alone cannot reverse established subluxation in severe spastic CP; surgical intervention is often required for significant subluxation. Option D is incorrect because RGOs are typically for children with good trunk control and potential for reciprocal gait (myelomeningocele); they're not indicated for GMFCS Level IV spastic quadriplegia.",
+        "references": [
+            "Campbell SK, Palisano RJ, Orlin MN. Physical Therapy for Children. 5th ed. St. Louis: Elsevier; 2017.",
+            "Tecklin JS. Pediatric Physical Therapy. 5th ed. Philadelphia: Lippincott Williams & Wilkins; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 59-year-old patient recovering from COVID-19 pneumonia demonstrates persistent dyspnea and reduced exercise tolerance six weeks post-hospital discharge. Pulmonary function tests show decreased diffusion capacity (DLCO 55% predicted). What is the MOST appropriate exercise prescription?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "High-intensity interval training to maximize cardiovascular adaptation",
+            "B": "Avoid all aerobic exercise until DLCO normalizes",
+            "C": "Low-to-moderate intensity continuous exercise with oxygen supplementation as needed",
+            "D": "Inspiratory muscle training only without aerobic exercise"
+        },
+        "explanation": "Post-COVID-19 syndrome with reduced DLCO indicates impaired gas exchange, likely from interstitial lung involvement. Low-to-moderate intensity continuous aerobic exercise (RPE 11-13, 40-60% capacity) improves exercise tolerance and functional capacity while monitoring oxygen saturation. Supplemental oxygen maintains SpO2 >88-90% during exercise, preventing hypoxemic stress. Option A is incorrect because high-intensity interval training may cause excessive oxygen desaturation in patients with impaired diffusion capacity and could worsen symptoms. Option B is incorrect as supervised exercise is safe and beneficial for improving functional capacity; complete avoidance leads to deconditioning. Option D is incorrect because while IMT may be beneficial as an adjunct, aerobic exercise is essential for improving overall functional capacity and shouldn't be avoided.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "Frownfelter D, Dean E. Cardiovascular and Pulmonary Physical Therapy: Evidence and Practice. 5th ed. St. Louis: Mosby; 2012."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 41-year-old patient presents with chronic lateral hip pain that worsens when lying on the affected side and during single-leg stance. Ober's test is positive, and resisted hip abduction reproduces pain. Palpation reveals tenderness over the greater trochanter. What is the MOST appropriate intervention?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Aggressive ITB stretching and foam rolling",
+            "B": "Corticosteroid injection into the greater trochanteric bursa",
+            "C": "High-resistance hip abductor strengthening",
+            "D": "Progressive hip abductor strengthening with ITB stretching and activity modification"
+        },
+        "explanation": "Greater trochanteric pain syndrome (GTPS), often called trochanteric bursitis, is more commonly a gluteus medius/minimus tendinopathy. The positive Ober's test indicates ITB tightness, and painful resisted abduction suggests gluteal tendinopathy. Evidence supports progressive eccentric strengthening of hip abductors, gentle ITB stretching, and activity modification (avoiding prolonged hip adduction). Option A is incorrect because aggressive foam rolling/stretching can irritate the condition; gentle stretching combined with strengthening is more effective. Option B is incorrect as corticosteroid injections provide temporary relief but don't address the underlying tendinopathy and may impair tendon healing long-term. Option C is incorrect because jumping to high-resistance strengthening without progressive loading can exacerbate tendinopathy; gradual load progression is essential.",
+        "references": [
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017.",
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 71-year-old patient with Guillain-Barré syndrome is in the acute phase with ascending weakness now affecting the upper extremities. Vital capacity has decreased to 18 mL/kg. What is the MOST critical monitoring parameter?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Respiratory function including vital capacity and negative inspiratory force",
+            "B": "Deep tendon reflexes and sensory testing",
+            "C": "Manual muscle testing of all extremities",
+            "D": "Autonomic function including heart rate variability"
+        },
+        "explanation": "In acute GBS with ascending paralysis and declining vital capacity (normal >65-75 mL/kg), respiratory failure is the most life-threatening complication. Vital capacity <20 mL/kg and negative inspiratory force >-30 cmH2O indicate impending respiratory failure requiring intubation. Continuous monitoring is critical. Option B is incorrect because while areflexia and sensory changes characterize GBS, they don't pose immediate life threat; respiratory compromise is the priority. Option C is incorrect as muscle strength monitoring is important but secondary to respiratory status; strength changes are expected in GBS progression. Option D is incorrect because while autonomic dysfunction occurs in GBS (blood pressure fluctuations, arrhythmias), respiratory failure is the most immediate life-threatening complication requiring constant vigilance.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Umphred DA, Lazaro RT, Roller ML, Burton GU. Umphred's Neurological Rehabilitation. 6th ed. St. Louis: Elsevier; 2013."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 27-year-old dancer presents with chronic plantar heel pain that is worst with the first steps in the morning. Palpation reveals tenderness at the medial calcaneal tubercle. Passive great toe extension reproduces pain. Which intervention has the STRONGEST evidence for long-term management?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Night splints maintaining ankle dorsiflexion",
+            "B": "Progressive plantar fascia stretching and eccentric strengthening of foot intrinsics",
+            "C": "Corticosteroid injection into the plantar fascia",
+            "D": "Complete rest and avoidance of weight-bearing activities"
+        },
+        "explanation": "Plantar fasciitis (more accurately plantar fasciopathy) responds best to progressive loading strategies including plantar fascia-specific stretching (toe extension stretch) and eccentric strengthening of foot intrinsics and calf muscles. This promotes tissue remodeling and addresses the degenerative nature of the condition. Option A is incorrect because while night splints can provide short-term symptom relief, evidence for long-term benefit is limited and they're typically adjunct treatment. Option C is incorrect as corticosteroid injections provide short-term relief but may increase risk of plantar fascia rupture and don't address underlying pathology. Option D is incorrect because complete rest leads to deconditioning and doesn't promote tissue adaptation; progressive loading within tolerance is more effective.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 66-year-old patient post-CABG surgery (day 3) develops new-onset atrial fibrillation with rapid ventricular response (HR 142 bpm irregular). Blood pressure is 108/72 mmHg, and the patient reports palpitations but denies chest pain. What is the MOST appropriate action?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Notify the nursing staff immediately and postpone therapy session",
+            "B": "Continue with gentle ROM exercises while monitoring vital signs closely",
+            "C": "Have the patient perform Valsalva maneuver to slow heart rate",
+            "D": "Initiate progressive ambulation to improve cardiac function"
+        },
+        "explanation": "New-onset atrial fibrillation with rapid ventricular response (RVR) post-cardiac surgery requires immediate medical evaluation. While the patient is hemodynamically stable (adequate BP, no chest pain), the rapid irregular rate reduces cardiac output and increases risk of thromboembolism. Medical management (rate control, anticoagulation) is needed before continuing therapy. Option B is incorrect because continuing therapy with new-onset AFib/RVR without medical clearance is unsafe; the arrhythmia needs assessment and management first. Option C is incorrect as Valsalva maneuver is contraindicated post-cardiac surgery (sternal precautions) and inappropriate for managing AFib/RVR. Option D is incorrect because ambulation with uncontrolled rapid AFib could worsen hemodynamics and increase fall risk from potential dizziness or syncope.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "Goodman CC, Fuller KS. Pathology: Implications for the Physical Therapist. 4th ed. St. Louis: Elsevier; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 52-year-old patient with incomplete C6 spinal cord injury (ASIA C) demonstrates 3/5 wrist extension strength. Which functional activity is MOST realistic to achieve with appropriate adaptive equipment?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Independent transfers without sliding board",
+            "B": "Independent wheelchair propulsion on all surfaces",
+            "C": "Independent feeding with adaptive equipment",
+            "D": "Independent standing pivot transfers"
+        },
+        "explanation": "C6 level injury with functional wrist extension (3/5) enables tenodesis grasp when combined with adaptive equipment. Independent feeding using universal cuff, built-up handles, or adapted utensils is realistic. Wrist extension creates passive finger flexion for grasp. ASIA C indicates some motor function below the level. Option A is incorrect because independent transfers without equipment require triceps function (C7), hand function, and significant upper body strength not present at C6. Option B is incorrect as independent wheelchair propulsion on all surfaces (especially inclines) requires triceps strength and endurance; C6 level typically requires power wheelchair or assistance on challenging terrain. Option D is incorrect because standing pivot transfers require lower extremity function and standing ability not present in C6 injury.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Umphred DA, Lazaro RT, Roller ML, Burton GU. Umphred's Neurological Rehabilitation. 6th ed. St. Louis: Elsevier; 2013."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 19-year-old female basketball player presents with anterior knee pain and reports her knee 'giving way' during deceleration and cutting. Lachman test is 2+ with soft endpoint. Pivot shift test is positive. What is the MOST likely injured structure?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Anterior cruciate ligament",
+            "B": "Posterior cruciate ligament",
+            "C": "Medial collateral ligament",
+            "D": "Lateral meniscus"
+        },
+        "explanation": "Positive Lachman test (2+ with soft endpoint) and positive pivot shift indicate ACL rupture. The mechanism (deceleration, cutting) and symptoms (instability, giving way) are classic for ACL injury. Lachman is the most sensitive test for ACL integrity, and pivot shift is highly specific. The soft endpoint indicates complete tear. Option B is incorrect because PCL injury presents with positive posterior drawer test and posterior sag sign, not Lachman or pivot shift; mechanism is usually dashboard injury or fall on flexed knee. Option C is incorrect as MCL injury presents with valgus stress test positivity and medial joint line tenderness without Lachman or pivot shift positivity. Option D is incorrect because meniscus tears cause joint line pain, clicking, and positive McMurray test, not anterior instability or positive Lachman.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 47-year-old patient with cystic fibrosis presents with increased sputum production and decreased exercise tolerance. Auscultation reveals bilateral crackles in the bases. What is the MOST appropriate airway clearance technique?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Incentive spirometry with sustained maximal inspiration",
+            "B": "Postural drainage in head-down positions only",
+            "C": "High-frequency chest wall oscillation (HFCWO) vest therapy",
+            "D": "Active cycle breathing technique (ACBT) with positive expiratory pressure (PEP)"
+        },
+        "explanation": "CF patients with increased secretions benefit from active airway clearance techniques. ACBT combined with PEP device is evidence-based: ACBT includes breathing control, thoracic expansion, and forced expiratory technique (huffing) to mobilize secretions; PEP maintains airway patency and enhances collateral ventilation. This combination is effective and promotes independence. Option A is incorrect because incentive spirometry targets lung expansion, not secretion clearance; it's more appropriate for post-operative atelectasis prevention. Option B is incorrect because head-down postural drainage is no longer recommended due to gastroesophageal reflux risk and is less effective than active techniques; modified positions are preferred. Option C is incorrect while HFCWO is an acceptable adjunct, ACBT with PEP is more cost-effective, portable, and evidence supports it as first-line treatment.",
+        "references": [
+            "Frownfelter D, Dean E. Cardiovascular and Pulmonary Physical Therapy: Evidence and Practice. 5th ed. St. Louis: Mosby; 2012.",
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 34-year-old patient with multiple sclerosis (relapsing-remitting type) is experiencing an acute exacerbation with increased lower extremity spasticity and fatigue. What is the MOST appropriate intervention approach during this acute phase?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Intensive progressive resistance training to maintain strength",
+            "B": "Energy conservation techniques and gentle range of motion exercises",
+            "C": "Prolonged ice application to reduce spasticity",
+            "D": "Aggressive aerobic conditioning to improve endurance"
+        },
+        "explanation": "During MS acute exacerbation, the focus should be on energy conservation, preventing complications, and gentle ROM to maintain mobility without exacerbating symptoms or fatigue. Over-exertion can worsen relapse symptoms due to MS-related heat sensitivity and neurological vulnerability. Option A is incorrect because intensive resistance training during acute exacerbation can worsen fatigue and potentially exacerbate neurological symptoms; this should be reserved for stable/remission periods. Option C is incorrect while cold can temporarily reduce spasticity, prolonged application may cause excessive cooling and increased tone; brief cooling is more appropriate. Option D is incorrect because aggressive aerobic exercise during exacerbation increases core temperature (worsening symptoms), depletes energy reserves, and may prolong recovery time.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Umphred DA, Lazaro RT, Roller ML, Burton GU. Umphred's Neurological Rehabilitation. 6th ed. St. Louis: Elsevier; 2013."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 55-year-old patient presents with gradual onset shoulder pain and progressive difficulty with overhead reaching. Passive ROM reveals 110 degrees of abduction and 30 degrees of external rotation with capsular end-feel. Internal rotation is limited to sacrum. What is the MOST likely diagnosis?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Rotator cuff tear",
+            "B": "Adhesive capsulitis (frozen shoulder)",
+            "C": "Subacromial impingement syndrome",
+            "D": "Superior labral tear"
+        },
+        "explanation": "Adhesive capsulitis presents with global restriction of both active and passive ROM in a capsular pattern (external rotation most limited, then abduction, then internal rotation) with capsular end-feel. The progressive loss of motion with pain is characteristic. Option A is incorrect because rotator cuff tears typically show greater passive ROM than active ROM with weakness; the capsular pattern and firm capsular end-feel are not characteristic. Option C is incorrect as impingement presents with painful arc and relatively preserved passive ROM; the global restriction with capsular pattern doesn't fit. Option D is incorrect because labral tears typically cause clicking, catching, and pain with specific movements but don't present with progressive global ROM loss and capsular pattern.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 61-year-old patient with dilated cardiomyopathy (EF 25%) presents for exercise testing. At rest, the patient exhibits bibasilar crackles and 2+ pitting edema in bilateral lower extremities. What is the MOST appropriate initial exercise mode?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Treadmill walking at self-selected pace",
+            "B": "Cycle ergometer with progressive resistance",
+            "C": "Aquatic therapy in warm water pool",
+            "D": "Delay exercise testing until medical stabilization of heart failure symptoms"
+        },
+        "explanation": "This patient shows signs of decompensated heart failure (pulmonary edema from crackles, peripheral edema). Exercise testing and training should be delayed until medical optimization stabilizes volume status and reduces congestion. Exercising in a decompensated state increases risk of acute decompensation. Option A is incorrect because treadmill exercise with active pulmonary edema and volume overload could precipitate acute heart failure exacerbation. Option B is incorrect for the same reason as option A; any exercise mode is inappropriate until stabilization occurs. Option C is incorrect because aquatic therapy in warm water increases venous return and cardiac preload, potentially worsening heart failure symptoms; cool water therapy may be used after stabilization.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "American College of Sports Medicine. ACSM's Guidelines for Exercise Testing and Prescription. 10th ed. Philadelphia: Wolters Kluwer; 2018."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 9-month-old infant demonstrates inability to sit independently, persistent asymmetric tonic neck reflex (ATNR), and obligatory reactions to postural changes. What is the MOST appropriate developmental intervention?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Neurodevelopmental treatment (NDT) to inhibit primitive reflexes and facilitate postural reactions",
+            "B": "Strengthening exercises in supine and prone positions",
+            "C": "Passive range of motion exercises only",
+            "D": "Constraint-induced movement therapy for the less-affected side"
+        },
+        "explanation": "Persistent primitive reflexes (ATNR beyond 6 months) and absence of postural reactions indicate CNS dysfunction, likely cerebral palsy. NDT approach focuses on inhibiting abnormal reflexes and facilitating normal movement patterns and postural reactions necessary for functional development. Option B is incorrect because traditional strengthening doesn't address abnormal reflex activity and movement patterns; the issue is neurological control, not strength alone. Option C is incorrect as passive ROM alone doesn't facilitate active motor control, postural reactions, or functional skills needed for development. Option D is incorrect because CIMT is appropriate for learned non-use in higher-functioning children with hemiplegia, not for infants with global developmental delay and persistent primitive reflexes.",
+        "references": [
+            "Campbell SK, Palisano RJ, Orlin MN. Physical Therapy for Children. 5th ed. St. Louis: Elsevier; 2017.",
+            "Tecklin JS. Pediatric Physical Therapy. 5th ed. Philadelphia: Lippincott Williams & Wilkins; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 43-year-old patient reports sharp, radiating pain into the buttock and posterior thigh that worsens with prolonged sitting. Slump test is positive, but straight leg raise is negative. Palpation reveals tenderness over the piriformis muscle. What is the MOST appropriate intervention?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Lumbar traction to decompress nerve roots",
+            "B": "Aggressive hamstring stretching to improve flexibility",
+            "C": "Piriformis stretching and sciatic nerve gliding exercises",
+            "D": "Strengthening of hip external rotators"
+        },
+        "explanation": "Piriformis syndrome presents with buttock pain radiating down posterior thigh from sciatic nerve irritation by the piriformis muscle. Positive slump test (neural tension) with negative SLR (ruling out lumbar radiculopathy) and piriformis tenderness are diagnostic. Treatment includes piriformis stretching and neural gliding. Option A is incorrect because the pathology is peripheral (piriformis) not lumbar spine; traction wouldn't address muscle compression of the sciatic nerve. Option B is incorrect as hamstrings aren't the primary problem; piriformis tightness is compressing the nerve; hamstring stretching is secondary. Option D is incorrect because strengthening external rotators (including piriformis) would increase compression on the sciatic nerve; lengthening/relaxing the piriformis is the priority.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old patient two days post-pneumonectomy for lung cancer develops sudden onset dyspnea, asymmetric chest expansion, and tracheal deviation toward the surgical side. What is the MOST likely complication?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Tension pneumothorax on the operative side",
+            "B": "Mediastinal shift from overexpansion of the remaining lung",
+            "C": "Pulmonary embolism",
+            "D": "Acute respiratory distress syndrome"
+        },
+        "explanation": "Post-pneumonectomy, the remaining lung gradually expands to fill the thoracic space, and the mediastinum shifts toward the operative side (this is normal). However, acute tracheal deviation with dyspnea suggests rapid mediastinal shift or potential complications. Tracheal deviation toward the surgical side with decreased chest expansion suggests overexpansion issues or normal expected shift. Option A is incorrect because tension pneumothorax would cause tracheal deviation AWAY from the affected side and hyperresonance, not toward it. Option C is incorrect while PE is a risk post-surgery, it doesn't cause tracheal deviation or asymmetric chest expansion; symptoms include tachycardia, hypoxemia, and pleuritic pain. Option D is incorrect because ARDS presents with bilateral infiltrates, severe hypoxemia, and doesn't cause tracheal deviation.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "Goodman CC, Fuller KS. Pathology: Implications for the Physical Therapist. 4th ed. St. Louis: Elsevier; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 76-year-old patient presents with resting tremor of the right hand, cogwheel rigidity, and bradykinesia. The patient also demonstrates retropulsion during pull test. What is the PRIMARY fall risk factor requiring immediate intervention?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Resting tremor affecting hand control",
+            "B": "Cogwheel rigidity limiting movement smoothness",
+            "C": "Bradykinesia slowing movement initiation",
+            "D": "Postural instability evidenced by retropulsion"
+        },
+        "explanation": "This patient has Parkinson's disease (cardinal signs: resting tremor, rigidity, bradykinesia, postural instability). Positive pull test (retropulsion - inability to recover balance when pulled backward) indicates postural instability, which is the primary fall risk factor requiring immediate intervention including balance training and fall prevention strategies. Option A is incorrect while tremor is distressing, resting tremor doesn't significantly increase fall risk as it decreases with movement and doesn't affect postural control. Option B is incorrect because while rigidity affects movement quality, it's not the primary fall risk; patients can compensate with cognitive strategies. Option C is incorrect as bradykinesia affects functional mobility speed but postural instability with inability to recover balance is the most direct fall risk.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Umphred DA, Lazaro RT, Roller ML, Burton GU. Umphred's Neurological Rehabilitation. 6th ed. St. Louis: Elsevier; 2013."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 31-year-old patient sustained a Grade II MCL sprain to the knee two weeks ago. Current examination reveals 2+ laxity with valgus stress at 30 degrees flexion and minimal pain. What is the MOST appropriate progression in rehabilitation?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Continue knee immobilization for 4 more weeks to ensure healing",
+            "B": "Begin progressive closed-chain strengthening with controlled ROM",
+            "C": "Initiate plyometric training and agility drills",
+            "D": "Start running program on level surfaces"
+        },
+        "explanation": "Grade II MCL sprain at 2 weeks with residual laxity but minimal pain is appropriate for progressive strengthening. Closed-chain exercises (squats, leg press) stress the MCL less than open-chain and promote functional strength while protecting the healing ligament. Controlled ROM prevents stiffness without overstressing healing tissue. Option A is incorrect because prolonged immobilization beyond 1-2 weeks causes joint stiffness and muscle atrophy; controlled mobilization promotes better ligament healing. Option C is incorrect as plyometrics and agility require full ROM, strength, and ligament stability; implementing these at 2 weeks risks re-injury. Option D is incorrect because running requires near-normal strength and stability; residual laxity and 2-week timeframe make running premature and risking re-injury.",
+        "references": [
+            "Brotzman SB, Manske RC. Clinical Orthopaedic Rehabilitation: A Team Approach. 4th ed. Philadelphia: Elsevier; 2018.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 53-year-old patient with peripheral arterial disease complains of bilateral calf claudication after walking 200 feet. Ankle-brachial index (ABI) is 0.65 bilaterally. What is the MOST evidence-based exercise prescription?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Supervised treadmill walking to near-maximal claudication pain, then rest",
+            "B": "Avoid all exercise due to risk of tissue ischemia",
+            "C": "Aquatic walking to avoid weight-bearing stress",
+            "D": "Stationary cycling to avoid impact on lower extremities"
+        },
+        "explanation": "PAD with moderate severity (ABI 0.65 indicates moderate disease) benefits most from supervised treadmill walking to near-maximal claudication pain (typically 3-4/5 on pain scale), followed by rest until pain resolves, then repeat. This intermittent claudication training promotes collateral vessel development and improves walking distance. Evidence strongly supports this approach. Option B is incorrect because supervised exercise is the cornerstone of PAD treatment; appropriate exercise promotes angiogenesis and functional improvement. Option C is incorrect while aquatic exercise reduces joint stress, weight-bearing treadmill walking is most effective for PAD as it reproduces the functional demand that stimulates adaptation. Option D is incorrect because while cycling may be used as adjunct, treadmill walking is superior for improving functional walking capacity in PAD.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "American College of Sports Medicine. ACSM's Guidelines for Exercise Testing and Prescription. 10th ed. Philadelphia: Wolters Kluwer; 2018."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 47-year-old patient with Myasthenia Gravis reports increased weakness and difficulty swallowing by late afternoon. What is the MOST appropriate timing and intensity for therapeutic exercise?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "High-intensity exercise in the afternoon when medications peak",
+            "B": "Low-to-moderate intensity exercise in the morning when patient is strongest",
+            "C": "Multiple short bouts throughout the day regardless of fatigue",
+            "D": "Avoid all exercise due to risk of myasthenic crisis"
+        },
+        "explanation": "Myasthenia Gravis causes fatigable weakness due to autoimmune blockade of acetylcholine receptors at the neuromuscular junction. Exercise should be low-to-moderate intensity during peak energy times (morning) before fatigue accumulates. Frequent rest breaks are essential to prevent excessive fatigue that could trigger crisis. Option A is incorrect because high-intensity exercise can precipitate myasthenic crisis through excessive neuromuscular junction fatigue; submaximal exercise is safer. Option C is incorrect because exercising through significant fatigue risks exacerbating weakness and potential crisis; respecting fatigue patterns is critical. Option D is incorrect because appropriate low-intensity exercise maintains function and prevents deconditioning; complete avoidance leads to further weakness from disuse.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Goodman CC, Fuller KS. Pathology: Implications for the Physical Therapist. 4th ed. St. Louis: Elsevier; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 64-year-old patient presents six months post-total knee arthroplasty with continued difficulty descending stairs and persistent quadriceps weakness (3+/5). ROM is 0-120 degrees. What is the MOST likely contributor to continued functional limitation?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Arthrogenic muscle inhibition of the quadriceps",
+            "B": "Insufficient knee flexion range of motion",
+            "C": "Patellofemoral arthritis",
+            "D": "Hamstring contracture"
+        },
+        "explanation": "Arthrogenic muscle inhibition (AMI) is persistent reflex inhibition of the quadriceps following knee joint injury or surgery, even after inflammation resolves. It prevents full quadriceps activation despite voluntary effort, limiting functional recovery. At 6 months post-TKA with adequate ROM (120° is functional), AMI is the likely cause of persistent weakness. Option B is incorrect because 120 degrees flexion is adequate for most functional activities including stairs; the limitation is strength, not ROM. Option C is incorrect as patellofemoral arthritis would be addressed by the TKA; continued PF pain would present differently than isolated quadriceps weakness. Option D is incorrect because hamstring contracture would limit knee extension ROM and wouldn't specifically cause quadriceps weakness; the patient has normal extension.",
+        "references": [
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017.",
+            "Brotzman SB, Manske RC. Clinical Orthopaedic Rehabilitation: A Team Approach. 4th ed. Philadelphia: Elsevier; 2018."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 71-year-old patient with severe COPD (FEV1 32% predicted) and chronic hypercapnia (PaCO2 58 mmHg) is receiving supplemental oxygen at 2 L/min via nasal cannula. What is the PRIMARY concern if oxygen is increased to 6 L/min?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Oxygen toxicity from excessive FiO2",
+            "B": "Worsening of ventilation-perfusion mismatch",
+            "C": "Development of acute respiratory alkalosis",
+            "D": "Suppression of hypoxic respiratory drive leading to hypoventilation"
+        },
+        "explanation": "Patients with chronic hypercapnia develop tolerance to elevated CO2 and rely on hypoxic drive (low oxygen) to stimulate breathing. Excessive supplemental oxygen can suppress this hypoxic drive, leading to decreased respiratory rate, worsening hypoventilation, and dangerous CO2 retention (acute hypercapnia). Controlled low-flow oxygen (usually 1-3 L/min) maintains SpO2 88-92% without suppressing drive. Option A is incorrect because oxygen toxicity requires very high FiO2 (>60%) for prolonged periods (>24-48 hours); 6 L/min via nasal cannula wouldn't reach toxic levels. Option B is incorrect while V/Q mismatch exists in COPD, the immediate concern with increased oxygen is hypoxic drive suppression, not V/Q worsening. Option C is incorrect because respiratory alkalosis results from hyperventilation; the concern here is the opposite - hypoventilation causing respiratory acidosis.",
+        "references": [
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017.",
+            "Frownfelter D, Dean E. Cardiovascular and Pulmonary Physical Therapy: Evidence and Practice. 5th ed. St. Louis: Mosby; 2012."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 5-year-old child with Down syndrome demonstrates atlantoaxial instability with >5mm distance between the atlas and dens on flexion radiograph. The child is asymptomatic. What is the MOST appropriate management recommendation?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Immediate surgical fusion of C1-C2",
+            "B": "No activity restrictions necessary if asymptomatic",
+            "C": "Avoid high-risk activities including gymnastics, diving, and contact sports",
+            "D": "Fit for cervical orthosis to wear during all activities"
+        },
+        "explanation": "Atlantoaxial instability (AAI) in Down syndrome with >4.5-5mm atlanto-dens interval requires activity restrictions to prevent spinal cord compression, even when asymptomatic. High-risk activities causing neck flexion, extension, or impact should be avoided. Special Olympics and AAP provide guidelines for activity restriction. Option A is incorrect because asymptomatic AAI typically doesn't require surgery; surgery is reserved for symptomatic cases (neurological signs, >10mm instability) or progressive instability. Option B is incorrect because the significant instability (>5mm) poses risk of spinal cord injury with trauma or extreme neck motion, even without current symptoms. Option D is incorrect because cervical orthosis doesn't prevent catastrophic injury during high-impact activities and isn't typically used for asymptomatic AAI; activity restriction is more appropriate.",
+        "references": [
+            "Campbell SK, Palisano RJ, Orlin MN. Physical Therapy for Children. 5th ed. St. Louis: Elsevier; 2017.",
+            "Tecklin JS. Pediatric Physical Therapy. 5th ed. Philadelphia: Lippincott Williams & Wilkins; 2015."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 39-year-old pregnant patient at 32 weeks gestation reports severe pubic symphysis pain that worsens with walking and single-leg stance. The ASLR test is positive bilaterally. What is the MOST appropriate intervention?",
+        "correctAnswer": "A",
+        "options": {
+            "A": "Pelvic support belt and pelvic floor muscle training",
+            "B": "Joint mobilization of the pubic symphysis",
+            "C": "Aggressive hip adductor stretching",
+            "D": "Complete bed rest until delivery"
+        },
+        "explanation": "Symphysis pubis dysfunction (SPD) during pregnancy benefits from pelvic support belts to provide external stability and pelvic floor/core strengthening to improve force closure of the pelvis. Positive ASLR indicates pelvic girdle instability. The belt reduces shear stress on the symphysis during movement. Option B is incorrect because symphysis pubis mobilization is contraindicated during pregnancy due to increased ligamentous laxity from relaxin and risk of further instability. Option C is incorrect as aggressive stretching may worsen instability in already lax ligaments; gentle stretching within comfort may be used but isn't the primary treatment. Option D is incorrect because bed rest causes deconditioning and doesn't address the instability; modified activity with support is more appropriate.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Dutton M. Dutton's Orthopaedic Examination, Evaluation, and Intervention. 4th ed. New York: McGraw-Hill Education; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 57-year-old patient with bronchiectasis produces 60 mL of purulent sputum daily. Auscultation reveals coarse crackles in the right lower lobe. What is the MOST appropriate airway clearance intervention sequence?",
+        "correctAnswer": "D",
+        "options": {
+            "A": "Postural drainage followed by percussion and vibration",
+            "B": "Incentive spirometry followed by directed coughing",
+            "C": "Flutter valve therapy followed by autogenic drainage",
+            "D": "Oscillating PEP device followed by huffing technique"
+        },
+        "explanation": "Bronchiectasis with copious purulent secretions requires effective airway clearance. Oscillating PEP devices (Acapella, Flutter) combine positive expiratory pressure with oscillations to mobilize secretions and prevent airway collapse. Following with huffing technique (forced expiratory technique) effectively clears mobilized secretions to the central airways for expectoration. This combination is evidence-based. Option A is incorrect while postural drainage with percussion can be effective, it's labor-intensive, requires assistance, and is less preferred than active techniques; modified positions without head-down are now recommended. Option B is incorrect because incentive spirometry is for lung expansion/atelectasis prevention, not secretion clearance; it doesn't effectively mobilize thick secretions. Option C is incorrect while Flutter valve is useful, autogenic drainage alone may be less effective with thick, copious secretions; huffing is more efficient for final clearance.",
+        "references": [
+            "Frownfelter D, Dean E. Cardiovascular and Pulmonary Physical Therapy: Evidence and Practice. 5th ed. St. Louis: Mosby; 2012.",
+            "Hillegass E. Essentials of Cardiopulmonary Physical Therapy. 4th ed. St. Louis: Elsevier; 2017."
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 26-year-old patient sustained a complete C7 spinal cord injury three weeks ago. Which wheelchair prescription is MOST appropriate for long-term community mobility?",
+        "correctAnswer": "B",
+        "options": {
+            "A": "Power wheelchair with sip-and-puff controls",
+            "B": "Lightweight manual wheelchair with hand rims",
+            "C": "Heavy-duty manual wheelchair with one-arm drive system",
+            "D": "Manual wheelchair with power-assist wheels"
+        },
+        "explanation": "C7 complete SCI preserves triceps function, wrist extension, and some finger flexors, enabling independent manual wheelchair propulsion on most surfaces. A lightweight manual wheelchair maximizes independence and is appropriate for community mobility. The patient has sufficient upper extremity function for manual propulsion. Option A is incorrect because power wheelchair with sip-and-puff is for high tetraplegia (C1-C4) without upper extremity function; it's unnecessarily restrictive for C7 level. Option C is incorrect as one-arm drive is for hemiplegia or asymmetric upper extremity function; C7 SCI typically has bilateral upper extremity function. Option D is incorrect because while power-assist may be helpful on some terrains, it's not necessary for primary mobility at C7 level; it may be considered for very active users or challenging environments.",
+        "references": [
+            "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation. 6th ed. Philadelphia: FA Davis; 2014.",
+            "Umphred DA, Lazaro RT, Roller ML, Burton GU. Umphred's Neurological Rehabilitation. 6th ed. St. Louis: Elsevier; 2013."
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 22-year-old gymnast reports a 'clunk' sensation in the shoulder during overhead movements. O'Brien's test is positive, and the patient has full ROM without instability. MRI reveals a SLAP lesion (Type II). What is the MOST appropriate initial intervention?",
+        "correctAnswer": "C",
+        "options": {
+            "A": "Immediate referral for arthroscopic surgical repair",
+            "B": "Aggressive rotator cuff strengthening with heavy resistance",
+            "C": "Scapular stabilization and rotator cuff strengthening with activity modification",
+            "D": "Complete shoulder immobilization for 6 weeks"
+        },
+        "explanation": "Type II SLAP lesions in athletes can be managed conservatively initially with scapular stabilization, rotator cuff strengthening (focusing on dynamic stability), and activity modification to reduce overhead stress. Many athletes respond to conservative treatment, avoiding surgery. Surgery is reserved for failed conservative management. Option A is incorrect because immediate surgery isn't first-line for SLAP lesions unless there's significant instability or mechanical symptoms preventing function; conservative trial is appropriate. Option B is incorrect as heavy resistance may aggravate the labral tear; progressive, controlled loading with proper scapular mechanics is more appropriate. Option D is incorrect because prolonged immobilization causes shoulder stiffness and isn't indicated for isolated SLAP lesions without surgery; controlled early motion is preferred.",
+        "references": [
+            "Magee DJ. Orthopedic Physical Assessment. 6th ed. St. Louis: Elsevier; 2014.",
+            "Brotzman SB, Manske RC. Clinical Orthopaedic Rehabilitation: A Team Approach. 4th ed. Philadelphia: Elsevier; 2018."
+        ]
     }
 ]
