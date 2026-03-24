@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Activity, Badge, BookOpen, CardSimIcon, DatabaseZap, GraduationCap, PackageOpen, WalletCards, WalletCardsIcon } from 'lucide-react';
+import { Activity, BookOpen, WalletCardsIcon } from 'lucide-react';
 import QuestionContainer from './components/QuestionContainer';
 import StudyMode from './components/StudyMode';
 
