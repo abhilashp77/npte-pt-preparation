@@ -4,6 +4,8 @@ import com.npte.portal.dto.FollowUpAnswerRequest;
 import com.npte.portal.dto.FollowUpAnswerResponse;
 import com.npte.portal.dto.FollowUpOptionsResponse;
 import com.npte.portal.dto.FollowUpRequest;
+import com.npte.portal.dto.HintRequest;
+import com.npte.portal.dto.HintResponse;
 import com.npte.portal.service.NvidiaChatService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
@@ -33,5 +35,10 @@ public class FollowUpController {
                 request.getExplanation(),
                 request.getFollowUpQuestion()
         );
+    }
+
+    @PostMapping("/hint")
+    public HintResponse getHint(@RequestBody HintRequest request) {
+        return nvidiaChatService.generateHint(request.getQuestion());
     }
 }

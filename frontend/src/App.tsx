@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Activity, BookOpen, GraduationCap } from 'lucide-react';
+import { Activity, Badge, BookOpen, CardSimIcon, DatabaseZap, GraduationCap, PackageOpen, WalletCards, WalletCardsIcon } from 'lucide-react';
 import QuestionContainer from './components/QuestionContainer';
 import StudyMode from './components/StudyMode';
 
@@ -41,7 +41,7 @@ function App() {
                   : 'text-slate-500 hover:text-brand-600 hover:bg-slate-50'
                   }`}
               >
-                <GraduationCap size={18} />
+                <WalletCardsIcon size={18} />
                 <span>Flash Cards</span>
               </button>
 

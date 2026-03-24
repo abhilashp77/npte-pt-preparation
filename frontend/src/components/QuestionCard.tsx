@@ -1,5 +1,7 @@
+import { useState } from 'react';
 import type { Question } from '../types';
-import { Target } from 'lucide-react';
+import { Target, Lightbulb, Loader2 } from 'lucide-react';
+import { fetchHint } from '../api';
 
 interface QuestionCardProps {
   question: Question;
@@ -24,6 +26,23 @@ export default function QuestionCard({
   // Letter mapping for options
   const optionLetters = ['A', 'B', 'C', 'D'];
 
+  // Hint State
+  const [hint, setHint] = useState<string | null>(null);
+  const [isLoadingHint, setIsLoadingHint] = useState(false);
+
+  const handleGetHint = async () => {
+    setIsLoadingHint(true);
+    try {
+      const response = await fetchHint({ question: question.question });
+      setHint(response.hint);
+    } catch (error) {
+      console.error("Failed to fetch hint", error);
+      setHint("Failed to generate hint at this time.");
+    } finally {
+      setIsLoadingHint(false);
+    }
+  };
+
   return (
     <div className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden">
       {/* Header Info */}
@@ -43,9 +62,31 @@ export default function QuestionCard({
 
       {/* Question Body */}
       <div className="p-6 sm:p-8">
-        <h2 className="text-xl sm:text-2xl font-semibold text-slate-800 leading-snug mb-8">
-          {question.id}. {question.question}
-        </h2>
+        <div className="flex justify-between items-start gap-4 mb-4">
+          <h2 className="text-xl sm:text-2xl font-semibold text-slate-800 leading-snug">
+            {question.id}. {question.question}
+          </h2>
+          
+          {!isAnswered && (
+            <button
+              onClick={handleGetHint}
+              disabled={isLoadingHint || hint !== null}
+              className="mt-1 flex-shrink-0 flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold text-amber-600 bg-amber-50 hover:bg-amber-100 rounded-lg transition-colors border border-amber-200/50 disabled:opacity-50 disabled:cursor-not-allowed"
+              title="Get a hint"
+            >
+              {isLoadingHint ? <Loader2 size={16} className="animate-spin" /> : <Lightbulb size={16} />}
+              Hint
+            </button>
+          )}
+        </div>
+
+        {/* Hint Display */}
+        {hint && !isAnswered && (
+          <div className="mb-6 p-4 bg-amber-50 rounded-xl border border-amber-100 flex gap-3 animate-in fade-in slide-in-from-top-2">
+            <Lightbulb className="text-amber-500 mt-0.5" size={20} />
+            <p className="text-slate-700 leading-relaxed text-sm">{hint}</p>
+          </div>
+        )}
 
         {/* Options */}
         <div className="space-y-3">

@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.npte.portal.dto.FollowUpAnswerResponse;
 import com.npte.portal.dto.FollowUpOptionsResponse;
+import com.npte.portal.dto.HintResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
@@ -106,6 +107,36 @@ public class NvidiaChatService {
             return FollowUpAnswerResponse.builder()
                     .question(followUpQuestion)
                     .answer("Unable to generate an answer at this time. Please try again later or consult your study materials.")
+                    .build();
+        }
+    }
+
+    /**
+     * Generate a hint for a given question.
+     */
+    public HintResponse generateHint(String question) {
+        String systemPrompt = """
+            You are an NPTE (National Physical Therapy Examination) study assistant.
+            A student is stuck on a theory/clinical application question and asked for a hint.
+            Provide a concise, helpful hint that guides them toward the right thinking process without giving away the exact answer.
+            
+            Rules:
+            - Keep the hint under 30 words
+            - Do NOT state the answer directly
+            - Point their attention to the key symptom, system, or differential fact mentioned in the question
+            """;
+
+        String userMessage = String.format("Question: %s\n\nPlease provide a short hint for this question:", question);
+
+        try {
+            String answer = callNvidiaApi(systemPrompt, userMessage);
+            return HintResponse.builder()
+                    .hint(answer)
+                    .build();
+        } catch (Exception e) {
+            log.error("Failed to generate hint from NVIDIA NIM: {}", e.getMessage());
+            return HintResponse.builder()
+                    .hint("Consider reviewing the core clinical concept or primary body system mentioned in the scenario.")
                     .build();
         }
     }

@@ -1,5 +1,5 @@
 import axios from 'axios';
-import type { Question, SubmitAnswerRequest, SubmitAnswerResponse, Topic, FollowUpRequest, FollowUpAnswerRequest, FollowUpOptionsResponse, FollowUpAnswerResponse } from './types';
+import type { Question, SubmitAnswerRequest, SubmitAnswerResponse, Topic, FollowUpRequest, FollowUpAnswerRequest, FollowUpOptionsResponse, FollowUpAnswerResponse, HintRequest, HintResponse } from './types';
 
 const getBaseUrl = () => {
   const envUrl = import.meta.env.VITE_API_BASE_URL;
@@ -51,5 +51,10 @@ export const fetchFollowUpOptions = async (request: FollowUpRequest): Promise<Fo
 
 export const fetchFollowUpAnswer = async (request: FollowUpAnswerRequest): Promise<FollowUpAnswerResponse> => {
   const { data } = await apiClient.post<FollowUpAnswerResponse>('/followup/answer', request);
+  return data;
+};
+
+export const fetchHint = async (request: HintRequest): Promise<HintResponse> => {
+  const { data } = await apiClient.post<HintResponse>('/followup/hint', request);
   return data;
 };

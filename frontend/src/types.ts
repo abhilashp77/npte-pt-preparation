@@ -48,3 +48,11 @@ export interface FollowUpAnswerResponse {
   question: string;
   answer: string;
 }
+
+export interface HintRequest {
+  question: string;
+}
+
+export interface HintResponse {
+  hint: string;
+}
