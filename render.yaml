@@ -43,7 +43,7 @@ services:
         sync: false
       - key: NVIDIA_API_KEY
         sync: false
-      - key: NVIDIA_SD3_API_KEY
+      - key: NVIDIA_IMAGE_API_KEY
         sync: false
 
   # Frontend

@@ -45,5 +45,6 @@ nvidia:
     key: ${NVIDIA_API_KEY:local-dummy-key}
     url: https://integrate.api.nvidia.com/v1
     model: meta/llama-3.1-8b-instruct
-  sd3:
-    key: ${NVIDIA_SD3_API_KEY:local-dummy-key}
+  image:
+    key: ${NVIDIA_IMAGE_API_KEY:local-dummy-key}
+    url: ${NVIDIA_IMAGE_API_URL:https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.2-klein-4b}

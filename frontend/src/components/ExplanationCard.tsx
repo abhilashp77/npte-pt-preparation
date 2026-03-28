@@ -172,11 +172,13 @@ export default function ExplanationCard({
                <h4 className="flex items-center gap-2 text-slate-900 font-semibold mb-3">
                  <Lightbulb size={20} className="text-teal-500" /> AI Medical Illustration
                </h4>
-               <img 
-                 src={`data:image/jpeg;base64,${imageGenerationResponse.base64Image}`} 
-                 alt="AI Generated Medical Illustration" 
-                 className="rounded-xl border border-slate-200 shadow-sm w-full max-w-2xl mx-auto" 
-               />
+                <img 
+                  src={imageGenerationResponse.base64Image.startsWith('data:') 
+                    ? imageGenerationResponse.base64Image 
+                    : `data:image/png;base64,${imageGenerationResponse.base64Image}`} 
+                  alt="AI Generated Medical Illustration" 
+                  className="rounded-xl border border-slate-200 shadow-sm w-full max-w-2xl mx-auto" 
+                />
             </div>
           )}
 
