@@ -41,4 +41,13 @@ public class FollowUpController {
     public HintResponse getHint(@RequestBody HintRequest request) {
         return nvidiaChatService.generateHint(request.getQuestion());
     }
+
+    @PostMapping("/generate-image")
+    public com.npte.portal.dto.ImageGenerationResponse generateImage(@RequestBody com.npte.portal.dto.ImageGenerationRequest request) {
+        return nvidiaChatService.generateMedicalImage(
+                request.getQuestion(),
+                request.getCorrectAnswer(),
+                request.getExplanation()
+        );
+    }
 }

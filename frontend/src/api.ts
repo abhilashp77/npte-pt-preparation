@@ -58,3 +58,9 @@ export const fetchHint = async (request: HintRequest): Promise<HintResponse> => 
   const { data } = await apiClient.post<HintResponse>('/followup/hint', request);
   return data;
 };
+
+export const generateCaseImage = async (request: import('./types').ImageGenerationRequest): Promise<import('./types').ImageGenerationResponse> => {
+  const { data } = await apiClient.post<import('./types').ImageGenerationResponse>('/followup/generate-image', request);
+  return data;
+};
+

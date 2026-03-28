@@ -3,7 +3,8 @@ import type { SubmitAnswerResponse, FollowUpAnswerResponse } from '../types';
 import { fetchFollowUpOptions, fetchFollowUpAnswer } from '../api';
 import { ArrowRight, BookMarked, CheckCircle, Info, MessageCircleQuestion, Loader2, Lightbulb, Send } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
-
+import { generateCaseImage } from '../api';
+import type { ImageGenerationResponse } from '../types';
 interface ExplanationCardProps {
   explanation: SubmitAnswerResponse;
   originalQuestion: string;
@@ -21,6 +22,8 @@ export default function ExplanationCard({
   const [isLoadingAnswer, setIsLoadingAnswer] = useState(false);
   const [showFollowUps, setShowFollowUps] = useState(false);
   const [customQuestion, setCustomQuestion] = useState('');
+  const [isGeneratingImage, setIsGeneratingImage] = useState(false);
+  const [imageGenerationResponse, setImageGenerationResponse] = useState<ImageGenerationResponse | null>(null);
 
   const handleAskFollowUp = async () => {
     if (followUpOptions.length > 0) {
@@ -46,6 +49,23 @@ export default function ExplanationCard({
       ]);
     } finally {
       setIsLoadingOptions(false);
+    }
+  };
+
+  const handleGenerateImage = async () => {
+    setIsGeneratingImage(true);
+    try {
+      const response = await generateCaseImage({
+        question: originalQuestion,
+        correctAnswer: explanation.correctAnswer,
+        explanation: explanation.explanation,
+      });
+      setImageGenerationResponse(response);
+    } catch (error) {
+      console.error('Failed to generate image', error);
+      alert('Failed to generate medical case image. Please check API keys and try again.');
+    } finally {
+      setIsGeneratingImage(false);
     }
   };
 
@@ -84,7 +104,23 @@ export default function ExplanationCard({
             </h3>
           </div>
 
-          <div className="flex gap-3">
+          <div className="flex flex-wrap gap-3 justify-end mt-4 sm:mt-0">
+            <button
+              onClick={handleGenerateImage}
+              disabled={isGeneratingImage || !!imageGenerationResponse}
+              className="px-4 py-2 sm:px-6 sm:py-3 bg-teal-50 text-teal-700 rounded-xl font-bold hover:bg-teal-100 transition-all shadow-sm border border-teal-200 flex items-center gap-2 disabled:opacity-50"
+            >
+              {isGeneratingImage ? (
+                <>
+                  <Loader2 size={18} className="animate-spin" /> Generating...
+                </>
+              ) : (
+                <>
+                  <Lightbulb size={18} /> Generate AI Illustration
+                </>
+              )}
+            </button>
+
             <button
               onClick={handleAskFollowUp}
               disabled={isLoadingOptions}
@@ -128,6 +164,19 @@ export default function ExplanationCard({
                   <img key={idx} src={img} alt="Reference" className="rounded-xl border border-slate-200 shadow-sm" />
                 ))}
               </div>
+            </div>
+          )}
+
+          {imageGenerationResponse && (
+            <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+               <h4 className="flex items-center gap-2 text-slate-900 font-semibold mb-3">
+                 <Lightbulb size={20} className="text-teal-500" /> AI Medical Illustration
+               </h4>
+               <img 
+                 src={`data:image/jpeg;base64,${imageGenerationResponse.base64Image}`} 
+                 alt="AI Generated Medical Illustration" 
+                 className="rounded-xl border border-slate-200 shadow-sm w-full max-w-2xl mx-auto" 
+               />
             </div>
           )}
 

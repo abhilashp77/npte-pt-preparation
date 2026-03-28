@@ -56,3 +56,13 @@ export interface HintRequest {
 export interface HintResponse {
   hint: string;
 }
+
+export interface ImageGenerationRequest {
+  question: string;
+  correctAnswer: string;
+  explanation: string;
+}
+
+export interface ImageGenerationResponse {
+  base64Image: string;
+}

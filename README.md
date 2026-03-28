@@ -137,6 +137,10 @@ docker-compose down
 docker-compose down -v
 ```
 
+##### kill process on port 8080
+```
+lsof -ti:8080 | xargs kill -9
+```
 ---
 
 # Tech Stack
