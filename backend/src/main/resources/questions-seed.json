@@ -1,4 +1,327 @@
 [
+   {
+      "bodySystem":"Musculoskeletal",
+      "difficulty":"Hard",
+      "questionText":"A 35-year-old female presents with insidious onset of anterior hip pain for 6 months, worsening with prolonged sitting and hip flexion activities. FADIR test is positive. Hip flexion ROM is 95° with reproduction of pain. X-ray reveals a cam-type femoroacetabular impingement (FAI) at the femoral head-neck junction. Hip abductor strength is 4/5 bilaterally. Which intervention is MOST appropriate as initial conservative management?",
+      "correctAnswer":"C",
+      "options":{
+         "A":"Aggressive hip flexor stretching in end-range hip flexion to restore full ROM and reduce impingement symptoms",
+         "B":"Hip joint distraction mobilization Grade IV to restore joint space and reduce cam impingement forces",
+         "C":"Activity modification to avoid end-range hip flexion, combined with hip abductor and external rotator strengthening and patient education on movement strategies",
+         "D":"Lumbar stabilization exercises exclusively, as anterior hip pain in this age group most commonly refers from the lumbar spine"
+      },
+      "explanation":"Conservative management of cam-type FAI centers on avoiding provocative positions (end-range hip flexion, adduction, and internal rotation — the FADIR position), strengthening the hip abductors and external rotators to optimize dynamic joint mechanics, and educating the patient on movement strategies (e.g., avoiding deep squats, modifying sitting posture). This approach reduces intra-articular stress at the impingement zone. Option A is incorrect — aggressive end-range hip flexion stretching directly loads the cam deformity against the acetabular rim, reproducing and potentially worsening the impingement; end-range positions are specifically contraindicated. Option B is incorrect — Grade IV distraction mobilization is not indicated as initial management for FAI; the problem is bony morphology, not capsular restriction, and aggressive mobilization into the impingement range is contraindicated. Option D is incorrect — while lumbar referral must be ruled out, the positive FADIR test with local reproduction of pain and confirmed imaging findings establish FAI as the primary diagnosis; lumbar stabilization alone is not appropriate.",
+      "references":[
+         "https://www.jospt.org/doi/10.2519/jospt.2016.0301",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510008/"
+      ]
+   },
+   {
+      "bodySystem":"Musculoskeletal",
+      "difficulty":"Hard",
+      "questionText":"A 52-year-old male with a 6-month history of plantar heel pain presents to PT. Pain is worst with the first few steps in the morning and after prolonged sitting, improving after walking for a few minutes. Palpation reveals point tenderness at the medial calcaneal tubercle. Windlass test is positive. BMI is 31. Dorsiflexion ROM with knee extended is 5° bilaterally. Which combination of interventions has the STRONGEST evidence for plantar fasciopathy?",
+      "correctAnswer":"A",
+      "options":{
+         "A":"High-load progressive resistance training (heavy slow resistance plantar flexion with towel toe curls), gastrocnemius-soleus stretching, and prefabricated orthotics",
+         "B":"Ultrasound therapy, plantar fascia massage, and custom orthotics for immediate symptom relief",
+         "C":"Night splinting in dorsiflexion, NSAIDs, and complete rest from weight-bearing activities for 6 weeks",
+         "D":"Plantar fascia-specific stretching (non-weight-bearing toe extension stretch) combined with corticosteroid injection for rapid pain control"
+      },
+      "explanation":"Current highest-level evidence (Rathleff et al., 2015 RCT; systematic reviews) supports high-load resistance training (heavy slow resistance — e.g., single-leg calf raises with towel toe extension to also load the plantar fascia) as superior to standard stretching for plantar fasciopathy. This directly loads and remodels the fascial tissue. Combined with gastrocnemius-soleus stretching (addressing the limited dorsiflexion, a key risk factor) and prefabricated orthotics (strong evidence for short-term pain relief), this represents the best-evidenced multimodal approach. Option B is incorrect — ultrasound has weak and inconsistent evidence for plantar fasciopathy; while orthotics are supported, passive modalities without loading exercise are inferior long-term. Option C is incorrect — complete rest promotes deconditioning of the plantar fascia and is not recommended; night splinting has moderate evidence but alone is insufficient, and 6 weeks of complete rest is not evidence-based. Option D is incorrect — plantar fascia-specific stretching alone has evidence but is inferior to high-load resistance training per head-to-head RCTs; corticosteroid injection provides short-term relief but increases risk of plantar fascia rupture and has inferior long-term outcomes.",
+      "references":[
+         "https://bjsm.bmj.com/content/49/18/1173",
+         "https://www.jospt.org/doi/10.2519/jospt.2014.0303"
+      ]
+   },
+   {
+      "bodySystem":"Musculoskeletal",
+      "difficulty":"Hard",
+      "questionText":"A 22-year-old female collegiate volleyball player presents with anterior knee pain localized to the patellar tendon at the inferior pole of the patella. Pain is 6/10 during jumping and worsens after practice. Victorian Institute of Sport Assessment-Patella (VISA-P) score is 52/100. Ultrasound reveals intratendinous hypoechogenicity at the patellar tendon insertion. She has 12 weeks remaining in her competitive season. What is the MOST appropriate management strategy?",
+      "correctAnswer":"B",
+      "options":{
+         "A":"Complete rest from all volleyball activities for 8 weeks to allow tendon healing, followed by gradual return to sport",
+         "B":"Continue modified training load with in-season pain monitoring (pain ≤3/10 during and ≤24-hour post-activity), combined with isometric and progressive tendon loading exercises",
+         "C":"Corticosteroid injection immediately to reduce inflammation and allow continued full training through the season",
+         "D":"Surgical debridement referral given the ultrasound findings of intratendinous pathology and functional limitation"
+      },
+      "explanation":"In-season management of patellar tendinopathy in competitive athletes follows an evidence-based pain-monitoring model: allowing continued sport participation as long as pain remains ≤3/10 during activity AND returns to baseline within 24 hours post-activity. Complete rest causes tendon deconditioning and is counterproductive. Isometric exercises (e.g., Spanish squat holds, leg press isometrics) provide immediate analgesic effects and maintain tendon load. Heavy slow resistance training is added as tolerated. This approach balances tissue recovery with sport participation. Option A is incorrect — complete rest causes tendon deconditioning and does not accelerate tendon structural recovery; return to high-load jumping after 8 weeks of rest without progressive loading risks symptom recurrence. Option C is incorrect — corticosteroid injection into or near the patellar tendon is associated with increased risk of tendon rupture and does not address the underlying tendinopathy pathology; it is not recommended for in-season management. Option D is incorrect — surgical referral is premature for a first-presentation tendinopathy; conservative management with exercise loading is the established first-line approach and should be exhausted before surgical consideration.",
+      "references":[
+         "https://bjsm.bmj.com/content/49/19/1209",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367366/"
+      ]
+   },
+   {
+      "bodySystem":"Musculoskeletal",
+      "difficulty":"Hard",
+      "questionText":"A 48-year-old male presents with 3 months of right-sided neck pain radiating to the right thumb and index finger with associated numbness. Spurling's test is positive on the right reproducing radicular symptoms. ULTT1 (median nerve bias) is positive on the right. MRI confirms C6-C7 disc herniation with right-sided C7 nerve root compression. Triceps reflex is diminished on the right. MMT shows 4/5 elbow extension and 4/5 wrist flexion on the right. Which intervention is MOST appropriate?",
+      "correctAnswer":"D",
+      "options":{
+         "A":"Cervical manipulation targeting C6-C7 to restore segmental mobility and reduce disc herniation pressure on the nerve root",
+         "B":"Cervical traction at 25 lbs for 20 minutes combined with postural exercises and cervical strengthening",
+         "C":"Neural mobilization using median nerve tensioner techniques aggressively to restore neural mobility at C7",
+         "D":"Cervical traction (mechanical or manual) combined with directional preference exercises and neural mobilization using nerve slider (not tensioner) techniques"
+      },
+      "explanation":"For cervical radiculopathy from disc herniation with confirmed C7 nerve root compression, mechanical or manual cervical traction has the strongest evidence as a first-line PT intervention (combined with exercise). Neural mobilization should use SLIDER techniques (one joint opens while the other closes, reducing neural tension) rather than TENSIONER techniques (both ends tensioned simultaneously) to avoid aggravating an already compressed nerve root. Directional preference (typically extension or lateral flexion away from symptoms) can help centralize symptoms. Option A is incorrect — cervical manipulation at the level of an acute disc herniation with neurological deficit (diminished reflex, motor weakness) is contraindicated; high-velocity thrust techniques risk worsening cord or nerve root compression. Option B is incorrect — while traction and exercise are appropriate, this option is inferior because it omits neural mobilization, which has evidence for radiculopathy, and 25 lbs may be excessive without individualized assessment. Option C is incorrect — tensioner techniques (both ends of the nerve placed in tension simultaneously) significantly increase intraneural pressure and are contraindicated with active nerve root compression; slider techniques are the safe and evidence-based choice.",
+      "references":[
+         "https://www.jospt.org/doi/10.2519/jospt.2017.0302",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658194/"
+      ]
+   },
+   {
+      "bodySystem":"Musculoskeletal",
+      "difficulty":"Hard",
+      "questionText":"A 60-year-old male with end-stage knee OA (Kellgren-Lawrence grade IV, right knee) is 2 days post-total knee arthroplasty (TKA). He has a posterior-stabilized prosthesis. He can perform straight leg raises with a 2-inch extensor lag. Knee flexion ROM is 75°. He is using a walker and ambulating 100 feet with supervision. What is the MOST critical ROM goal to achieve before discharge from acute care?",
+      "correctAnswer":"A",
+      "options":{
+         "A":"Knee flexion to at least 90° to allow safe stair negotiation, car transfers, and toilet use for home independence",
+         "B":"Full knee extension (0°) to prevent flexion contracture and normalize gait mechanics",
+         "C":"Knee flexion to 120° to restore full functional ROM needed for activities like kneeling and deep squats",
+         "D":"Hip flexion to 100° to compensate for any residual knee flexion restriction during functional activities"
+      },
+      "explanation":"Following TKA, achieving 90° of knee flexion before discharge from acute care is the standard functional milestone because it is the minimum range required for essential ADLs including safe toilet transfers (approximately 90° needed), car transfers, and stair negotiation step-over-step. It is also the threshold that predicts ability to function at home independently. Both flexion and extension are important post-TKA, but acute care prioritizes the 90° flexion milestone for discharge safety. Option B is incorrect — while full knee extension is critical for gait normalization and preventing flexion contracture (and is a longer-term goal), it is not the discharge criterion from acute care; 0° extension is a goal that is addressed in the outpatient setting. The 90° flexion milestone is the more immediate discharge benchmark. Option C is incorrect — 120° is an outpatient rehabilitation goal (typically achieved by 6–8 weeks); expecting 120° at day 2 post-op is unrealistic and not a criterion for acute discharge. Option D is incorrect — hip flexion compensation is not a standard or appropriate TKA acute care goal; it does not address the functional requirements specific to the prosthetic knee.",
+      "references":[
+         "https://www.jospt.org/doi/10.2519/jospt.2020.0301",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6375440/"
+      ]
+   },
+   {
+      "bodySystem":"Musculoskeletal",
+      "difficulty":"Hard",
+      "questionText":"A 19-year-old male basketball player sustains an acute ankle inversion sprain during a game. Ottawa Ankle Rules are applied: there is tenderness over the posterior edge of the lateral malleolus but weight-bearing is possible (4 painful steps). X-ray is not immediately available. What is the MOST appropriate immediate action?",
+      "correctAnswer":"C",
+      "options":{
+         "A":"Apply a posterior splint and refer for X-ray before initiating any treatment, as posterior malleolus tenderness indicates likely fracture",
+         "B":"Diagnose as Grade II lateral ankle sprain and begin immediate weight-bearing with RICE protocol",
+         "C":"Refer for X-ray based on positive Ottawa Ankle Rules (posterior lateral malleolus tenderness), while applying RICE in the interim",
+         "D":"Clear the athlete to return to play since he was able to take 4 steps, satisfying the weight-bearing criterion of the Ottawa Ankle Rules"
+      },
+      "explanation":"The Ottawa Ankle Rules indicate X-ray is required if ANY of the following are present: (1) tenderness over the posterior edge or tip of the lateral or medial malleolus (6 cm zone), OR (2) inability to weight-bear (take 4 steps) immediately after injury AND in the emergency department. This patient has posterior lateral malleolus tenderness — a POSITIVE Ottawa sign — which mandates X-ray referral regardless of weight-bearing ability. The rules are designed so that EITHER criterion (bone tenderness OR inability to weight-bear) triggers referral — not both. Option A is incorrect — a posterior splint implies fracture management; while referral is correct, immediate splinting is premature without X-ray confirmation, and RICE can be applied while awaiting imaging. Option B is incorrect — a definitive Grade II sprain diagnosis cannot be made without ruling out fracture first; the positive Ottawa criterion requires imaging. Option D is incorrect — this is the most dangerous distractor; the Ottawa Rules require X-ray if EITHER bone tenderness OR inability to weight-bear is present. The patient's ability to take 4 steps does NOT override the positive bone tenderness finding; both criteria are independent indications.",
+      "references":[
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121484/",
+         "https://www.jospt.org/doi/10.2519/jospt.2021.0105"
+      ]
+   },
+   {
+      "bodySystem":"Neuromuscular",
+      "difficulty":"Hard",
+      "questionText":"A 55-year-old male with a T6 complete spinal cord injury (AIS A) is 2 years post-injury and living in the community independently. He presents to outpatient PT with complaints of bilateral shoulder pain with wheelchair propulsion. His propulsion pattern shows a high push frequency with a short arc. He performs pressure reliefs every 45 minutes. What is the MOST likely cause of his shoulder pain and the MOST appropriate intervention?",
+      "correctAnswer":"B",
+      "options":{
+         "A":"Rotator cuff impingement from excessive shoulder abduction; treat with subacromial corticosteroid injection and temporary cessation of wheelchair propulsion",
+         "B":"Repetitive strain from inefficient wheelchair propulsion mechanics; optimize propulsion pattern to a long smooth arc with low cadence, and strengthen posterior shoulder musculature",
+         "C":"Glenohumeral instability from chronic downward distraction forces; apply shoulder taping and begin scapular elevation strengthening",
+         "D":"Biceps tendinopathy from repetitive pressure relief transfers; modify transfer technique and initiate eccentric biceps loading program"
+      },
+      "explanation":"Shoulder pain in manual wheelchair users with SCI is predominantly caused by repetitive overhead and propulsion-related strain on the rotator cuff and subacromial structures. The MOST modifiable risk factor is propulsion biomechanics. A high-frequency, short-arc push pattern (choppy strokes) generates high peak forces and repetitive impingement loading. Evidence-based propulsion guidelines (PVAQOL, Paralyzed Veterans of America Clinical Practice Guidelines) recommend a long, smooth, semicircular propulsion arc with low stroke frequency to minimize shoulder joint reaction forces. Posterior shoulder strengthening (posterior deltoid, external rotators, scapular retractors) addresses the muscular imbalance common in wheelchair users. Option A is incorrect — while subacromial impingement may be present, corticosteroid injection and propulsion cessation do not address the biomechanical cause; cessation of propulsion is not realistic or appropriate for a community-independent SCI patient. Option C is incorrect — downward distraction causing instability is more relevant in tetraplegia (with trapezius weakness); this T6 paraplegic has full upper extremity innervation, making glenohumeral instability from distraction less likely. Option D is incorrect — pressure reliefs involve push-ups on the wheelchair armrests (triceps-dominant), not biceps; biceps tendinopathy from pressure reliefs is anatomically implausible as the primary diagnosis.",
+      "references":[
+         "https://www.pva.org/CMSPages/GetFile.aspx?guid=8470a9e4-2db3-4e44-86c5-c00ce4f4ccfd",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2660662/"
+      ]
+   },
+   {
+      "bodySystem":"Neuromuscular",
+      "difficulty":"Hard",
+      "questionText":"A 67-year-old female with a diagnosis of peripheral vestibular hypofunction (unilateral, right side) confirmed by video head impulse testing presents with constant dizziness, oscillopsia with head movement, and gait unsteadiness. Dynamic Visual Acuity test shows a 3-line loss on the right. DHI score is 62/100. What is the PRIMARY mechanism targeted by vestibular rehabilitation exercise in this patient?",
+      "correctAnswer":"A",
+      "options":{
+         "A":"VOR adaptation through repetitive head movement exercises that generate retinal slip, driving central compensation for the peripheral deficit",
+         "B":"Canal repositioning through canalith repositioning maneuvers targeting the posterior semicircular canal on the right",
+         "C":"Somatosensory substitution by enhancing proprioceptive and plantar cutaneous input to replace the deficient vestibular signal",
+         "D":"Cervicogenic reflex enhancement through cervical stabilization exercises to compensate for the absent VOR signal"
+      },
+      "explanation":"In unilateral peripheral vestibular hypofunction, the primary rehabilitation mechanism is VOR ADAPTATION — the central nervous system's ability to modify the gain and timing of the vestibulo-ocular reflex in response to error signals (retinal slip). Gaze stabilization exercises (e.g., X1 and X2 viewing protocols) require the patient to maintain focus on a target while moving the head, generating retinal slip that drives adaptive plasticity in the vestibulo-cerebellum and brainstem. This is the cornerstone of vestibular rehabilitation and is supported by extensive evidence (Herdman et al.). Option B is incorrect — canalith repositioning (Epley, Semont) treats BPPV (cupulolithiasis/canalolithiasis). This patient has peripheral hypofunction with VOR deficit (positive head impulse test, 3-line DVA loss), not BPPV. These are completely different vestibular diagnoses requiring different interventions. Option C is incorrect — somatosensory substitution is a mechanism that occurs as a compensatory strategy and can be trained (balance exercises on unstable surfaces), but it is not the PRIMARY mechanism targeted in vestibular hypofunction rehabilitation; VOR adaptation is the primary target. Option D is incorrect — cervical stabilization may help cervicogenic dizziness but does not address VOR deficits; the cervico-ocular reflex has very limited gain and cannot meaningfully substitute for a deficient VOR.",
+      "references":[
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5779063/",
+         "https://www.jospt.org/doi/10.2519/jospt.2016.0301"
+      ]
+   },
+   {
+      "bodySystem":"Neuromuscular",
+      "difficulty":"Hard",
+      "questionText":"A 42-year-old male presents with progressive bilateral distal leg weakness and sensory loss in a stocking-glove distribution. He has absent ankle reflexes bilaterally. NCS/EMG reveals reduced amplitude of sensory nerve action potentials, prolonged distal latencies, and slowed conduction velocities. He reports difficulty with foot clearance during gait. Which condition BEST explains this presentation, and what gait device is MOST appropriate?",
+      "correctAnswer":"C",
+      "options":{
+         "A":"Amyotrophic lateral sclerosis (ALS) with UMN predominance; prescribe a wheeled walker to reduce fall risk",
+         "B":"Guillain-Barré syndrome in the chronic phase; prescribe bilateral forearm crutches for ambulation support",
+         "C":"Charcot-Marie-Tooth disease (hereditary motor and sensory neuropathy); prescribe bilateral ankle-foot orthoses (AFOs) for foot drop management",
+         "D":"Multiple sclerosis with peripheral demyelination pattern; prescribe a single-point cane for balance support"
+      },
+      "explanation":"This presentation is classic for Charcot-Marie-Tooth disease (CMT): slowly progressive, bilateral, distal-predominant weakness (foot drop), sensory loss in a stocking-glove pattern, absent ankle reflexes, and NCS/EMG showing reduced SNAP amplitudes, prolonged distal latencies, and slowed conduction velocities (demyelinating hereditary neuropathy pattern). Foot drop from anterior compartment weakness (especially tibialis anterior) is the primary functional impairment causing toe drag during gait swing phase. Bilateral AFOs are the standard orthotic intervention. Option A is incorrect — ALS presents with a combination of UMN (hyperreflexia, spasticity) and LMN signs (fasciculations, atrophy). The absent reflexes, NCS/EMG findings, and stocking-glove sensory loss are inconsistent with ALS, which does not typically affect sensory nerve conduction. Option B is incorrect — GBS typically presents acutely or subacutely (days to weeks), often with ascending paralysis and autonomic dysfunction. A chronic, progressive presentation over years with this NCS/EMG pattern suggests hereditary neuropathy, not GBS. Option D is incorrect — MS causes central demyelination, not peripheral. NCS/EMG findings of reduced SNAP amplitudes and slowed peripheral conduction velocities indicate peripheral nerve pathology, which is inconsistent with MS.",
+      "references":[
+         "https://www.ncbi.nlm.nih.gov/books/NBK482376/",
+         "https://www.charcot-marie-tooth.org/what-is-cmt/treatment/"
+      ]
+   },
+   {
+      "bodySystem":"Neuromuscular",
+      "difficulty":"Hard",
+      "questionText":"A 5-year-old boy with Duchenne Muscular Dystrophy (DMD) presents for PT evaluation. He shows a Gowers' sign, pseudohypertrophy of the calves, and a waddling gait. His FVC is 78% predicted. His parents ask about the PRIMARY goal of current PT management. What is the MOST accurate response?",
+      "correctAnswer":"D",
+      "options":{
+         "A":"Aggressive progressive resistance training to slow muscle degeneration and preserve strength as long as possible",
+         "B":"Aquatic therapy exclusively to minimize muscle damage from weight-bearing exercise while maintaining cardiovascular fitness",
+         "C":"Gait retraining with bilateral KAFOs to restore normal gait pattern and prevent falls during ambulation",
+         "D":"Maintaining functional mobility through submaximal activity, contracture prevention through stretching and orthotic use, and respiratory monitoring and management"
+      },
+      "explanation":"DMD is a progressive X-linked recessive muscular dystrophy with an absence of dystrophin causing progressive muscle fiber death. PT management is NOT curative but aims to: (1) maintain functional mobility for as long as possible through submaximal, non-fatiguing activity (high-intensity resistance exercise accelerates muscle fiber destruction); (2) prevent contractures (hip flexors, ITB, heel cords are most vulnerable) through daily stretching and nighttime AFO use; (3) monitor and support respiratory function (FVC tracking, assisted ventilation preparation). Option A is incorrect — this is a critical and frequently tested distinction: high-intensity progressive resistance training is CONTRAINDICATED in DMD because eccentric and high-force muscle contractions accelerate sarcolemmal damage in dystrophin-deficient muscle fibers, hastening strength loss. Submaximal, concentric, low-intensity exercise is preferred. Option B is incorrect — aquatic therapy is a useful modality but not the exclusive approach; contracture prevention, orthotic management, and respiratory care are essential components that aquatics alone cannot address. Option C is incorrect — KAFOs are a late-stage DMD intervention typically used when ambulation is nearly lost (to prolong standing/limited walking); they are not appropriate at this early functional stage with a waddling gait, and they do not restore normal gait pattern in DMD.",
+      "references":[
+         "https://www.parentprojectmd.org/care/care-considerations/",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609846/"
+      ]
+   },
+   {
+      "bodySystem":"Neuromuscular",
+      "difficulty":"Hard",
+      "questionText":"A 34-year-old female with relapsing-remitting MS is currently in remission. She reports recent onset of double vision (diplopia) and is scheduled to see her neurologist. Her balance is intact, and she is independent in all ADLs. The referring physician's order is for 'balance and strengthening.' What is the MOST appropriate PT action regarding the diplopia?",
+      "correctAnswer":"B",
+      "options":{
+         "A":"Proceed with the prescribed balance and strengthening program; diplopia is a known chronic MS symptom and does not require additional action",
+         "B":"Contact the referring physician to report the new onset diplopia before initiating treatment, as it may indicate a new MS relapse requiring medical management",
+         "C":"Initiate vestibulo-ocular rehabilitation exercises targeting the VOR to address the diplopia within PT scope of practice",
+         "D":"Document the diplopia in the evaluation and proceed with treatment, scheduling a follow-up note to the physician at the next session"
+      },
+      "explanation":"New onset diplopia in a patient with MS is a red flag that may indicate an active MS relapse (most likely internuclear ophthalmoplegia from MLF demyelination, or cranial nerve VI palsy). An active relapse typically requires medical management with corticosteroids to reduce the duration and severity of the attack. The PT must communicate this new neurological symptom to the referring physician BEFORE initiating treatment — not proceed and document later. This is a critical clinical decision-making scenario testing knowledge of appropriate referral timing. Option A is incorrect — new onset diplopia should not be dismissed as a 'known chronic symptom'; any NEW neurological symptom in MS warrants urgent physician communication as it may signal an active relapse requiring immunomodulation. Option C is incorrect — while VOR rehabilitation can address stable oculomotor deficits, initiating PT for diplopia during a potential active relapse without physician notification is inappropriate and premature; medical management of the relapse takes precedence. Option D is incorrect — delaying physician notification to the 'next session' is unacceptably slow given the potential need for urgent corticosteroid treatment to limit relapse-related neurological damage.",
+      "references":[
+         "https://www.nationalmssociety.org/Symptoms-Diagnosis/MS-Symptoms/Vision-Problems",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667333/"
+      ]
+   },
+   {
+      "bodySystem":"Cardiopulmonary",
+      "difficulty":"Hard",
+      "questionText":"A 65-year-old male with a history of anterior MI (4 weeks ago, EF 35%) is beginning Phase II outpatient cardiac rehabilitation. During today's session, his resting ECG shows sinus rhythm. At 3 METs of exercise intensity on the treadmill, he develops ST-segment depression of 2 mm in leads V4-V6, his BP drops from 138/82 to 118/80 mmHg, and he reports mild chest discomfort (2/10). HR is 96 bpm. What is the MOST appropriate immediate action?",
+      "correctAnswer":"C",
+      "options":{
+         "A":"Reduce treadmill speed to 1 MET and continue monitoring; ST depression up to 2 mm is within acceptable limits for cardiac rehab exercise",
+         "B":"Have the patient perform a cool-down walk at 1 MET for 5 minutes to gradually reduce cardiac demand before stopping exercise",
+         "C":"Stop exercise immediately, have the patient sit or lie down, administer sublingual nitroglycerin if prescribed, monitor ECG and vitals continuously, and activate EMS if symptoms do not resolve",
+         "D":"Stop exercise and administer aspirin 325 mg, as the ST depression and BP drop indicate a new acute MI"
+      },
+      "explanation":"This patient is demonstrating signs of exercise-induced myocardial ischemia: ST depression ≥1 mm (2 mm is significant), drop in systolic BP with exercise (exertional hypotension — a strongly negative prognostic sign indicating left ventricular dysfunction), and anginal chest discomfort. The combination of exertional hypotension (SBP drop from 138 to 118 during low-level exercise), significant ST changes, and symptoms at only 3 METs in a post-MI patient with EF 35% is a medical emergency requiring immediate exercise cessation, symptom management (nitroglycerin if prescribed), continuous monitoring, and EMS preparation. Option A is incorrect — 2 mm ST depression with concurrent exertional hypotension and chest pain is NOT acceptable to continue exercising; absolute indications to stop exercise include ST depression ≥2 mm, drop in SBP with exercise, angina, or severe arrhythmia. Option B is incorrect — a cool-down walk maintains metabolic demand and continued cardiac work during an active ischemic episode; this delays definitive management of a potentially evolving ischemic event. Option D is incorrect — while aspirin is appropriate for acute STEMI, this presentation of ST depression (subendocardial ischemia, not transmural) with exertional hypotension does not definitively indicate a new MI; aspirin would not be the first action. EMS activation and physician evaluation are needed before any medication beyond prescribed nitroglycerin.",
+      "references":[
+         "https://www.aacvpr.org/Portals/0/Resources/Guidelines/guidelines-for-cardiac-rehabilitation-programs-5th-edition.pdf",
+         "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000239"
+      ]
+   },
+   {
+      "bodySystem":"Cardiopulmonary",
+      "difficulty":"Hard",
+      "questionText":"A 72-year-old female with chronic heart failure (EF 25%, NYHA Class II) and diabetes mellitus is referred for outpatient PT. She reports dyspnea on exertion with moderate activity. Her resting HR is 68 bpm on beta-blockers. A graded exercise test was not performed. Which method of exercise intensity prescription is MOST appropriate for this patient?",
+      "correctAnswer":"D",
+      "options":{
+         "A":"Karvonen formula using 60–80% HRR to establish a target HR training zone for aerobic conditioning",
+         "B":"Percentage of age-predicted maximum heart rate (60–75% of 220-age) as the target exercise intensity",
+         "C":"Metabolic equivalent (MET) levels from a graded exercise test to prescribe intensity at 60% of peak MET capacity",
+         "D":"Rating of Perceived Exertion (RPE) targeting 11-13/20 (Borg scale), combined with the Talk Test, given beta-blocker use and absence of exercise testing"
+      },
+      "explanation":"Beta-blockers blunt the heart rate response to exercise, making both the Karvonen formula (HRR-based) and percentage of age-predicted HRmax unreliable for exercise prescription. Without a graded exercise test (GXT) to establish peak METs, MET-based prescription is also not possible. In this scenario, RPE (Borg scale) targeting 11-13/20 ('fairly light' to 'somewhat hard') combined with the Talk Test (able to speak in short sentences) is the most appropriate and validated intensity prescription method for heart failure patients on beta-blockers without GXT data. Option A is incorrect — the Karvonen formula uses resting and maximum HR; beta-blockers suppress HRmax response, rendering HRR-based calculations inaccurate and potentially leading to overexertion. Option B is incorrect — age-predicted HRmax formulas (220-age) are population averages not adjusted for beta-blockade; this patient's actual HRmax may be 40-50 bpm lower than predicted due to the medication. Option C is incorrect — MET-based prescription requires GXT data (peak METs) that is not available in this case; prescribing METs without a GXT is clinically inappropriate for this risk level.",
+      "references":[
+         "https://www.aacvpr.org/Portals/0/Resources/Guidelines/guidelines-for-cardiac-rehabilitation-programs-5th-edition.pdf",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367025/"
+      ]
+   },
+   {
+      "bodySystem":"Cardiopulmonary",
+      "difficulty":"Hard",
+      "questionText":"A 58-year-old male with a 40-pack-year smoking history presents with chronic productive cough, barrel chest, and pursed-lip breathing. Spirometry shows FEV1/FVC of 0.58 and FEV1 of 42% predicted (GOLD Stage III). He demonstrates accessory muscle use at rest and significant air trapping. Which airway clearance technique is MOST appropriate as a primary intervention?",
+      "correctAnswer":"A",
+      "options":{
+         "A":"Active Cycle of Breathing Technique (ACBT) combining breathing control, thoracic expansion exercises, and forced expiration technique (FET/huffing)",
+         "B":"Postural drainage in the Trendelenburg position (head-down) for 20 minutes to facilitate mucociliary clearance by gravity",
+         "C":"Incentive spirometry at maximum inspiratory effort to overcome air trapping and improve alveolar recruitment",
+         "D":"Pursed-lip breathing exercises at high respiratory rates to maximize tidal volume and enhance sputum mobilization"
+      },
+      "explanation":"ACBT is one of the most widely used and evidence-supported airway clearance techniques for COPD. It consists of breathing control (diaphragmatic relaxation breathing), thoracic expansion exercises (deep breathing to mobilize secretions), and forced expiration technique (FET — 'huffing' with glottis open) to propel secretions to central airways without the bronchoconstriction risk of hard coughing. It is self-administered, requires no equipment, and is appropriate for GOLD Stage III COPD. Option B is incorrect — head-down Trendelenburg positioning is contraindicated in severe COPD with air trapping and accessory muscle use because it increases respiratory workload, elevates diaphragm, worsens dyspnea, and increases risk of gastroesophageal reflux; modified postural drainage without head-down tilt may be used but not Trendelenburg. Option C is incorrect — incentive spirometry targets inspiratory volume and alveolar recruitment (atelectasis) and is primarily indicated post-surgical or for restrictive conditions; it does not mobilize secretions and is not the primary intervention for COPD secretion management. Option D is incorrect — this is a dangerous distractor. Pursed-lip breathing is a ventilatory strategy to reduce dynamic airway collapse in COPD; performing it at 'high respiratory rates' is physiologically contradictory and harmful — pursed-lip breathing should be slow and controlled, not rapid.",
+      "references":[
+         "https://www.atsjournals.org/doi/full/10.1164/rccm.201205-0823OC",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6039826/"
+      ]
+   },
+   {
+      "bodySystem":"Cardiopulmonary",
+      "difficulty":"Hard",
+      "questionText":"A 45-year-old female post-right lower lobectomy (day 2) for non-small cell lung cancer is referred to PT. She has a right-sided chest tube in place and is on 2 L/min nasal cannula O2. SpO2 is 93% at rest. She is reluctant to deep breathe due to incisional pain (7/10). Which intervention is the HIGHEST priority?",
+      "correctAnswer":"B",
+      "options":{
+         "A":"Incentive spirometry at maximum effort for 10 repetitions per hour to prevent post-operative atelectasis",
+         "B":"Pain management coordination (splinted coughing education, analgesic timing) followed by deep breathing and early mobilization",
+         "C":"Chest percussion and vibration over the right lower lobe to mobilize secretions in the resected lobe",
+         "D":"Supine positioning with right side down to maximize perfusion to the remaining lung and optimize V/Q matching"
+      },
+      "explanation":"The highest priority is addressing the pain barrier that is preventing the patient from performing deep breathing and coughing — which are essential for preventing post-operative pulmonary complications (atelectasis, pneumonia). Splinted coughing (using a pillow against the incision during cough) and coordinating therapy sessions with peak analgesic effect are critical first steps. Without adequate pain management, incentive spirometry and deep breathing exercises cannot be performed effectively. Early mobilization (sitting at edge of bed, ambulation) is also a top priority. Option A is incorrect — maximum effort incentive spirometry at 7/10 pain without pain management strategies is not realistic or effective; the patient cannot cooperate meaningfully, and the instruction to perform at 'maximum effort' while in significant pain is clinically inappropriate as a first step. Option C is incorrect — percussion and vibration over a resected lobe is contraindicated; there is no residual lung tissue in the right lower lobe to treat, and percussion over a fresh surgical site with chest tube is harmful. Option D is incorrect — positioning right side down after right lobectomy is counterproductive; placing the operative (and now smaller) lung in the dependent position reduces ventilation-perfusion matching. The good (left) lung should be in the dependent position to optimize perfusion.",
+      "references":[
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6373502/",
+         "https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201503-147OC"
+      ]
+   },
+   {
+      "bodySystem":"Musculoskeletal",
+      "difficulty":"Hard",
+      "questionText":"A 28-year-old female recreational runner presents with medial tibial pain that begins after 20 minutes of running and persists for 1-2 hours post-run. She runs 35 miles per week and recently increased her mileage by 30% over 2 weeks. Palpation reveals diffuse tenderness along the posteromedial tibial border over a 5 cm span. X-ray is negative. Navicular drop test shows 12 mm bilaterally. Which diagnosis and initial management are MOST appropriate?",
+      "correctAnswer":"C",
+      "options":{
+         "A":"Stress fracture of the tibia; immediately refer for MRI and restrict all weight-bearing until imaging confirms diagnosis",
+         "B":"Compartment syndrome; refer for intracompartmental pressure testing and consider surgical fasciotomy",
+         "C":"Medial tibial stress syndrome (MTSS); reduce training volume by 50%, address foot pronation with orthotic intervention, and initiate progressive loading rehabilitation",
+         "D":"Tibialis posterior tendinopathy; begin eccentric tibialis posterior strengthening immediately at full training volume"
+      },
+      "explanation":"This is a classic medial tibial stress syndrome (MTSS/shin splints) presentation: diffuse posteromedial tibial tenderness over >5 cm (vs. focal stress fracture tenderness), pain with running that improves with rest, negative X-ray, excessive navicular drop (>10 mm = excessive foot pronation), and a rapid training load increase (the 10% rule violation — 30% increase in 2 weeks). Management: training volume reduction (not complete cessation), correction of the biomechanical risk factor (foot pronation via orthotics/footwear), and progressive rehabilitation. Option A is incorrect — stress fracture presents with FOCAL tenderness (point tenderness over <1-2 cm), often positive fulcrum test, and may need MRI; diffuse tenderness over 5 cm is more consistent with MTSS. However, if focal tenderness were present, MRI would be appropriate. Complete non-weight-bearing restriction is not routine for tibial stress reactions. Option B is incorrect — exertional compartment syndrome presents with pain and tightness during exercise that resolves quickly after stopping (within minutes), often with neurological symptoms; pain persisting 1-2 hours post-run is atypical for compartment syndrome. This is a classic confusing distractor. Option D is incorrect — tibialis posterior tendinopathy involves medial ankle pain (behind and below the medial malleolus), not along the tibial border; the anatomical location and excessive navicular drop point to MTSS, not isolated tendinopathy, and continuing full training volume would worsen the condition.",
+      "references":[
+         "https://bjsm.bmj.com/content/50/19/1220",
+         "https://www.jospt.org/doi/10.2519/jospt.2019.0301"
+      ]
+   },
+   {
+      "bodySystem":"Musculoskeletal",
+      "difficulty":"Hard",
+      "questionText":"A 70-year-old male with symptomatic lumbar spinal stenosis (confirmed on MRI: moderate central stenosis at L3-L4 and L4-L5) presents with bilateral lower extremity pain and weakness after walking 2 blocks (neurogenic claudication). Symptoms are relieved by sitting or leaning forward on a shopping cart. SLR is negative. He walks with a flexed posture. Which intervention is MOST appropriate?",
+      "correctAnswer":"A",
+      "options":{
+         "A":"Flexion-biased exercise program (lumbar flexion, stationary cycling, aquatic therapy) combined with manual therapy and body-weight-supported treadmill walking",
+         "B":"Lumbar extension exercises and McKenzie extension protocol to restore lumbar lordosis and reduce posterior disc pressure",
+         "C":"Lumbar traction at 50% body weight in neutral lordosis to decompress the stenotic segments and relieve neurogenic claudication",
+         "D":"Aggressive core stabilization in neutral lumbar spine position to reduce segmental motion and protect the stenotic levels"
+      },
+      "explanation":"Neurogenic claudication from lumbar spinal stenosis is classically relieved by flexion (sitting, forward lean — which opens the spinal canal and neural foramina) and worsened by extension (which narrows the canal further). Therefore, a flexion-biased rehabilitation program is the cornerstone of conservative PT management: lumbar flexion exercises, stationary cycling (flexed trunk position), aquatic therapy (buoyancy reduces lumbar compressive load), and manual therapy. Body-weight-supported treadmill training allows cardiovascular conditioning and gait training while reducing the loaded upright time that provokes symptoms. Option B is incorrect — McKenzie extension exercises are appropriate for disc herniation with posterior-to-anterior pain centralization but are CONTRAINDICATED in lumbar stenosis; extension narrows the spinal canal by 11-15%, directly worsening the stenosis and increasing neurogenic claudication. Option C is incorrect — lumbar traction in neutral lordosis does not specifically target the flexion-related canal opening mechanism; there is insufficient evidence for traction as a primary stenosis intervention, and neutral lordosis traction does not provide the flexion bias needed. Option D is incorrect — neutral lumbar spine stabilization exercises involve both flexion and extension components; emphasizing 'neutral' spine does not capitalize on the flexion benefit, and exercises that load the spine in extension will worsen symptoms.",
+      "references":[
+         "https://www.jospt.org/doi/10.2519/jospt.2018.0301",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6160778/"
+      ]
+   },
+   {
+      "bodySystem":"Neuromuscular",
+      "difficulty":"Hard",
+      "questionText":"A 78-year-old male with a prior stroke (left hemisphere, 18 months ago) presents for fall prevention PT. He has mild right hemiparesis, mild expressive aphasia, and scores 21/30 on the MoCA. He has fallen twice in the past 6 months. Timed Up and Go (TUG) is 18 seconds. Berg Balance Scale is 38/56. Four Square Step Test is 22 seconds. What intervention approach has the STRONGEST evidence for fall prevention in this patient?",
+      "correctAnswer":"D",
+      "options":{
+         "A":"Tai Chi twice weekly, as it has universal evidence for fall prevention across all neurological populations",
+         "B":"Strength training of the right (hemiparetic) lower extremity using progressive resistance equipment three times per week",
+         "C":"Education-based program teaching the patient to identify environmental hazards and use assistive devices correctly",
+         "D":"High-intensity, challenging balance training (perturbation training, dual-task balance activities, stepping reactions) combined with gait training and strength exercise"
+      },
+      "explanation":"Current evidence from systematic reviews (Verheyden et al., 2013; Pollock et al., Cochrane) shows that HIGH-CHALLENGE BALANCE TRAINING — specifically exercises that challenge the limits of stability, incorporate stepping reactions, perturbation training, and dual-task conditions — has the strongest evidence for fall reduction after stroke. This patient's balance scores (BBS 38/56, TUG 18 sec) place him in the moderate fall risk category with meaningful balance deficits. Gait training and strengthening are effective adjuncts. The combination of these components delivered at sufficient intensity and challenge is the evidence-based approach. Option A is incorrect — while Tai Chi has strong evidence in community-dwelling older adults WITHOUT neurological conditions, its evidence in post-stroke populations is less robust compared to task-specific balance training; generalizing Tai Chi as having 'universal evidence across all neurological populations' is inaccurate. Option B is incorrect — isolated hemiparetic LE strengthening alone is insufficient for fall prevention; while strength contributes, balance-specific and gait training are more strongly linked to fall reduction. Option C is incorrect — education-based fall prevention alone (without physical training) has weak evidence for fall reduction; in a patient with expressive aphasia and mild cognitive impairment, the effectiveness of purely education-based approaches is further limited.",
+      "references":[
+         "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002759.pub4/full",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462369/"
+      ]
+   },
+   {
+      "bodySystem":"Cardiopulmonary",
+      "difficulty":"Hard",
+      "questionText":"A physical therapist is conducting a home health visit for an 80-year-old male with severe aortic stenosis (valve area 0.7 cm², mean gradient 52 mmHg) awaiting TAVR. He is NYHA Class III with dyspnea on minimal exertion. Resting BP is 108/72 mmHg, HR 78 bpm, SpO2 96%. He requests to know if he can perform his home exercise program of walking to his mailbox (approximately 50 feet) independently. What is the MOST appropriate response?",
+      "correctAnswer":"B",
+      "options":{
+         "A":"Clear him for independent walking to the mailbox, as 50 feet is a minimal activity level that poses no significant risk even in severe AS",
+         "B":"Advise against unsupervised exertion given severe symptomatic AS with fixed cardiac output; recommend supervised, minimal-intensity activity only with physician guidance on safe activity levels",
+         "C":"Prescribe a home walking program at 40-60% HRR with self-monitoring using a pulse oximeter for SpO2 and heart rate guidance",
+         "D":"Encourage independent ambulation as tolerated, as the primary goal of pre-TAVR management is to maintain current functional level through active participation"
+      },
+      "explanation":"Severe symptomatic aortic stenosis (valve area <1.0 cm², mean gradient >40 mmHg, with symptoms — NYHA Class III) represents one of the highest-risk cardiac conditions for physical activity. In severe AS, cardiac output is relatively fixed — the stenotic valve prevents appropriate augmentation of output with increased demand. Exertion can precipitate syncope (from inability to increase output for vasodilating muscles), sudden cardiac death, or acute decompensation. The PT must not independently clear this patient for unsupervised exertion; this requires physician guidance on safe activity parameters. Option A is incorrect — 50 feet may seem trivial, but in severe symptomatic AS with low resting BP (108 systolic), any unsupervised exertion carries meaningful risk of syncope or sudden death; the PT cannot independently determine safe exertion levels without physician input. Option C is incorrect — prescribing an HRR-based walking program for a patient with severe symptomatic AS awaiting valve replacement is outside appropriate PT practice without explicit physician exercise prescription orders; this patient's hemodynamic limitations make standard exercise prescription formulas unsafe to apply independently. Option D is incorrect — while maintaining function is a goal, encouraging independent ambulation 'as tolerated' ignores the serious hemodynamic risks of severe symptomatic AS; patient self-monitoring of tolerance is insufficient safety guidance for this condition.",
+      "references":[
+         "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063",
+         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7286225/"
+      ]
+   },
     {
         "bodySystem": "Musculoskeletal",
         "difficulty": "Hard",
