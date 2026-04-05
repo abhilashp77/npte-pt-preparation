@@ -1,6 +1,347 @@
 [
     {
         "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 45-year-old male construction worker presents with insidious onset of right shoulder pain for 3 months. He reports pain with overhead reaching and difficulty sleeping on the affected side. Special tests reveal a positive Hawkins-Kennedy, positive Empty Can, and negative Speed's test. MMT shows 4/5 strength in shoulder abduction and 3/5 in external rotation. MRI confirms a partial-thickness supraspinatus tear. Which intervention is MOST appropriate as an initial priority?",
+        "correctAnswer": "B",
+        "options": {
+        "A": "Aggressive rotator cuff strengthening with progressive resistance beginning at 90° of abduction",
+        "B": "Periscapular strengthening with scapular stabilization exercises combined with posterior capsule stretching",
+        "C": "Immediate isokinetic strengthening of the infraspinatus and teres minor at high speeds",
+        "D": "Joint mobilization grade IV at the glenohumeral joint targeting inferior glide to restore abduction ROM"
+        },
+        "explanation": "In a partial-thickness supraspinatus tear with documented weakness, the priority is restoring the force couple balance at the glenohumeral joint. Periscapular stabilization (lower/middle trapezius, serratus anterior) normalizes scapulohumeral rhythm and reduces subacromial impingement forces. Posterior capsule tightness (common in this population) causes superior humeral head migration, worsening impingement — so cross-body stretching (sleeper stretch) is also priority. Option A is incorrect because aggressive resistance at 90° abduction maximizes impingement forces and risks full-thickness conversion. Option C is incorrect because high-speed isokinetic work is a late-stage intervention and inappropriate with 3/5 ER weakness. Option D is incorrect because Grade IV mobilizations target stiff joints for ROM gains; the priority here is not capsular restriction but dynamic stabilization failure.",
+        "references": [
+        "https://www.jospt.org/doi/10.2519/jospt.2013.0302",
+        "https://www.ncbi.nlm.nih.gov/books/NBK554553/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 32-year-old female runner presents with anterior knee pain that worsens with prolonged sitting, stair descent, and running downhill. Patellar grind test is positive. Q-angle measures 20°. Ober's test is positive on the right. Hip abductor strength is 3+/5 bilaterally. Foot pronation is noted during single-leg squat with ipsilateral trunk lean. What is the PRIMARY biomechanical impairment driving her patellofemoral pain syndrome (PFPS)?",
+        "correctAnswer": "C",
+        "options": {
+        "A": "Increased Q-angle causing excessive lateral patellar tilt due to tight lateral retinaculum",
+        "B": "Foot pronation causing tibial internal rotation and subsequent lateral patellar tracking dysfunction",
+        "C": "Hip abductor and external rotator weakness causing dynamic knee valgus and increased patellofemoral joint stress",
+        "D": "Iliotibial band tightness causing direct lateral compression of the patella against the femoral trochlea"
+        },
+        "explanation": "Current evidence most strongly supports proximal hip weakness — specifically hip abductors and external rotators — as the primary driver of PFPS in female runners. Weak hip abductors allow ipsilateral trunk lean (Trendelenburg) and contralateral pelvic drop, creating dynamic knee valgus (femoral adduction/internal rotation). This lateralizes the pull on the patella, increasing patellofemoral contact stress. The positive Ober's test and high Q-angle are contributing factors but not primary drivers. Option A is incorrect because while Q-angle of 20° is elevated, it is a static measure and the literature shows static Q-angle correlates poorly with dynamic patellar tracking. Option B is incorrect because foot pronation causes tibial internal rotation, which would actually medialize patellar tracking relative to the tibial tubercle — contributing factor but not primary. Option D is incorrect because while ITB tightness (positive Ober's) can compress the patella laterally, the single-leg squat finding of trunk lean points more convincingly to proximal hip weakness as the dominant impairment.",
+        "references": [
+        "https://www.jospt.org/doi/10.2519/jospt.2019.0302",
+        "https://bjsm.bmj.com/content/48/6/417"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 58-year-old female with a history of rheumatoid arthritis presents after a fall. Cervical spine X-ray reveals an atlantodens interval (ADI) of 6 mm. She reports bilateral upper extremity paresthesias and difficulty with fine motor tasks. Lhermitte's sign is positive. What is the MOST appropriate immediate physical therapy action?",
+        "correctAnswer": "A",
+        "options": {
+        "A": "Immediately cease all cervical examination and treatment, and refer urgently to a physician for neurosurgical evaluation",
+        "B": "Apply a cervical collar for immobilization and begin gentle cervical isometric strengthening to stabilize the atlantoaxial joint",
+        "C": "Perform Grade I–II cervical traction to decompress the spinal cord and relieve upper extremity paresthesias",
+        "D": "Educate the patient on cervical posture and initiate deep cervical flexor strengthening in a pain-free range"
+        },
+        "explanation": "An ADI greater than 3 mm in adults (normal ≤3 mm) indicates atlantoaxial instability. At 6 mm, there is significant ligamentous disruption (transverse ligament rupture typically occurs at 3–5 mm) with risk of spinal cord compression. Bilateral UE paresthesias, fine motor deficits, and positive Lhermitte's sign confirm myelopathic involvement. This is a medical emergency requiring immediate physician referral and neurosurgical evaluation — NOT a PT treatment scenario. Option B is incorrect because a cervical collar alone is insufficient management for this level of instability, and isometric strengthening is contraindicated with cord compression signs. Option C is dangerous and absolutely contraindicated — cervical traction with atlantoaxial instability risks catastrophic spinal cord injury. Option D is completely inappropriate as it delays urgent referral and the instability renders any exercise intervention unsafe.",
+        "references": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4926162/",
+        "https://www.spine.org/Portals/0/assets/downloads/ResearchClinicalCare/Guidelines/AtlantoaxialInstability.pdf"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 28-year-old male soccer player suffered an ACL reconstruction with patellar tendon autograft 5 months ago. He is eager to return to sport. Quadriceps strength via isokinetic testing shows a limb symmetry index (LSI) of 72% at 60°/sec. Single-leg hop test LSI is 78%. He has full ROM and no effusion. What is the MOST appropriate clinical decision?",
+        "correctAnswer": "D",
+        "options": {
+        "A": "Clear the athlete for full return to sport based on time since surgery (5 months) and absence of effusion",
+        "B": "Clear the athlete for return to sport since his hop test LSI exceeds 75%, which is the standard criterion",
+        "C": "Progress to sport-specific agility training only, deferring strength testing as it is not predictive of re-injury",
+        "D": "Continue rehabilitation; the athlete does not meet return-to-sport criteria due to quadriceps LSI below 90%"
+        },
+        "explanation": "Current best evidence (van Melick et al., 2016; Grindem et al., 2016) indicates that an LSI ≥90% on isokinetic quadriceps strength testing AND functional hop tests is required before return to sport after ACL reconstruction. At 72% isokinetic LSI, this athlete has significant quadriceps asymmetry that places him at substantially elevated re-injury risk. Time-based criteria alone (Option A) are no longer considered sufficient — studies show returning at <9 months without meeting strength criteria increases re-injury risk by 4x. Option B is incorrect because hop test LSI alone is not sufficient; both strength and functional criteria must be met, and 78% is still below the 90% threshold anyway. Option C is incorrect — isokinetic strength testing is one of the strongest predictors of re-injury risk in ACL-reconstructed athletes and should not be dismissed.",
+        "references": [
+        "https://bjsm.bmj.com/content/50/22/1340",
+        "https://www.jospt.org/doi/10.2519/jospt.2017.7419"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 67-year-old woman with a T12 vertebral compression fracture secondary to osteoporosis is referred to PT. DXA scan reveals a T-score of -2.9 at the lumbar spine. She is currently on bisphosphonate therapy. Which exercise prescription is MOST appropriate?",
+        "correctAnswer": "B",
+        "options": {
+        "A": "High-impact aerobics and trunk flexion exercises to improve spinal bone mineral density through compression loading",
+        "B": "Weight-bearing and resistance exercises emphasizing spinal extension and hip strengthening, avoiding spinal flexion",
+        "C": "Aquatic therapy only, as land-based weight-bearing exercises are contraindicated with osteoporotic fractures",
+        "D": "Yoga incorporating forward bending and twisting postures to improve spinal flexibility and reduce fall risk"
+        },
+        "explanation": "For patients with vertebral osteoporotic fractures, spinal flexion exercises are contraindicated because they increase compressive forces on the anterior vertebral body, where bone density is already compromised, risking additional fractures. The BEST approach is extension-biased loading (back extensors), weight-bearing exercise (hip strengthening, walking), and balance training for fall prevention. Sinaki et al. demonstrated that back extensor strengthening significantly reduces fracture risk in osteoporotic women. Option A is incorrect because high-impact aerobics risk fracture, and trunk flexion directly endangers the anterior vertebral body. Option C is incorrect because aquatic therapy reduces the weight-bearing stimulus essential for bone remodeling — it has a role but is not the primary nor exclusive approach. Option D is incorrect because yoga forward bends and twisting postures involve spinal flexion and rotation, both of which are high-risk movements for vertebral fracture in osteoporosis.",
+        "references": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1868417/",
+        "https://www.osteoporosis.foundation/educational-hub/topic/exercise-recommendations"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A physical therapist is evaluating a 52-year-old male with lateral elbow pain for 4 months, diagnosed as lateral epicondylalgia. He reports pain with gripping, computer use, and resisted wrist extension. PRTEE score is 64/100. Which intervention approach has the STRONGEST evidence for this condition?",
+        "correctAnswer": "C",
+        "options": {
+        "A": "Ultrasound therapy at 1 MHz, 1.0 W/cm², continuous mode for 5 minutes combined with transverse friction massage",
+        "B": "Corticosteroid injection followed by 6 weeks of rest and gradual return to activity",
+        "C": "Progressive eccentric and heavy slow resistance (HSR) exercise targeting the wrist extensors",
+        "D": "Counterforce bracing worn during all daily activities combined with NSAID therapy"
+        },
+        "explanation": "Current evidence most strongly supports tendon loading through progressive eccentric and heavy slow resistance (HSR) exercise for lateral epicondylalgia (tennis elbow tendinopathy). Eccentric loading promotes collagen synthesis and tendon remodeling, addressing the underlying tendinopathic pathology. Systematic reviews (Coombes, Bisset, Vicenzino) confirm that exercise-based loading produces superior long-term outcomes compared to passive interventions. Option A is incorrect — ultrasound and friction massage have weak and inconsistent evidence for this condition; they do not address the tendinopathic changes. Option B is incorrect — while corticosteroid injection provides short-term pain relief, multiple RCTs show it produces inferior outcomes at 6–12 months compared to physiotherapy, with higher recurrence rates. This is a critical distinction the NPTE tests. Option D is incorrect — counterforce bracing can reduce pain during activity and may be a useful adjunct, but alone it does not address the tendinopathy and lacks strong evidence as a primary intervention.",
+        "references": [
+        "https://bjsm.bmj.com/content/49/14/892",
+        "https://www.jospt.org/doi/10.2519/jospt.2014.4910"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 72-year-old male with Parkinson's disease (Hoehn and Yahr Stage III) presents for PT. He demonstrates a festinating gait, difficulty initiating movement, and two falls in the past month. He lives alone. Cognitively he is intact. Which intervention strategy has the STRONGEST evidence for improving gait and reducing fall risk in this patient?",
+        "correctAnswer": "A",
+        "options": {
+        "A": "Rhythmic auditory stimulation (RAS) combined with treadmill training and visual cueing strategies",
+        "B": "Proprioceptive neuromuscular facilitation (PNF) diagonal patterns focusing on trunk rotation to address rigidity",
+        "C": "Aquatic therapy to reduce fear of falling and improve postural stability without fall risk",
+        "D": "Traditional strengthening and stretching exercises combined with balance platform biofeedback training"
+        },
+        "explanation": "Multiple RCTs and systematic reviews support rhythmic auditory stimulation (RAS) — using an external rhythm (metronome, music) — as highly effective for improving gait velocity, stride length, and cadence in PD. The basal ganglia dysfunction in PD impairs internal timing; external rhythmic cues bypass this deficit by engaging the supplementary motor area via cerebellar-thalamo-cortical pathways. Treadmill training also has strong evidence for gait improvement in PD. Visual cues (transverse lines on the floor) address freezing of gait. This multimodal cueing strategy directly addresses the core motor deficits. Option B is incorrect — while PNF has value, it has weak PD-specific evidence compared to cueing strategies, and rigidity responds better to dopaminergic medication and cueing than to PNF. Option C is incorrect — aquatic therapy has emerging evidence but is not considered first-line for gait and fall risk in this profile, and avoidance of land-based training removes the ecological validity needed for fall prevention. Option D is incorrect — strengthening and balance platform training are useful adjuncts but do not address the specific gait initiation and festination problems driven by basal ganglia dysfunction as effectively as cueing strategies.",
+        "references": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5524290/",
+        "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002817.pub4/full"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 24-year-old female presents 3 weeks after a concussion sustained during a soccer match. She reports persistent headache (4/10), dizziness with head movements, and difficulty reading. Cervical spine examination reveals restricted C1-C2 rotation and tenderness at the suboccipital region. BESS score is 18 errors (normal <10). King-Devick test score is significantly slower than baseline. What is the MOST appropriate initial PT intervention priority?",
+        "correctAnswer": "B",
+        "options": {
+        "A": "Vestibular rehabilitation with full canalith repositioning maneuver (Epley) for the reported dizziness",
+        "B": "Cervicogenic component treatment with suboccipital manual therapy and cervical stabilization, combined with graded aerobic exercise below symptom threshold",
+        "C": "Complete cognitive and physical rest until all symptoms resolve before initiating any rehabilitation",
+        "D": "Oculomotor and vestibular rehabilitation including gaze stabilization and VOR exercises at maximum tolerable intensity"
+        },
+        "explanation": "This patient has a mixed presentation: vestibulo-ocular dysfunction (BESS score, slow King-Devick), cervicogenic component (C1-C2 restriction, suboccipital tenderness), and persistent post-concussion symptoms. Current evidence (Leddy et al., Schneider et al.) strongly supports: (1) addressing the cervicogenic component with manual therapy to the upper cervical spine, which can independently cause dizziness and headache; and (2) sub-symptom-threshold aerobic exercise (e.g., Buffalo Treadmill Protocol), which has been shown to accelerate recovery. Option A is incorrect — the Epley maneuver treats BPPV (benign paroxysmal positional vertigo), which requires positive Dix-Hallpike testing. Post-concussion dizziness is typically of central or cervicogenic origin, not BPPV, and performing Epley without confirmation is inappropriate and could worsen symptoms. Option C is incorrect — prolonged rest (cocoon therapy) is now contraindicated based on current evidence; early graded activity produces better outcomes. Option D is incorrect — vestibular rehabilitation at maximum tolerable intensity risks symptom exacerbation; exercises should be graded and begin below symptom threshold, and without first ruling out cervicogenic causes.",
+        "references": [
+        "https://bjsm.bmj.com/content/51/11/914",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5349341/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 45-year-old male with a C6 complete spinal cord injury (AIS A) is 8 months post-injury. He uses a power wheelchair. He has intact C6 myotome function including wrist extension (5/5), but absent wrist flexion and hand intrinsics. He wants to maximize functional independence. Which functional goal is MOST realistic for this patient?",
+        "correctAnswer": "C",
+        "options": {
+        "A": "Independent ambulation with bilateral AFOs and forearm crutches for community distances",
+        "B": "Independent self-catheterization using standard urological catheters without assistive devices",
+        "C": "Independent manual wheelchair propulsion on level surfaces using tenodesis grip for pressure reliefs and ADLs",
+        "D": "Independent transfers from wheelchair to all surfaces without assistive equipment or setup assistance"
+        },
+        "explanation": "C6 AIS A (complete) injury: intact muscles include wrist extensors (ECRL/ECRB — C6), but absent wrist flexors, finger flexors, and all hand intrinsics. The key functional asset is the tenodesis grip — passive finger flexion with wrist extension allows functional grasp without active finger flexors. With C6 function, patients can: propel a manual wheelchair on level surfaces (using wrist extension–based propulsion gloves), perform pressure reliefs, and accomplish many ADLs using tenodesis and adaptive equipment. Option A is incorrect — C6 complete SCI does not have the lower extremity motor function, trunk stability, or hip flexors needed for ambulation with crutches. Ambulation is not realistic for community distances at AIS A C6. Option B is incorrect — self-catheterization requires finger pinch and dexterity from intrinsic hand muscles (C8-T1), which are absent. Adaptive catheters and equipment are required. Option D is incorrect — independent transfers to ALL surfaces without any setup assistance exceeds the realistic functional capacity of a C6 complete injury; transfers typically require some setup assistance or equipment (e.g., transfer board).",
+        "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK513226/",
+        "https://www.scireproject.com/rehabilitation-evidence/upper-limb-rehabilitation/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 68-year-old female with right-sided MCA stroke (3 months post) presents with left hemiplegia, left hemispatial neglect, and pusher syndrome. She pushes strongly to the left during sitting and transfers. Berg Balance Scale is 18/56. Which intervention is MOST effective for addressing pusher syndrome?",
+        "correctAnswer": "D",
+        "options": {
+        "A": "Facilitate weight-bearing to the left (affected) side using tactile cueing and facilitation techniques to normalize sensation",
+        "B": "Use a mirror to provide visual feedback of midline orientation during sitting activities",
+        "C": "Strengthen the right (unaffected) side to overcome the pushing and facilitate upright posture",
+        "D": "Use visual vertical cues (vertical line or door frame) to recalibrate the patient's perceived vertical and facilitate weight transfer to the right"
+        },
+        "explanation": "Pusher syndrome (contraversive pushing) results from a misperception of body orientation relative to gravity — the patient perceives the pushed (tilted to the affected side) position as upright, and resists correction toward true vertical. The intact visual system can override the faulty internal verticality signal from the damaged thalamus/parietal cortex. Visual vertical cues (vertical lines, door frames, plumb lines) provide an external reference that allows the patient to cognitively recalibrate perceived vertical and reduce pushing. This is supported by research from Karnath et al. Option A is incorrect — facilitating weight-bearing to the left (affected) side is the OPPOSITE of the desired treatment goal; weight transfer TO the right (non-affected side) is the target, as the patient already pushes left. This is a classic confusing distractor. Option B is incorrect — mirrors can worsen neglect symptoms and are generally contraindicated in hemispatial neglect; moreover, mirrors don't specifically address the verticality misperception of pusher syndrome. Option C is incorrect — strengthening the unaffected side does not address the neurological misperception of vertical that drives pushing behavior.",
+        "references": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1864981/",
+        "https://www.strokejournal.org/article/S1052-3057(12)00245-6/fulltext"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 55-year-old male with multiple sclerosis (EDSS 4.5) complains of significant fatigue that limits his rehabilitation participation. He rates his fatigue 8/10 on the Fatigue Severity Scale. Core temperature rise worsens his symptoms. His walking endurance has declined. Which intervention strategy is MOST appropriate as a priority?",
+        "correctAnswer": "A",
+        "options": {
+        "A": "Cooling strategies before and during exercise combined with energy conservation techniques and aerobic exercise training below fatigue threshold",
+        "B": "High-intensity interval training to maximize neuroplasticity and overcome fatigue-related deconditioning",
+        "C": "Complete rest during MS exacerbations and avoidance of aerobic exercise to prevent symptom worsening (Uhthoff's phenomenon)",
+        "D": "Aquatic therapy at thermoneutral temperature (35°C) to combine resistance and aerobic training in a fatigue-minimizing environment"
+        },
+        "explanation": "MS-related fatigue is multifactorial (central fatigue from demyelination, peripheral fatigue from deconditioning) and is significantly worsened by heat (Uhthoff's phenomenon — transient worsening of neurological symptoms with core temperature rise). Best practice combines: (1) pre-cooling (cooling vest, cold beverages) and cooling during exercise to blunt the temperature rise; (2) energy conservation and activity pacing education; and (3) moderate aerobic exercise, which has strong evidence for reducing fatigue in MS and improving QOL. Option B is incorrect — high-intensity interval training is inappropriate at this stage; it raises core temperature and can exacerbate fatigue via Uhthoff's phenomenon. Intensity must be regulated. Option C is incorrect — avoidance of exercise worsens deconditioning and fatigue over time; exercise is strongly recommended in MS management. The question asks about chronic fatigue management, not active exacerbation. Option D is incorrect — aquatic therapy at 35°C is problematic because that temperature is above thermoneutral (~34°C) and may actually raise core temperature. Aquatic therapy for MS should be performed in cooler water (below body temperature, typically 26–28°C) to take advantage of heat dissipation.",
+        "references": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027142/",
+        "https://www.nationalmssociety.org/NationalMSSociety/media/MSNationalFiles/Brochures/Clinical_Bulletin_Exercise.pdf"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 3-year-old child with spastic diplegic cerebral palsy (GMFCS Level III) is being evaluated. The child walks with a crouch gait pattern, bilateral knee flexion contractures of 15°, and hip adduction scissoring. The parents ask about the benefit of constraint-induced movement therapy (CIMT). What is the MOST accurate response regarding CIMT for this child?",
+        "correctAnswer": "C",
+        "options": {
+        "A": "CIMT is highly indicated for this child as it will address the crouch gait and bilateral lower extremity spasticity through forced use",
+        "B": "CIMT is contraindicated in children under 5 years of age due to neural immaturity",
+        "C": "CIMT is primarily indicated for children with hemiplegic CP and upper extremity involvement, not the bilateral lower extremity pattern seen here",
+        "D": "CIMT will be effective if combined with botulinum toxin injections to temporarily reduce lower extremity spasticity before initiating the protocol"
+        },
+        "explanation": "Constraint-Induced Movement Therapy (CIMT) is a well-established intervention for hemiplegic (unilateral) cerebral palsy affecting the upper extremity. It involves restraining the non-affected UE to force use of the affected UE, promoting neuroplasticity. This child has spastic diplegic CP (bilateral LE involvement, GMFCS III) — a completely different presentation. CIMT does not apply to bilateral LE dysfunction or crouch gait. The appropriate interventions for this child include orthotics (AFOs), targeted strengthening, botulinum toxin for focal spasticity, and gait training. Option A is incorrect — CIMT is not applicable to bilateral lower extremity presentations; crouch gait requires a completely different intervention approach (LE strengthening, orthotics, surgical consideration). Option B is incorrect — CIMT has been studied and shown effective in children as young as 18 months; age is not a contraindication. Option D is incorrect — while botulinum toxin and exercise can be combined for LE spasticity, this does not make CIMT applicable to bilateral LE diplegic CP; the core conceptual error remains.",
+        "references": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4981525/",
+        "https://aota.org/practice/children-youth/cerebral-palsy"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 62-year-old male post-CABG (day 5) is referred to cardiac rehabilitation. He is ambulating 150 feet in the hallway with supervision. His resting HR is 78 bpm, BP 122/76 mmHg, SpO2 98%. During ambulation, his HR increases to 108 bpm and he reports RPE of 13/20. He develops new onset angina at 110 bpm during a subsequent session. What is the MOST appropriate target heart rate for exercise prescription?",
+        "correctAnswer": "B",
+        "options": {
+        "A": "Keep HR below 120 bpm, as this is the standard upper limit for Phase I cardiac rehabilitation",
+        "B": "Keep HR at least 10 bpm below the ischemic threshold (110 bpm), targeting a ceiling of 100 bpm",
+        "C": "Use Karvonen formula with 40–60% HRR to calculate a target HR range for safe aerobic conditioning",
+        "D": "Maintain HR at resting rate + 20 bpm (98 bpm) at all times, per standard post-CABG protocol"
+        },
+        "explanation": "When a patient demonstrates an ischemic threshold (angina onset) at a specific HR, exercise intensity must be kept at least 10 bpm BELOW the ischemic threshold to remain in the safe aerobic zone. This patient's ischemic threshold is 110 bpm, so the safe exercise HR ceiling is ≤100 bpm. This is a fundamental principle of cardiac rehabilitation exercise prescription for patients with ischemic heart disease. Option A is incorrect — 120 bpm is not a universal standard upper limit; limits must be individualized, especially when an ischemic threshold has been identified below 120 bpm. Using 120 bpm as the ceiling here would exceed the ischemic threshold. Option C is incorrect — the Karvonen formula is appropriate for patients without a documented ischemic threshold; when an ischemic threshold is present, it takes precedence over calculated HRR targets. Option D is incorrect — resting HR + 20 bpm (98 bpm) is a common guideline for post-operative patients who have NOT had exercise testing, but since this patient has now demonstrated an ischemic threshold, that data supersedes the default formula.",
+        "references": [
+        "https://www.aacvpr.org/Portals/0/Resources/Guidelines/guidelines-for-cardiac-rehabilitation-programs-5th-edition.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5490274/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 70-year-old female with moderate COPD (FEV1/FVC = 0.62, FEV1 = 55% predicted) presents for pulmonary rehabilitation. She desaturates to 87% SpO2 during the 6-minute walk test (6MWT) and walks 280 meters. Resting SpO2 is 94%. She is not currently on supplemental oxygen. What is the MOST appropriate action?",
+        "correctAnswer": "A",
+        "options": {
+        "A": "Notify the referring physician of the exercise-induced desaturation and recommend evaluation for supplemental oxygen prescription before continuing rehabilitation",
+        "B": "Proceed with pulmonary rehabilitation at reduced intensity to keep SpO2 above 85% during exercise",
+        "C": "Administer supplemental oxygen at 2 L/min via nasal cannula during exercise sessions without physician notification, as this is within PT scope of practice",
+        "D": "Discontinue pulmonary rehabilitation until SpO2 at rest improves above 95% with pharmacological management"
+        },
+        "explanation": "Exercise-induced desaturation below 88% SpO2 (this patient reached 87%) is clinically significant and meets the threshold for evaluation for supplemental oxygen during exercise. However, prescribing supplemental oxygen is a physician's domain — the physical therapist's appropriate action is to document the finding and notify/refer to the physician for evaluation and possible prescription. The PT must not independently prescribe or administer supplemental oxygen (beyond emergency situations) without a physician order. Option B is incorrect — continuing to exercise with SpO2 at 85% is below the safe minimum (88%) and risks cardiac arrhythmia, pulmonary hypertension exacerbation, and other hypoxia-related complications. Option C is incorrect — while a PT may administer supplemental oxygen under a standing order or emergency, initiating oxygen therapy without a physician's order and without notification falls outside appropriate scope and professional responsibility. Option D is incorrect — pulmonary rehabilitation should not be discontinued; it is beneficial for COPD. The appropriate step is physician notification for oxygen evaluation, not program cessation.",
+        "references": [
+        "https://www.atsjournals.org/doi/full/10.1164/rccm.202006-2382ST",
+        "https://www.aacvpr.org/Portals/0/Resources/Guidelines/Pulmonary_Rehab_Guidelines.pdf"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 55-year-old male with heart failure (EF = 30%, NYHA Class III) is enrolled in outpatient cardiac rehabilitation. During a session, he reports sudden onset of dizziness and palpitations. His BP drops from 118/74 to 88/58 mmHg. His HR monitor shows an irregular rhythm at 145 bpm. He remains conscious and oriented. What is the MOST appropriate IMMEDIATE action?",
+        "correctAnswer": "C",
+        "options": {
+        "A": "Have the patient perform Valsalva maneuver to attempt vagal conversion of the dysrhythmia",
+        "B": "Administer aspirin 325 mg orally and prepare the AED in case the rhythm deteriorates to VF",
+        "C": "Stop exercise, have the patient sit or lie down, activate emergency medical services (EMS), monitor vitals, and prepare the AED",
+        "D": "Continue monitoring for 5 minutes; if BP does not recover to above 90/60 mmHg, then activate EMS"
+        },
+        "explanation": "This patient is showing signs of hemodynamic instability — a significant BP drop (hypotension: systolic 88 mmHg), rapid irregular rhythm (likely atrial fibrillation with rapid ventricular response or ventricular tachycardia), dizziness, and palpitations in a patient with severely reduced EF (30%). This constitutes a cardiac emergency requiring immediate EMS activation. The PT must stop exercise, ensure patient safety (sit/lie down to prevent fall), activate 911, continuously monitor, and have the AED ready. Option A is incorrect — Valsalva is used for supraventricular tachycardia (SVT) in a hemodynamically STABLE patient. This patient is hemodynamically unstable; attempting Valsalva is inappropriate and delays emergency response. Option B is incorrect — aspirin is indicated for suspected MI (ACS presentation). This presentation suggests a dysrhythmia, not ACS. Aspirin would not be the priority action here, and AED preparation alone without EMS activation is insufficient. Option D is incorrect — a 5-minute wait with active hemodynamic compromise is dangerous and violates emergency protocols. A systolic BP of 88 mmHg with dysrhythmia in a patient with EF 30% requires IMMEDIATE EMS activation.",
+        "references": [
+        "https://www.aacvpr.org/Portals/0/Resources/Guidelines/guidelines-for-cardiac-rehabilitation-programs-5th-edition.pdf",
+        "https://www.heart.org/en/health-topics/cardiac-rehab"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A PT is treating a 48-year-old male with bilateral pneumonia recovering in the ICU, currently on mechanical ventilation (FiO2 0.55, PEEP 8 cmH2O). The physician orders early mobility. The patient is alert, follows commands, and has a Richmond Agitation-Sedation Scale (RASS) score of -1. HR is 92 bpm, BP 108/68 mmHg (on low-dose vasopressin), SpO2 94%, and RR 22. Which activity level is MOST appropriate to initiate?",
+        "correctAnswer": "B",
+        "options": {
+        "A": "Passive range of motion only, as the patient is on vasopressors and mechanical ventilation, making any active exercise contraindicated",
+        "B": "Active assisted exercises in bed and sitting at the edge of the bed with monitoring, as stability criteria are met",
+        "C": "Ambulation with the ventilator to the hallway, as the patient is alert and following commands, which supersedes other considerations",
+        "D": "Defer all mobility until the patient is weaned from mechanical ventilation and vasopressors are discontinued"
+        },
+        "explanation": "Early mobility in mechanically ventilated ICU patients is safe and beneficial (TEAM trial, NEJM 2022; multiple systematic reviews). ICU mobility safety criteria (per established protocols) include: RASS -2 to +2 (this patient is -1 ✓), HR 40-130 bpm (92 bpm ✓), MAP ≥65 mmHg (likely met ✓), SpO2 ≥88% (94% ✓), FiO2 ≤0.6 (0.55 ✓), PEEP ≤10 (8 ✓). Low-dose vasopressor is a RELATIVE but not absolute contraindication to mobility — most protocols allow mobility with low-dose single vasopressor if hemodynamics are stable. Sitting at the edge of bed is appropriate. Option A is incorrect — low-dose vasopressor use does not automatically contraindicate active exercise in an alert, hemodynamically stable patient; current ICU mobility guidelines support this. Option C is incorrect — while the patient is alert, immediate hallway ambulation on a ventilator is an advanced mobility level and would skip the hierarchical progression (bed exercises → edge of bed → standing → ambulation); it also requires team coordination and is not the immediate 'initiation' step. Option D is incorrect — waiting for ventilator wean before mobility significantly increases ICU-acquired weakness, deconditioning, and prolonged hospital stay; early mobility is a standard of care.",
+        "references": [
+        "https://www.nejm.org/doi/full/10.1056/NEJMoa2205940",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5501239/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 40-year-old male with chronic low back pain (>12 weeks) and imaging showing L4-L5 disc herniation with mild L5 nerve root compression presents to PT. He has 4/5 weakness in great toe extension and decreased sensation in the first web space. SLR is positive at 45° on the left. Oswestry Disability Index is 42%. He has tried NSAIDs without significant relief. Which intervention has the STRONGEST evidence as the initial PT approach?",
+        "correctAnswer": "D",
+        "options": {
+        "A": "Lumbar traction at 50% body weight for 20 minutes to decompress the disc herniation and reduce nerve root compression",
+        "B": "McKenzie extension exercises exclusively, as disc herniations always respond to directional preference toward extension",
+        "C": "Core stabilization exercises focusing on transversus abdominis and multifidus to reduce segmental instability",
+        "D": "Directional preference assessment (McKenzie method) to identify the movement direction that centralizes symptoms, combined with neurodynamic mobilization",
+        "explanation": "For lumbar disc herniation with radiculopathy, the McKenzie method's directional preference (DP) assessment — identifying whether flexion, extension, or lateral movements centralize radicular symptoms — is both diagnostically and therapeutically superior to assuming extension works for all herniations. Approximately 70% of patients show extension DP, but some show flexion or lateral DP. Neurodynamic mobilization (sciatic nerve slider/tensioner techniques) has evidence for reducing neural mechanosensitivity in radiculopathy. Option A is incorrect — lumbar traction for disc herniation has been consistently shown to be no more effective than sham traction in high-quality RCTs (Cochrane reviews); it is not a recommended first-line intervention. Option B is incorrect — the key word 'exclusively' and the claim that disc herniations 'always' respond to extension are both clinically inaccurate; DP must be assessed individually, and not all disc herniations show extension preference. Option C is incorrect — while core stabilization has evidence for chronic LBP, it does not specifically address the active radiculopathy (neurological deficits, positive SLR) that is the primary clinical problem in this case."
+        },
+        "explanation": "For lumbar disc herniation with radiculopathy, the McKenzie directional preference (DP) assessment identifies the movement direction that centralizes radicular symptoms — which is both diagnostic and therapeutic. Approximately 70% show extension DP, but this must be verified individually. Neurodynamic mobilization techniques reduce neural mechanosensitivity along the sciatic nerve. Centralizing symptoms is a strong positive prognostic indicator. Option A is incorrect — lumbar traction has Cochrane-level evidence showing no superiority over sham; it is not recommended as first-line. Option B is incorrect — 'exclusively' extension and 'always' are clinical errors; DP varies by patient and must be assessed. Option C is incorrect — core stabilization addresses instability-pattern LBP; it does not directly address active radiculopathy with neurological deficit and is not the strongest first priority here.",
+        "references": [
+        "https://www.jospt.org/doi/10.2519/jospt.2021.0304",
+        "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003010.pub6/full"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
+        "difficulty": "Hard",
+        "questionText": "A 16-year-old female gymnast presents with chronic bilateral anterior ankle pain and limited dorsiflexion (right 8°, left 10°, knee straight). She reports pain with deep squats and landings. Impingement sign is positive with end-range plantar flexion. X-ray shows os trigonum bilaterally. Anterior drawer and talar tilt tests are negative. What is the PRIMARY structure responsible for her limited dorsiflexion?",
+        "correctAnswer": "A",
+        "options": {
+        "A": "Posterior ankle impingement from the os trigonum and posterior talar compression restricting talocrural dorsiflexion",
+        "B": "Anterior tibiotalar capsular restriction limiting anterior glide of the talus under the tibia",
+        "C": "Gastrocnemius-soleus complex tightness causing equinus deformity and secondary dorsiflexion restriction",
+        "D": "Subtalar joint hypomobility causing compensatory limitation in talocrural range of motion"
+        },
+        "explanation": "This is a subtly confusing question. The patient has confirmed os trigonum syndrome (posterior ankle impingement) with pain at end-range plantar flexion — however, the question asks about DORSIFLEXION limitation. In posterior impingement/os trigonum syndrome, the posterior bony block (os trigonum/posterior talar process) creates a cam effect that limits dorsiflexion indirectly by reducing posterior talar glide. The posterior capsule and posterior bony block restrict the posterior movement of the talus needed for full dorsiflexion. The impingement sign is typically positive in plantar flexion but the anatomical restriction of the posterior structures also limits dorsiflexion ROM. However, given <10° of dorsiflexion bilaterally in a 16-year-old with the described posterior pathology, the posterior bony and capsular restriction (os trigonum) is the primary structural cause. Option B is incorrect — anterior tibiotalar capsular restriction restricts dorsiflexion through a different mechanism; while possible, it is not supported by the clinical picture (positive posterior impingement sign, confirmed os trigonum). Option C is incorrect — while gastrocnemius tightness can limit dorsiflexion, the specific posterior impingement diagnosis and X-ray findings point to bony/posterior capsular restriction as primary. Gastrocnemius tightness would still permit >10° with knee flexed. Option D is incorrect — subtalar hypomobility affects eversion/inversion more than pure dorsiflexion and is not the primary finding here.",
+        "references": [
+        "https://www.jospt.org/doi/10.2519/jospt.2016.0301",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4127517/"
+        ]
+    },
+    {
+        "bodySystem": "Neuromuscular",
+        "difficulty": "Hard",
+        "questionText": "A 70-year-old male 6 months post-right hemisphere stroke presents with left hemineglect, left hemiparesis (UE more than LE), anosognosia, and impulsive behavior. He attempts to transfer independently despite being at high fall risk. His wife asks about prognosis for functional recovery. Which statement MOST accurately reflects the evidence on prognosis?",
+        "correctAnswer": "C",
+        "options": {
+        "A": "Right hemisphere strokes have better functional prognosis than left hemisphere strokes because language is preserved",
+        "B": "Anosognosia resolves completely within 3 months post-stroke in the majority of patients and will not affect long-term functional outcomes",
+        "C": "Hemispatial neglect and anosognosia are associated with poorer functional outcomes and are independent predictors of disability at 1 year post-stroke",
+        "D": "At 6 months post-stroke, neurological recovery is complete and further functional gains are limited to compensation strategies only"
+        },
+        "explanation": "Hemispatial neglect is one of the strongest independent predictors of poor functional outcome after stroke, including ADL dependence, reduced mobility, prolonged hospitalization, and lower rates of community discharge. Anosognosia (lack of awareness of deficits) compounds this by reducing rehabilitation participation, increasing fall risk (as seen clinically), and impairing safety judgment. Both conditions at 6 months post-stroke indicate significant ongoing functional challenges. Option A is incorrect — the idea that right hemisphere strokes have better prognosis due to preserved language is a common misconception. Right hemisphere strokes produce neglect, anosognosia, visuospatial deficits, and impulsivity, which are major functional barriers; prognosis is not clearly better overall. Option B is incorrect — anosognosia can persist well beyond 3 months and, when present at 6 months, is associated with poor long-term outcomes; it does NOT reliably resolve completely in most patients. Option D is incorrect — while the rate of neurological recovery is greatest in the first 3–6 months, neuroplasticity and functional gains can continue for years, especially with targeted rehabilitation. The statement that recovery is 'complete' at 6 months is clinically inaccurate and outdated.",
+        "references": [
+        "https://www.strokejournal.org/article/S1052-3057(05)00208-5/fulltext",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2826218/"
+        ]
+    },
+    {
+        "bodySystem": "Cardiopulmonary",
+        "difficulty": "Hard",
+        "questionText": "A 58-year-old female with newly diagnosed hypertrophic obstructive cardiomyopathy (HOCM) is referred to PT for management of her deconditioning. She is asymptomatic at rest with a resting BP of 132/84 mmHg. Her cardiologist has cleared her for light activity. Which exercise prescription is MOST appropriate?",
+        "correctAnswer": "B",
+        "options": {
+        "A": "High-intensity resistance training at 80% 1RM to maximize cardiac output and reverse deconditioning efficiently",
+        "B": "Low-to-moderate intensity aerobic exercise (RPE 11-13/20) with avoidance of isometric/Valsalva-inducing exercises and dehydration",
+        "C": "Vigorous aerobic interval training alternating between 85% and 50% HRmax to maximize cardiovascular adaptation",
+        "D": "Competitive sport participation is acceptable given the cardiologist's clearance for light activity"
+        },
+        "explanation": "HOCM is characterized by dynamic left ventricular outflow tract (LVOT) obstruction that worsens with decreased preload, increased contractility, or decreased afterload. Exercise prescription must avoid: (1) high-intensity exercise that reduces preload through vasodilation; (2) isometric/heavy resistance exercise with Valsalva maneuver, which dramatically reduces preload and increases intrathoracic pressure; (3) dehydration (reduces preload); (4) competitive sports (risk of sudden cardiac death). Low-to-moderate aerobic exercise at RPE 11-13 is appropriate and beneficial for this population. Option A is incorrect — high-intensity resistance training with Valsalva significantly worsens LVOT obstruction by reducing preload and increasing contractility; this is potentially life-threatening in HOCM. Option C is incorrect — vigorous aerobic interval training at 85% HRmax is above the recommended intensity for HOCM; high-intensity intervals cause sympathetic surges and vasodilation that worsen dynamic obstruction and carry SCD risk. Option D is incorrect — competitive sport participation is contraindicated in HOCM regardless of cardiologist clearance for 'light activity'; HOCM is the most common cause of sudden cardiac death in young competitive athletes, and this applies across age groups.",
+        "references": [
+        "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026550/"
+        ]
+    },
+    {
+        "bodySystem": "Musculoskeletal",
         "difficulty": "Easy",
         "questionText": "During a gait analysis, a therapist observes a genu recurvatum. This pattern is most commonly associated with which of the following causes?",
         "correctAnswer": "C",
